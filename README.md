@@ -122,6 +122,14 @@ AAAI, 2020.
 [[Github](https://github.com/lupantech/MathVista)]
 [[Datasets](https://huggingface.co/datasets/AI4Math/MathVista)]
 
+### Instruction-tuning
+
+**Followbench: A multi-level fine-grained constraints following benchmark for large language models.**<br>
+*Y Jiang, Y Wang, X Zeng, W Zhong, L Li, F Mi, L Shang, X Jiang, Q Liu, W Wang.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.20410)]
+[[Github](https://github.com/YJiangcm/FollowBench)]
+
 ## Industry
 
 ### Finance
