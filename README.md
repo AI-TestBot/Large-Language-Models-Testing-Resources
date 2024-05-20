@@ -122,7 +122,12 @@ AAAI, 2020.
 [[Github](https://github.com/lupantech/MathVista)]
 [[Datasets](https://huggingface.co/datasets/AI4Math/MathVista)]
 
-### Instruction-tuning
+**CausalBench: A Comprehensive Benchmark for Causal Learning Capability of Large Language Models.**<br>
+*Y Zhou, X Wu, B Huang, J Wu, L Feng, KC Tan.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.06349)]
+
+### Instruction-Following
 
 **Followbench: A multi-level fine-grained constraints following benchmark for large language models.**<br>
 *Y Jiang, Y Wang, X Zeng, W Zhong, L Li, F Mi, L Shang, X Jiang, Q Liu, W Wang.*<br>
