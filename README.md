@@ -352,7 +352,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2308.04945.pdf)]
 [[Github](https://github.com/qcri/LLMeBench/)]
 
-# Multi-Modals-Models-(MMMs)-Evaluation-Survey
+# Vision-Languages-Models-(VLMs)-Evaluation-Survey
 
 ## Review
 
