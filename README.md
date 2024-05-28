@@ -62,10 +62,9 @@ Advances in Neural Information Processing Systems, 2024.
 *北京智源研究院*<br>
 [[HomePage](https://flageval.baai.ac.cn/#/home)]
 
-**SuperCLUE**<br>
-*中文语言理解测评基准*<br>
-*ChineseCLUE*<br>
-[[HomePage](https://www.cluebenchmarks.com/index.html)]
+**SuperBench**<br>
+*大模型综合能力评测框架*<br>
+*清华大学-基础模型研究中心*<br>
 
 **CLiB**<br>
 *chinese-llm-benchmark.*<br>
@@ -80,7 +79,22 @@ ACM Transactions on Intelligent Systems and Technology, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.03109.pdf)]
 [[Github](https://github.com/MLGroupJLU/LLM-eval-survey)]
 
+**Evaluating large language models: A comprehensive survey.**<br>
+*Z Guo, R Jin, C Liu, Y Huang, D Shi, L Yu, Y Liu, J Li, B Xiong, D Xiong.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.19736)]
+[[Github](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)]
+
 ## General
+
+### Comprehensive
+
+**Holistic evaluation of language models.**<br>
+*R Bommasani, P Liang, T Lee, et al.*<br>
+ArXiv, 2023.
+[[Homepage](https://crfm.stanford.edu/helm/lite/latest/)]
+[[ArXiv](https://arxiv.org/pdf/2211.09110)]
+[[Github](https://github.com/stanford-crfm/helm)]
 
 ### Understanding
 
@@ -97,7 +111,6 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.06574)]
 [[Github](https://github.com/yuting-wei/AC-EVAL)]
 
-
 ### Generation
 
 **Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.**<br>
@@ -108,32 +121,32 @@ Advances in Neural Information Processing Systems, 2024.
 
 ### Reasoning
 
-**Measuring Mathematical Problem Solving With the MATH Dataset.**<br>
+**[Math]Measuring Mathematical Problem Solving With the MATH Dataset.**<br>
 *Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, Jacob Steinhardt.*<br>
 Nips, 2021.
 [[ArXiv](https://arxiv.org/abs/2103.03874)]
 [[Datasets](https://paperswithcode.com/task/math-word-problem-solving)]
 
-**Deep Neural Solver for Math Word Problems.**<br>
+**[Math]Deep Neural Solver for Math Word Problems.**<br>
 *Yan Wang, Xiaojiang Liu, Shuming Shi.*<br>
 EMNLP, 2017.
 [[Paper](https://aclanthology.org/D17-1088/)]
 [[Datasets](https://paperswithcode.com/task/math-word-problem-solving)]
 
-**Training verifiers to solve math word problems.**<br>
+**[Math]Training verifiers to solve math word problems.**<br>
 *Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman.*<br>
 ArXiv, 2021.
 [[ArXiv](https://arxiv.org/abs/2110.14168)]
 [[Github](https://github.com/openai/grade_x005f_x0002_school-math)]
 [[Datasets](https://huggingface.co/datasets/gsm8k)]
 
-**CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?.**<br>
+**[Math]CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?.**<br>
 *Tianwen Wei, Jian Luan, Wei Liu, Shuang Dong, Bin Wang.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2306.16636)]
 [[Datasets](https://huggingface.co/datasets/weitianwen/cmath)]
 
-**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts.**<br>
+**[Math]MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts.**<br>
 *Pan Lu, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, Jianfeng Gao.*<br>
 AAAI, 2020.
 [[ArXiv](https://arxiv.org/abs/2310.01386)]
@@ -144,6 +157,22 @@ AAAI, 2020.
 *Y Zhou, X Wu, B Huang, J Wu, L Feng, KC Tan.*<br>
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2404.06349)]
+
+### Knowledge
+
+**KoLA: Carefully Benchmarking World Knowledge of Large Language Models.**<br>
+*J Yu, X Wang, S Tu, S Cao, D Zhang-Li, X Lv, H Peng, Z Yao, X Zhang, H Li, C Li, Z Zhang, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2306.09296)]
+[[Homepages](http://103.238.162.37:31622/)]
+
+### Discipline
+
+**Evaluating the performance of large language models on gaokao benchmark.**<br>
+*X Zhang, C Li, Y Zong, Z Ying, L He, X Qiu.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2305.12474)]
+[[Github](https://github.com/OpenLMLab/GAOKAO-Bench)]
 
 ### Reliable
 
