@@ -13,6 +13,12 @@
 
 ## Group
 
+**The Knowledge Computing Lab**<br>
+*叶蔚*<br>
+*北京大学*<br>
+[[HomePage](http://se.pku.edu.cn/kcl/weiye/)]
+[[Google Scholar](https://so2.cljtscd.com/citations?hl=zh-CN&user=RgLGFMIAAAAJ&view_op=list_works&sortby=pubdate)]
+
 **天津大学自然语言处理实验室(tjunlp-lab)**<br>
 *熊德意*<br>
 *天津大学*<br>
@@ -46,19 +52,19 @@ Advances in Neural Information Processing Systems, 2024.
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fc47800ee5b30b8777fdd30abcaaf3b-Paper-Conference.pdf)]
 
 **OpenCompass**<br>
-*司南大模型评测平台.*<br>
-*上海人工智能实验室.*<br>
+*司南大模型评测平台*<br>
+*上海人工智能实验室*<br>
 [[HomePage](https://opencompass.org.cn/home)]
 [[Github](https://opencompass.org.cn/home)]
 
 **FlagEval**<br>
-*天秤大模型评测平台.*<br>
-*北京智源研究院.*<br>
+*天秤大模型评测平台*<br>
+*北京智源研究院*<br>
 [[HomePage](https://flageval.baai.ac.cn/#/home)]
 
 **SuperCLUE**<br>
-*中文语言理解测评基准.*<br>
-*ChineseCLUE.*<br>
+*中文语言理解测评基准*<br>
+*ChineseCLUE*<br>
 [[HomePage](https://www.cluebenchmarks.com/index.html)]
 
 **CLiB**<br>
@@ -407,8 +413,8 @@ medRxiv, 2023.
 [[ArXiv](https://www.medrxiv.org/content/medrxiv/early/2023/12/30/2023.12.22.23300458.full.pdf)]
 
 **OpenEval**<br>
-*开放式大模型综合评估.*<br>
-*天津大学, 2023.*<br>
+*开放式大模型综合评估*<br>
+*天津大学, 2023*<br>
 [[HomePage](http://openeval.org.cn/)]
 
 # Vision-Languages-Models-(VLMs)-Testing-Survey
