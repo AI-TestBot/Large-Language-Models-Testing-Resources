@@ -342,7 +342,6 @@ ICLR, 2024.
 
 **LLMEval: A Preliminary Study on How to Evaluate Large Language Models.**<br>
 *Y Zhang, M Zhang, H Yuan, S Liu, Y Shi, T Gui, Q Zhang, X Huang.*<br>
-*Fudan University.*<br>
 Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
 [[HomePage](http://llmeval.com/index)]
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
@@ -370,17 +369,47 @@ ArXiv, 2023.
 [[HomePage](https://opencompass.org.cn/home)]
 [[Github](https://opencompass.org.cn/home)]
 
-**OpenEval**<br>
-*开放式大模型综合评估.*<br>
-*天津大学, 2023.*<br>
-[[HomePage](http://openeval.org.cn/)]
-[[Github](https://opencompass.org.cn/home)]
+**Cleva: Chinese language models evaluation platform.**<br>
+*Y Li, J Zhao, D Zheng, ZY Hu, Z Chen, X Su, Y Huang, S Huang, D Lin, MR Lyu, L Wang.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.04813)]
+
+**UltraEval**<br>
+**UltraEval: A Lightweight Platform for Flexible and Comprehensive Evaluation for LLMs.**<br>
+*C He, R Luo, X Han, Z Liu, M Sun, and et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.07584)]
+[[Github](https://github.com/OpenBMB/UltraEval)]
+
+**GPT-Fathom**<br>
+**GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond.**<br>
+*S Zheng, Y Zhang, Y Zhu, C **, P Gao, X Zhou, KCC Chang.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.16583)]
+[[Github](https://github.com/GPT-Fathom/GPT-Fathom)]
+
+**Catwalk**<br>
+**Catwalk: A Unified Language Model Evaluation Framework for Many Datasets.**<br>
+*D Groeneveld, A Awadalla, I Beltagy, A Bhagia, I Magnusson, H Peng, O Tafjord, P Walsh, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2312.10253)]
+[[Github](https://github.com/allenai/catwalk)]
 
 **LLMeBench: A Flexible Framework for Accelerating LLMs Benchmarking.**<br>
 *F Dalvi, M Hasanain, S Boughorbel, B Mousi, S Abdaljalil, N Nazar, A Abdelali, and et al.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2308.04945.pdf)]
 [[Github](https://github.com/qcri/LLMeBench/)]
+
+**HumanELY: Human evaluation of LLM yield, using a novel web-based evaluation tool.**<br>
+*R Awasthi, S Mishra, D Mahapatra, A Khanna, K Maheshwari, J Cywinski, F Papay, P Mathur.*<br>
+medRxiv, 2023.
+[[ArXiv](https://www.medrxiv.org/content/medrxiv/early/2023/12/30/2023.12.22.23300458.full.pdf)]
+
+**OpenEval**<br>
+*开放式大模型综合评估.*<br>
+*天津大学, 2023.*<br>
+[[HomePage](http://openeval.org.cn/)]
 
 # Vision-Languages-Models-(VLMs)-Testing-Survey
 
@@ -401,4 +430,3 @@ ArXiv, 2024.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.06281.pdf)]
 [[Github](https://mmbench.opencompass.org.cn/home)]
-
