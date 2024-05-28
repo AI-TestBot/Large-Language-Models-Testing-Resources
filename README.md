@@ -91,6 +91,13 @@ ICLR, 2021.
 [[Github](https://github.com/hendrycks/test)]
 [[Datasets](https://huggingface.co/datasets/tasksource/mmlu)]
 
+**AC-EVAL: Evaluating Ancient Chinese Language Understanding in Large Language Models.**<br>
+*Y Wei, Y Xu, X Wei, S Yang, Y Zhu, Y Li, D Liu, B Wu.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.06574)]
+[[Github](https://github.com/yuting-wei/AC-EVAL)]
+
+
 ### Generation
 
 **Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.**<br>
@@ -137,6 +144,13 @@ AAAI, 2020.
 *Y Zhou, X Wu, B Huang, J Wu, L Feng, KC Tan.*<br>
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2404.06349)]
+
+### Reliable
+
+**[Hallucination]Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models.**<br>
+*C Jiang, W Ye, M Dong, H Jia, H Xu, M Yan, J Zhang, S Zhang.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.15721)]
 
 ### Long Context
 
@@ -332,6 +346,14 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.12983.pdf?trk=public_post_comment-text)]
 [[Datasets](https://huggingface.co/datasets/gaia-benchmark/GAIA)]
 
+### Data Analysis
+
+**Tapilot-Crossing: Benchmarking and Evolving LLMs Towards Interactive Data Analysis Agents.**<br>
+*J Li, N Huo, Y Gao, J Shi, Y Zhao, G Qu, Y Wu, C Ma, JG Lou, R Cheng.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.05307)]
+[[Github](https://tapilot-crossing.github.io/)]
+
 ## Security
 
 ### Content
@@ -426,6 +448,13 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2309.16583)]
 [[Github](https://github.com/GPT-Fathom/GPT-Fathom)]
 
+**FreeEval**<br>
+**FreeEval: A Modular Framework for Trustworthy and Efficient Evaluation of Large Language Models.**<br>
+*Z Yu, C Gao, W Yao, Y Wang, Z Zeng, W Ye, J Wang, Y Zhang, S Zhang.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.06003)]
+[[Github](https://github.com/WisdomShell/FreeEval)]
+
 **Catwalk**<br>
 **Catwalk: A Unified Language Model Evaluation Framework for Many Datasets.**<br>
 *D Groeneveld, A Awadalla, I Beltagy, A Bhagia, I Magnusson, H Peng, O Tafjord, P Walsh, et al.*<br>
@@ -449,6 +478,16 @@ medRxiv, 2023.
 *天津大学, 2023*<br>
 [[HomePage](http://openeval.org.cn/)]
 
+## Challenges
+
+### Contamination
+
+**KIEval: A Knowledge-grounded Interactive Evaluation Framework for Large Language Models.**<br>
+*Z Yu, C Gao, W Yao, Y Wang, W Ye, J Wang, X Xie, Y Zhang, S Zhang.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.15043)]
+[[Github](https://github.com/zhuohaoyu/KIEval)]
+
 # Vision-Languages-Models-(VLMs)-Testing-Survey
 
 ## Review
@@ -463,8 +502,8 @@ ArXiv, 2024.
 
 ### Comprehensive
 
-**Mmbench: Is your multi-modal model an all-around player?**<br>
-*Y Liu, H Duan, Y Zhang, B Li, S Zhang, W Zhao, Y Yuan, J Wang, C He, Z Liu, K Chen, D Lin.*<br>
+**Mmbench: Is your multi-modal model an all-around player?*<br>
+*Y Liu, H Duan, Y Zhang, B Li, S Zhang, W Zhao, Y Yuan, J Wang, C He, Z Liu, K Chen, D Lin.**<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.06281.pdf)]
 [[Github](https://mmbench.opencompass.org.cn/home)]
