@@ -5,11 +5,11 @@
 *NeurIPS (Datasets and Benchmarks Track)*<br>
 [[HomePage](https://dblp.uni-trier.de/db/conf/nips/neurips2023.html)]
 
-## Business
+## Organization
 
-**Patronus AI**<br>
-*人工智能模型评估公司, 美国.*<br>
-[[HomePage](https://www.patronus.ai/)]
+**LMSYS Org**<br>
+*UC Berkeley*<br>
+[[HomePage](https://lmsys.org/)]
 
 ## Group
 
@@ -20,20 +20,23 @@
 [[HomePage](https://dyxiong.github.io/)]
 [[Github](https://github.com/tjunlp-lab)]
 
+## Business
+
+**Patronus AI**<br>
+*人工智能模型评估公司, 美国.*<br>
+[[HomePage](https://www.patronus.ai/)]
+
 ## Leaderboard
 
 **Open LLM Leaderboard**<br>
 *Huggingface.*<br>
 [[HomePage](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)]
 
-**Chatbot Arena**<br>
-**MT-Bench**<br>
-**Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.**<br>
-*L Zheng, WL Chiang, Y Sheng, S Zhuang, Z Wu, Y Zhuang, Z Lin, Z Li, D Li, E **ng, H Zhang, et al.*<br>
-*LMSYS Org.*<br>
-Advances in Neural Information Processing Systems, 2024.
+**Chatbot arena: An open platform for evaluating llms by human preference.**<br>
+*WL Chiang, L Zheng, Y Sheng, AN Angelopoulos, T Li, D Li, H Zhang, B Zhu, M Jordan, et al.*<br>
+ArXiv, 2024.
 [[HomePage](https://chat.lmsys.org/)]
-[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf)]
+[[ArXiv](https://arxiv.org/pdf/2403.04132)]
 
 **AlpacaEval**<br>
 **AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback.**<br>
@@ -42,27 +45,24 @@ Advances in Neural Information Processing Systems, 2024.
 [[HomePage](https://tatsu-lab.github.io/alpaca_eval/)]
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fc47800ee5b30b8777fdd30abcaaf3b-Paper-Conference.pdf)]
 
-**SuperCLUE (中文语言理解测评基准)**<br>
+**SuperCLUE**<br>
+*中文语言理解测评基准.*<br>
 *ChineseCLUE.*<br>
 [[HomePage](https://www.cluebenchmarks.com/index.html)]
 
-**OpenCompass (司南)**<br>
+**OpenCompass**<br>
+*司南大模型评测平台.*<br>
 *上海人工智能实验室.*<br>
 [[HomePage](https://opencompass.org.cn/home)]
 [[Github](https://opencompass.org.cn/home)]
 
-**FlagEval (天秤大模型评测平台)**<br>
+**FlagEval**<br>
+*天秤大模型评测平台.*<br>
 *北京智源研究院.*<br>
 [[HomePage](https://flageval.baai.ac.cn/#/home)]
 
 **LLMEval**<br>
-**LLMEval: A Preliminary Study on How to Evaluate Large Language Models.**<br>
-*Y Zhang, M Zhang, H Yuan, S Liu, Y Shi, T Gui, Q Zhang, X Huang.*<br>
-*Fudan University.*<br>
-Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
-[[HomePage](http://llmeval.com/index)]
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
-[[Github](https://github.com/llmeval/)]
+
 
 **CLiB**<br>
 *chinese-llm-benchmark.*<br>
@@ -87,6 +87,14 @@ ICLR, 2021.
 [[ArXiv](https://arxiv.org/pdf/2009.03300.pdf?trk=public_post_comment-text)]
 [[Github](https://github.com/hendrycks/test)]
 [[Datasets](https://huggingface.co/datasets/tasksource/mmlu)]
+
+### Generation
+
+**Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.**<br>
+*L Zheng, WL Chiang, Y Sheng, S Zhuang, Z Wu, Y Zhuang, Z Lin, Z Li, D Li, E **ng, H Zhang, et al.*<br>
+Advances in Neural Information Processing Systems, 2024.
+[[HomePage](https://chat.lmsys.org/)]
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf)]
 
 ### Reasoning
 
@@ -257,7 +265,6 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2310.01386)]
 [[Github](https://github.com/CUHK-ARISE/PsychoBench)]
 
-
 ### Law
 
 **JEC-QA: A Legal-Domain Question Answering Dataset.**<br>
@@ -324,17 +331,27 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.00286.pdf)]
 [[Github](https://github.com/whitzard-ai/jade-db)]
 
-## Testing Datasets
+## Data Engineering
 
-### Data Generation
+### Generation
 
 **DyVal: Graph-informed Dynamic Evaluation of Large Language Models.**<br>
 *K Zhu, J Chen, J Wang, NZ Gong, D Yang, X Xie.*<br>
 ICLR, 2024.
 
-## Testing Methods
+## Methods
 
-### Result Evaluation
+### Sampling
+
+**LLMEval: A Preliminary Study on How to Evaluate Large Language Models.**<br>
+*Y Zhang, M Zhang, H Yuan, S Liu, Y Shi, T Gui, Q Zhang, X Huang.*<br>
+*Fudan University.*<br>
+Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+[[HomePage](http://llmeval.com/index)]
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
+[[Github](https://github.com/llmeval/)]
+
+### Judge
 
 **JudgeLM: Fine-tuned Large Language Models are Scalable Judges.**<br>
 *L Zhu, X Wang, X Wang.*<br>
@@ -348,7 +365,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.18702.pdf)]
 [[Github](https://github.com/thu-coai/CritiqueLLM)]
 
-## Testing Tools
+## Tools
 
 **OpenCompass (司南)**<br>
 *上海人工智能实验室, 2023.*<br>
