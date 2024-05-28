@@ -138,7 +138,15 @@ AAAI, 2020.
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2404.06349)]
 
-### Instruction-Following
+### Long Context
+
+**CLongEval: A Chinese Benchmark for Evaluating Long-Context Large Language Models.**<br>
+*Z Huang, J Li, S Huang, W Zhong, I King.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.03514)]
+[[Github](https://github.com/zexuanqiu/CLongEval)]
+
+### Instruction Following
 
 **Followbench: A multi-level fine-grained constraints following benchmark for large language models.**<br>
 *Y Jiang, Y Wang, X Zeng, W Zhong, L Li, F Mi, L Shang, X Jiang, Q Liu, W Wang.*<br>
@@ -334,6 +342,22 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.00286.pdf)]
 [[Github](https://github.com/whitzard-ai/jade-db)]
 
+## User Experience
+
+**Understanding User Experience in Large Language Model Interactions.**<br>
+*J Wang, W Ma, P Sun, M Zhang, JY Nie.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.08329)]
+
+## Performance
+
+### Compression
+
+**A Comprehensive Evaluation of Quantization Strategies for Large Language Models.**<br>
+*M Zhang, X Pan, M Yang.*<br>
+ACL, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.16775)]
+
 ## Data Engineering
 
 ### Generation
@@ -342,7 +366,7 @@ ArXiv, 2023.
 *K Zhu, J Chen, J Wang, NZ Gong, D Yang, X Xie.*<br>
 ICLR, 2024.
 
-## Methods
+## Testing Methods
 
 ### Sampling
 
@@ -367,11 +391,19 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.18702.pdf)]
 [[Github](https://github.com/thu-coai/CritiqueLLM)]
 
-## Tools
+## Testing Tools
+
+**Evals**<br>
+*Openai*<br>
+[[Github](https://github.com/openai/evals)]
+
+**Language Model Evaluation Harness**<br>
+*EleutherAI*<br>
+[[Github](https://github.com/EleutherAI/lm-evaluation-harness)]
 
 **OpenCompass**<br>
-*司南大模型评测平台.*<br>
-*上海人工智能实验室.*<br>
+*司南大模型评测平台*<br>
+*上海人工智能实验室*<br>
 [[HomePage](https://opencompass.org.cn/home)]
 [[Github](https://opencompass.org.cn/home)]
 
@@ -436,3 +468,11 @@ ArXiv, 2024.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.06281.pdf)]
 [[Github](https://mmbench.opencompass.org.cn/home)]
+
+## Testing Tools
+
+**lmms-eval**<br>
+*Openai*<br>
+[[HomePage](https://lmms-lab.github.io/)]
+[[Github](https://github.com/EvolvingLMMs-Lab/lmms-eval)]
+
