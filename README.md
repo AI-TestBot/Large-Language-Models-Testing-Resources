@@ -45,11 +45,6 @@ Advances in Neural Information Processing Systems, 2024.
 [[HomePage](https://tatsu-lab.github.io/alpaca_eval/)]
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fc47800ee5b30b8777fdd30abcaaf3b-Paper-Conference.pdf)]
 
-**SuperCLUE**<br>
-*中文语言理解测评基准.*<br>
-*ChineseCLUE.*<br>
-[[HomePage](https://www.cluebenchmarks.com/index.html)]
-
 **OpenCompass**<br>
 *司南大模型评测平台.*<br>
 *上海人工智能实验室.*<br>
@@ -61,8 +56,10 @@ Advances in Neural Information Processing Systems, 2024.
 *北京智源研究院.*<br>
 [[HomePage](https://flageval.baai.ac.cn/#/home)]
 
-**LLMEval**<br>
-
+**SuperCLUE**<br>
+*中文语言理解测评基准.*<br>
+*ChineseCLUE.*<br>
+[[HomePage](https://www.cluebenchmarks.com/index.html)]
 
 **CLiB**<br>
 *chinese-llm-benchmark.*<br>
@@ -367,11 +364,14 @@ ArXiv, 2023.
 
 ## Tools
 
-**OpenCompass (司南)**<br>
-*上海人工智能实验室, 2023.*<br>
+**OpenCompass**<br>
+*司南大模型评测平台.*<br>
+*上海人工智能实验室.*<br>
 [[HomePage](https://opencompass.org.cn/home)]
+[[Github](https://opencompass.org.cn/home)]
 
-**OpenEval (开放式大模型综合评估)**<br>
+**OpenEval**<br>
+*开放式大模型综合评估.*<br>
 *天津大学, 2023.*<br>
 [[HomePage](http://openeval.org.cn/)]
 [[Github](https://opencompass.org.cn/home)]
