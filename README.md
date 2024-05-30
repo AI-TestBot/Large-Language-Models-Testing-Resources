@@ -375,6 +375,21 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.12983.pdf?trk=public_post_comment-text)]
 [[Datasets](https://huggingface.co/datasets/gaia-benchmark/GAIA)]
 
+### Chatbot
+
+**DialogBench: Evaluating LLMs as Human-like Dialogue Systems.**<br>
+*J Ou, J Lu, C Liu, Y Tang, F Zhang, D Zhang, Z Wang, K Gai.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.01677)]
+
+### Knowledge Management
+
+**Benchmarking Large Language Models in Retrieval-Augmented Generation.**<br>
+*J Chen, H Lin, X Han, L Sun.*<br>
+AAAI, 2024.
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29728/31250)]
+[[Github](https://github.com/chen700564/RGB)]
+
 ### Data Analysis
 
 **Tapilot-Crossing: Benchmarking and Evolving LLMs Towards Interactive Data Analysis Agents.**<br>
@@ -383,9 +398,17 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.05307)]
 [[Github](https://tapilot-crossing.github.io/)]
 
+### Office Assistant
+
+**Pptc benchmark: Evaluating large language models for powerpoint task completion.**<br>
+*Y Guo, Z Zhang, Y Liang, D Zhao, D Nan.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.01767)]
+[[Github](https://github.com/gydpku/PPTC)]
+
 ## Security
 
-### Content
+### Content Security
 
 **JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models.**<br>
 *M Zhang, X Pan, M Yang.*<br>
@@ -393,7 +416,49 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.00286.pdf)]
 [[Github](https://github.com/whitzard-ai/jade-db)]
 
+### Value Aligement
+
+**Cvalues: Measuring the values of chinese large language models from safety to responsibility.**<br>
+*G Xu, J Liu, M Yan, H Xu, J Si, Z Zhou, P Yi, X Gao, J Sang, R Zhang, J Zhang, C Peng, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.09705)]
+[[Github](https://github.com/X-PLUG/CValues)]
+
+**Alignbench: Benchmarking chinese alignment of large language models.**<br>
+*X Liu, X Lei, S Wang, Y Huang, Z Feng, B Wen, J Cheng, P Ke, Y Xu, WL Tam, X Zhang, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.18743)]
+[[Github](https://github.com/THUDM/AlignBench)]
+
+### Model Security
+
+**R-Judge: Benchmarking Safety Risk Awareness for LLM Agents.**<br>
+*T Yuan, Z He, L Dong, Y Wang, R Zhao, T **a, L Xu, B Zhou, F Li, Z Zhang, R Wang, G Liu.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.10019)]
+[[Github](https://github.com/Lordog/R-Judge)]
+
+**I Think, Therefore I am: Awareness in Large Language Models.**<br>
+*Y Li, Y Huang, Y Lin, S Wu, Y Wan, L Sun.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.17882)]
+[[Github](https://github.com/HowieHwong/Awareness-in-LLM)]
+
+### Privacy Security
+
+**Can llms keep a secret? testing privacy implications of language models via contextual integrity theory.**<br>
+*N Mireshghallah, H Kim, X Zhou, Y Tsvetkov, M Sap, R Shokri, Y Choi.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.17884)]
+[[Github](http://confaide.github.io/)]
+
 ## User Experience
+
+**A User-Centric Benchmark for Evaluating Large Language Models.**<br>
+*J Wang, F Mo, W Ma, P Sun, M Zhang, et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.13940)]
+[[Github](https://github.com/Alice1998/URS)]
 
 **Understanding User Experience in Large Language Model Interactions.**<br>
 *J Wang, W Ma, P Sun, M Zhang, JY Nie.*<br>
