@@ -493,7 +493,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
 [[Github](https://github.com/llmeval/)]
 
-### Judge
+### Evaluation
 
 **JudgeLM: Fine-tuned Large Language Models are Scalable Judges.**<br>
 *L Zhu, X Wang, X Wang.*<br>
@@ -602,6 +602,37 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.06281.pdf)]
 [[Github](https://mmbench.opencompass.org.cn/home)]
 
+**Beyond task performance: Evaluating and reducing the flaws of large multimodal models with in-context learning.*<br>
+*M Shukor, A Rame, C Dancette, M Cord.**<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.00647)]
+[[Github](https://github.com/mshukor/EvALign-ICL)]
+
+### Generation
+
+**Mmbench: Is your multi-modal model an all-around player?*<br>
+*Y Liu, H Duan, Y Zhang, B Li, S Zhang, W Zhao, Y Yuan, J Wang, C He, Z Liu, K Chen, D Lin.**<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.06281.pdf)]
+[[Github](https://mmbench.opencompass.org.cn/home)]
+
+### Aesthetic
+
+**UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark.*<br>
+*Z Zhou, Q Wang, B Lin, Y Su, R Chen, X Tao, A Zheng, L Yuan, P Wan, D Zhang.**<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.09619)]
+
+## Testing Methods
+
+### Evaluation
+
+**MLLM-Bench: Evaluating Multimodal LLMs with Per-sample Criteria.**<br>
+*W Ge, S Chen, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/abs/2311.13951v2)]
+[[HomePage](https://mllm-bench.llmzoo.com/)]
+
 ## Testing Tools
 
 **lmms-eval**<br>
@@ -609,3 +640,16 @@ ArXiv, 2023.
 [[HomePage](https://lmms-lab.github.io/)]
 [[Github](https://github.com/EvolvingLMMs-Lab/lmms-eval)]
 
+## Challenges
+
+**Are We on the Right Way for Evaluating Large Vision-Language Models?**<br>
+*L Chen, J Li, X Dong, P Zhang, Y Zang, Z Chen, H Duan, J Wang, Y Qiao, D Lin, F Zhao, et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.20330)]
+[[Github](https://mmstar-benchmark.github.io/)]
+
+**What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases**<br>
+*AMH Tiong, J Zhao, B Li, J Li, SCH Hoi, et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.02415)]
+[[Github](https://github.com/jq-zh/olive-dataset)]
