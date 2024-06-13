@@ -6,7 +6,7 @@
 *UC Berkeley*<br>
 [[HomePage](https://lmsys.org/)]
 
-## Group
+## Research Group
 
 **The Knowledge Computing Lab**<br>
 *叶蔚*<br>
@@ -26,7 +26,7 @@
 *NeurIPS (Datasets and Benchmarks Track)*<br>
 [[HomePage](https://dblp.uni-trier.de/db/conf/nips/neurips2023.html)]
 
-## Business
+## Commercial Companies
 
 **Patronus AI**<br>
 *人工智能模型评估公司, 美国.*<br>
