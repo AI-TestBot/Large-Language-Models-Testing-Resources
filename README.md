@@ -336,12 +336,16 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.14151.pdf)]
 [[Datasets](https://tianchi.aliyun.com/competition/entrance/532084/introduction)]
 
-**MedBench: A Large-Scale Chinese Benchmark
-for Evaluating Medical Large Language Models.**<br>
+**MedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models.**<br>
 *Cai, Y., Wang, L., Wang, Y., de Melo, G., Zhang, Y., Wang, Y., & He, L.*<br>
 AAAI, 2023.
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29723)]
 [[Github](https://github.com/michael-wzhu/PromptCBLUE)]
+
+**Foundation metrics for evaluating effectiveness of healthcare conversations powered by generative AI.**<br>
+*M Abbasian, E Khatibi, I Azimi, D Oniani, Z Shakeri Hossein Abad, A Thieme, R Sriram, et al.*<br>
+NPJ Digital Medicine, 2024.
+[[Paper](https://www.nature.com/articles/s41746-024-01074-z.pdf)]
 
 **Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench.**<br>
 *Jen-tse Huang, Wenxuan Wang, Eric John Li, Man Ho Lam, Shujie Ren, Youliang Yuan, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu.*<br>
@@ -410,6 +414,12 @@ Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
 ArXiv, 2023.
 [[ArXiv](http://arxiv.org/pdf/2307.10635)]
 [[Github](https://github.com/mandyyyyii/scibench)]
+
+**MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation.**<br>
+*Q Huang, J Vora, P Liang, J Leskovec.*<br>
+arxiv:2310.03302, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.03302)]
+[[Github](https://github.com/snap-stanford/MLAgentBench/)]
 
 ### Goverment Affairs
 
