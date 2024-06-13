@@ -9,14 +9,12 @@
 ## Research Group
 
 **The Knowledge Computing Lab**<br>
-*叶蔚*<br>
-*北京大学*<br>
+*叶蔚，北京大学*<br>
 [[HomePage](http://se.pku.edu.cn/kcl/weiye/)]
 [[Google Scholar](https://so2.cljtscd.com/citations?hl=zh-CN&user=RgLGFMIAAAAJ&view_op=list_works&sortby=pubdate)]
 
 **天津大学自然语言处理实验室(tjunlp-lab)**<br>
-*熊德意*<br>
-*天津大学*<br>
+*熊德意， 天津大学*<br>
 [[HomePage](https://tjunlp-lab.github.io/)]
 [[HomePage](https://dyxiong.github.io/)]
 [[Github](https://github.com/tjunlp-lab)]
@@ -205,6 +203,14 @@ ArXiv, 2023.
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.01275)]
 [[Github](https://github.com/morecry/CharacterEval)]
+
+### Tool
+
+**Mint: Evaluating llms in multi-turn interaction with tools and language feedback.**<br>
+*X Wang, Z Wang, J Liu, Y Chen, L Yuan, H Peng, H Ji.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.longhoe.net/pdf/2309.10691)]
+[[Github](https://xwang.dev/mint-bench/)]
 
 ### Instruction Following
 
