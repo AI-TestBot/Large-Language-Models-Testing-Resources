@@ -174,6 +174,14 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2305.12474)]
 [[Github](https://github.com/OpenLMLab/GAOKAO-Bench)]
 
+### Multilingual
+
+**SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning.**<br>
+*B Wang, Z Liu, X Huang, F Jiao, Y Ding, AT Aw, NF Chen.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.04766)]
+[[Github](https://github.com/SeaEval/SeaEval)]
+
 ### Long Context
 
 **CLongEval: A Chinese Benchmark for Evaluating Long-Context Large Language Models.**<br>
@@ -181,6 +189,22 @@ ArXiv, 2023.
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.03514)]
 [[Github](https://github.com/zexuanqiu/CLongEval)]
+
+### Chain-of-Thought
+
+**Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models' Reasoning Performance.**<br>
+*Y Fu, L Ou, M Chen, Y Wan, H Peng, T Khot.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2305.17306)]
+[[Github](https://github.com/FranxYao/chain-of-thought-hub)]
+
+### Role-Playing
+
+**Charactereval: A chinese benchmark for role-playing conversational agent evaluation.**<br>
+*Q Tu, S Fan, Z Tian, R Yan.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.01275)]
+[[Github](https://github.com/morecry/CharacterEval)]
 
 ### Instruction Following
 
@@ -196,6 +220,14 @@ ArXiv, 2023.
 *C Jiang, W Ye, M Dong, H Jia, H Xu, M Yan, J Zhang, S Zhang.*<br>
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.15721)]
+
+### Robust
+
+**Promptbench: Towards evaluating the robustness of large language models on adversarial prompts.**<br>
+*K Zhu, J Wang, J Zhou, Z Wang, H Chen, Y Wang, L Yang, W Ye, Y Zhang, NZ Gong, X **e.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2306.04528)]
+[[Github](https://github.com/microsoft/promptbench)]
 
 ## Industry
 
@@ -311,14 +343,6 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2310.01386)]
 [[Github](https://github.com/CUHK-ARISE/PsychoBench)]
 
-### Education
-
-**Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench.**<br>
-*Jen-tse Huang, Wenxuan Wang, Eric John Li, Man Ho Lam, Shujie Ren, Youliang Yuan, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/abs/2310.01386)]
-[[Github](https://github.com/CUHK-ARISE/PsychoBench)]
-
 ### Law
 
 **JEC-QA: A Legal-Domain Question Answering Dataset.**<br>
@@ -350,6 +374,14 @@ ArXiv, 2022.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2310.05620)]
 [[Github](https://github.com/CSHaitao/LexiLaw)]
+
+### Education
+
+**Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench.**<br>
+*Jen-tse Huang, Wenxuan Wang, Eric John Li, Man Ho Lam, Shujie Ren, Youliang Yuan, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/abs/2310.01386)]
+[[Github](https://github.com/CUHK-ARISE/PsychoBench)]
 
 ### Communication
 
