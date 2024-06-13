@@ -182,13 +182,6 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.03514)]
 [[Github](https://github.com/zexuanqiu/CLongEval)]
 
-### Reliable
-
-**[Hallucination]Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models.**<br>
-*C Jiang, W Ye, M Dong, H Jia, H Xu, M Yan, J Zhang, S Zhang.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2402.15721)]
-
 ### Instruction Following
 
 **Followbench: A multi-level fine-grained constraints following benchmark for large language models.**<br>
@@ -196,6 +189,13 @@ ArXiv, 2024.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.20410)]
 [[Github](https://github.com/YJiangcm/FollowBench)]
+
+### Reliable
+
+**[Hallucination]Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models.**<br>
+*C Jiang, W Ye, M Dong, H Jia, H Xu, M Yan, J Zhang, S Zhang.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.15721)]
 
 ## Industry
 
