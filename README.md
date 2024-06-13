@@ -1,10 +1,5 @@
 # Large-Language-Models-(LLMs)-Evaluation-Survey
 
-## Conference
-
-*NeurIPS (Datasets and Benchmarks Track)*<br>
-[[HomePage](https://dblp.uni-trier.de/db/conf/nips/neurips2023.html)]
-
 ## Organization
 
 **LMSYS Org**<br>
@@ -25,6 +20,11 @@
 [[HomePage](https://tjunlp-lab.github.io/)]
 [[HomePage](https://dyxiong.github.io/)]
 [[Github](https://github.com/tjunlp-lab)]
+
+## Conference
+
+*NeurIPS (Datasets and Benchmarks Track)*<br>
+[[HomePage](https://dblp.uni-trier.de/db/conf/nips/neurips2023.html)]
 
 ## Business
 
@@ -174,13 +174,6 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2305.12474)]
 [[Github](https://github.com/OpenLMLab/GAOKAO-Bench)]
 
-### Reliable
-
-**[Hallucination]Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models.**<br>
-*C Jiang, W Ye, M Dong, H Jia, H Xu, M Yan, J Zhang, S Zhang.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2402.15721)]
-
 ### Long Context
 
 **CLongEval: A Chinese Benchmark for Evaluating Long-Context Large Language Models.**<br>
@@ -188,6 +181,13 @@ ArXiv, 2024.
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.03514)]
 [[Github](https://github.com/zexuanqiu/CLongEval)]
+
+### Reliable
+
+**[Hallucination]Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models.**<br>
+*C Jiang, W Ye, M Dong, H Jia, H Xu, M Yan, J Zhang, S Zhang.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.15721)]
 
 ### Instruction Following
 
@@ -465,7 +465,7 @@ ArXiv, 2024.
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.08329)]
 
-## Performance
+## Performance & Cost 
 
 ### Compression
 
