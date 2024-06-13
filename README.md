@@ -375,6 +375,14 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2310.05620)]
 [[Github](https://github.com/CSHaitao/LexiLaw)]
 
+### Software
+
+**Exploring the effectiveness of llms in automated logging generation: An empirical study.**<br>
+*Yichen Li, Yintong Huo, Zhihan Jiang, Renyi Zhong, Pinjia He, Yuxin Su, and Michael R. Lyu.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.05950)]
+[[Github](https://github.com/LoggingResearch/LoggingEmpirical)]
+
 ### Education
 
 **Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench.**<br>
@@ -382,6 +390,24 @@ ArXiv, 2023.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2310.01386)]
 [[Github](https://github.com/CUHK-ARISE/PsychoBench)]
+
+**CK12: A Rounded K12 Knowledge Graph Based Benchmark for Chinese Holistic Cognition Evaluation.**<br>
+*W You, P Wang, C Li, Z Ji, J Bai.*<br>
+Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29914/31598)]
+[[Github](https://github.com/tal-tech)]
+
+### Research
+
+**Scibench: Evaluating college-level scientific problem-solving abilities of large language models.**<br>
+*X Wang, Z Hu, P Lu, Y Zhu, J Zhang, S Subramaniam, AR Loomba, S Zhang, Y Sun, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](http://arxiv.org/pdf/2307.10635)]
+[[Github](https://github.com/mandyyyyii/scibench)]
+
+### Goverment Affairs
+
+**To be refreshed...**<br>
 
 ### Communication
 
@@ -396,6 +422,45 @@ ArXiv, 2023.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2309.05557)]
 [[Datasets](https://huggingface.co/datasets/NASP/neteval-exam,https://modelscope.cn/datasets/nasp/neteval-exam)]
+
+### Power
+
+**NuclearQA: A Human-Made Benchmark for Language Models for the Nuclear Domain.**<br>
+*A Acharya, S Munikoti, A Hellinger, S Smith, S Wagle, S Horawalavithana.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.10920)]
+[[Github](https://github.com/pnnl/EXPERT2)]
+
+### Transportation
+
+**Open-transmind: A new baseline and benchmark for 1st foundation model challenge of intelligent transportation.**<br>
+*Y Shi, F Lv, X Wang, C **a, S Li, S Yang, T **, G Zhang.*<br>
+CVPR, 2023.
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023W/WFM/papers/Shi_Open-TransMind_A_New_Baseline_and_Benchmark_for_1st_Foundation_Model_CVPRW_2023_paper.pdf)]
+[[Github](https://github.com/Traffic-X/Open-TransMind)]
+
+### Media
+
+**Evaluating the Effectiveness of GPT Large Language Model for News Classification in the IPTC News Ontology.**<br>
+*B Fatemi, F Rabbi, AL Opdahl.*<br>
+ArXiv, 2023.
+[[Paper](https://ieeexplore.ieee.org/iel7/6287639/6514899/10367969.pdf)]
+
+### Robot
+
+**LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic Tabletop Manipulation.**<br>
+*S Zhang, P Wicke, LK Şenel, L Figueredo, A Naceri, S Haddadin, B Plank, H Schütze.*<br>
+arxiv:2310.12020, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.12020)]
+[[Github](https://cisnlp.github.io/lohoravens-webpage/)]
+
+### Game
+
+**AvalonBench: Evaluating LLMs Playing the Game of Avalon.**<br>
+*J Light, M Cai, S Shen, Z Hu.*<br>
+NeurIPS 2023 Foundation Models for Decision Making Workshop, 2023.
+[[Paper](https://openreview.net/pdf?id=ltUrSryS0K)]
+[[Github](https://github.com/jonathanmli/Avalon-LLM)]
 
 ## Applications
 
@@ -430,6 +495,14 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.05307)]
 [[Github](https://tapilot-crossing.github.io/)]
 
+### Code Assistant
+
+**Measuring coding challenge competence with apps.**<br>
+*D Hendrycks, S Basart, S Kadavath, M Mazeika, et al.*<br>
+ArXiv, 2021.
+[[ArXiv](https://arxiv.org/pdf/2105.09938)]
+[[Github](https://github.com/hendrycks/apps)]
+
 ### Office Assistant
 
 **Pptc benchmark: Evaluating large language models for powerpoint task completion.**<br>
@@ -437,6 +510,37 @@ ArXiv, 2024.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.01767)]
 [[Github](https://github.com/gydpku/PPTC)]
+
+### Content Generation
+
+**KIWI: A Dataset of Knowledge-Intensive Writing Instructions for Answering Research Questions.**<br>
+*F Xu, K Lo, L Soldaini, B Kuehl, E Choi, D Wadden.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.03866)]
+[[Homepage](https://www.cs.utexas.edu/~fxu/kiwi/)]
+
+### TaskPlanning
+
+**Understanding the capabilities of large language models for automated planning.**<br>
+*Vishal Pallagani, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2305.16151)]
+
+### Agent
+
+**Agentbench: Evaluating llms as agents.**<br>
+*X Liu, H Yu, H Zhang, Y Xu, X Lei, H Lai, Y Gu, H Ding, K Men, K Yang, S Zhang, X Deng, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.03688)]
+[[Homepage](https://llmbench.ai/agent)]
+
+### EmbodiedAI
+
+**Sqa3d: Situated question answering in 3d scenes.**<br>
+*X Ma, S Yong, Z Zheng, Q Li, Y Liang, SC Zhu, S Huang.*<br>
+ICLR, 2023.
+[[ArXiv](https://arxiv.org/pdf/2210.07474)]
+[[Homepage](https://sqa3d.github.io/)]
 
 ## Security
 
