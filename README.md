@@ -455,6 +455,11 @@ CVPR, 2023.
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/WFM/papers/Shi_Open-TransMind_A_New_Baseline_and_Benchmark_for_1st_Foundation_Model_CVPRW_2023_paper.pdf)]
 [[Github](https://github.com/Traffic-X/Open-TransMind)]
 
+### Industry（工业）
+
+**To be refreshed...**<br>
+
+
 ### Media
 
 **Evaluating the Effectiveness of GPT Large Language Model for News Classification in the IPTC News Ontology.**<br>
