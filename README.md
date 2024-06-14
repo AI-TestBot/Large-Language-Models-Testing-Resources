@@ -753,54 +753,54 @@ ArXiv, 2024.
 
 ### Comprehensive
 
-**Mmbench: Is your multi-modal model an all-around player?*<br>
-*Y Liu, H Duan, Y Zhang, B Li, S Zhang, W Zhao, Y Yuan, J Wang, C He, Z Liu, K Chen, D Lin.**<br>
+**Mmbench: Is your multi-modal model an all-around player?**<br>
+*Y Liu, H Duan, Y Zhang, B Li, S Zhang, W Zhao, Y Yuan, J Wang, C He, Z Liu, K Chen, D Lin.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.06281.pdf)]
 [[Github](https://mmbench.opencompass.org.cn/home)]
 
-**Beyond task performance: Evaluating and reducing the flaws of large multimodal models with in-context learning.*<br>
-*M Shukor, A Rame, C Dancette, M Cord.**<br>
+**Beyond task performance: Evaluating and reducing the flaws of large multimodal models with in-context learning.**<br>
+*M Shukor, A Rame, C Dancette, M Cord.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.00647)]
 [[Github](https://github.com/mshukor/EvALign-ICL)]
 
 ### Generation
 
-**Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality Metrics.*<br>
-*S Hartwig, D Engel, L Sick, H Kniesel, T Payer, T Ropinski.**<br>
+**Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality Metrics.**<br>
+*S Hartwig, D Engel, L Sick, H Kniesel, T Payer, T Ropinski.*<br>
 ArXiv, 2024.
 [[ArXiv](https://arxiv.longhoe.net/pdf/2403.11821)]
 
-**Llmscore: Unveiling the power of large language models in text-to-image synthesis evaluation.*<br>
-*Y Lu, X Yang, X Li, XE Wang, WY Wang.**<br>
+**Llmscore: Unveiling the power of large language models in text-to-image synthesis evaluation.**<br>
+*Y Lu, X Yang, X Li, XE Wang, WY Wang.*<br>
 Advances in Neural Information Processing Systems, 2024.
 [[Paper](https://so2.cljtscd.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LLMScore%3A+Unveiling+the+Power+of+Large+Language+Models+in+Text-to-Image+Synthesis+Evaluation&btnG=)]
 [[Github](https://github.com/YujieLu10/LLMScore)]
 
-**Fetv: A benchmark for fine-grained evaluation of open-domain text-to-video generation.*<br>
-*Y Liu, L Li, S Ren, R Gao, S Li, S Chen, X Sun, L Hou**<br>
+**Fetv: A benchmark for fine-grained evaluation of open-domain text-to-video generation.**<br>
+*Y Liu, L Li, S Ren, R Gao, S Li, S Chen, X Sun, L Hou.*<br>
 Advances in Neural Information Processing Systems, 2024.
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/c481049f7410f38e788f67c171c64ad5-Paper-Datasets_and_Benchmarks.pdf)]
 [[Github](https://github.com/llyx97/FETV)]
 
-**Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment.*<br>
-*T Kou, X Liu, Z Zhang, C Li, H Wu, X Min, G Zhai, N Liu.**<br>
+**Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment.**<br>
+*T Kou, X Liu, Z Zhang, C Li, H Wu, X Min, G Zhai, N Liu.*<br>
 arxiv:2403.11956, 2024.
 [[ArXiv](https://arxiv.longhoe.net/pdf/2403.11956)]
 [[Github](https://github.com/QMME/T2VQA)]
 
 ### Reasoning
 
-**InfiMM-Eval: Complex Open-Ended Reasoning Evaluation For Multi-Modal Large Language Models.*<br>
-*X Han, Q You, Y Liu, W Chen, H Zheng, K Mrini, et al.**<br>
+**InfiMM-Eval: Complex Open-Ended Reasoning Evaluation For Multi-Modal Large Language Models.**<br>
+*X Han, Q You, Y Liu, W Chen, H Zheng, K Mrini, et al.*<br>
 arXiv:2311.11567, 2023.
 [[ArXiv](https://arxiv.org/abs/2311.11567)]
 
 ### Aesthetic
 
-**UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark.*<br>
-*Z Zhou, Q Wang, B Lin, Y Su, R Chen, X Tao, A Zheng, L Yuan, P Wan, D Zhang.**<br>
+**UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark.**<br>
+*Z Zhou, Q Wang, B Lin, Y Su, R Chen, X Tao, A Zheng, L Yuan, P Wan, D Zhang.*<br>
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2404.09619)]
 
@@ -829,7 +829,7 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.20330)]
 [[Github](https://mmstar-benchmark.github.io/)]
 
-**What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases**<br>
+**What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases.**<br>
 *AMH Tiong, J Zhao, B Li, J Li, SCH Hoi, et al.*<br>
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2404.02415)]
