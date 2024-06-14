@@ -224,7 +224,9 @@ ArXiv, 2023.
 
 ### Reliable
 
-**[Hallucination]Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models.**<br>
+**[Hallucination]
+
+**Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models.**<br>
 *C Jiang, W Ye, M Dong, H Jia, H Xu, M Yan, J Zhang, S Zhang.*<br>
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.15721)]
@@ -827,6 +829,24 @@ arXiv:2310.09036, 2023.
 arXiv:2305.07895, 2023.
 [[ArXiv](https://arxiv.org/html/2305.07895v5)]
 [[Github](https://github.com/Yuliang-Liu/MultimodalOCR)]
+
+### Reliable
+
+**[Hallucination]
+
+**An llm-free multi-dimensional benchmark for mllms hallucination evaluation.**<br>
+*J Wang, Y Wang, G Xu, J Zhang, Y Gu, H Jia, M Yan, J Zhang, J Sang.*<br>
+arXiv:2311.07397, 2023.
+[[ArXiv](https://arxiv.org/html/2311.07397v2)]
+[[Github](https://github.com/junyangwang0410/AMBER)]
+
+## Security
+
+**How many unicorns are in this image? a safety evaluation benchmark for vision llms.**<br>
+*H Tu, C Cui, Z Wang, Y Zhou, B Zhao, J Han, W Zhou, H Yao, C Xie.*<br>
+arXiv:2311.16101, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.16101)]
+[[Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark)]
 
 ## Testing Methods
 
