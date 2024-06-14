@@ -119,32 +119,34 @@ Advances in Neural Information Processing Systems, 2024.
 
 ### Reasoning
 
-**[Math]Measuring Mathematical Problem Solving With the MATH Dataset.**<br>
+#### [Math]
+
+**Measuring Mathematical Problem Solving With the MATH Dataset.**<br>
 *Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, Jacob Steinhardt.*<br>
 Nips, 2021.
 [[ArXiv](https://arxiv.org/abs/2103.03874)]
 [[Datasets](https://paperswithcode.com/task/math-word-problem-solving)]
 
-**[Math]Deep Neural Solver for Math Word Problems.**<br>
+**Deep Neural Solver for Math Word Problems.**<br>
 *Yan Wang, Xiaojiang Liu, Shuming Shi.*<br>
 EMNLP, 2017.
 [[Paper](https://aclanthology.org/D17-1088/)]
 [[Datasets](https://paperswithcode.com/task/math-word-problem-solving)]
 
-**[Math]Training verifiers to solve math word problems.**<br>
+**Training verifiers to solve math word problems.**<br>
 *Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman.*<br>
 ArXiv, 2021.
 [[ArXiv](https://arxiv.org/abs/2110.14168)]
 [[Github](https://github.com/openai/grade_x005f_x0002_school-math)]
 [[Datasets](https://huggingface.co/datasets/gsm8k)]
 
-**[Math]CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?.**<br>
+**CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?.**<br>
 *Tianwen Wei, Jian Luan, Wei Liu, Shuang Dong, Bin Wang.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2306.16636)]
 [[Datasets](https://huggingface.co/datasets/weitianwen/cmath)]
 
-**[Math]MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts.**<br>
+**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts.**<br>
 *Pan Lu, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, Jianfeng Gao.*<br>
 AAAI, 2020.
 [[ArXiv](https://arxiv.org/abs/2310.01386)]
@@ -641,7 +643,7 @@ ICLR, 2024.
 
 ## Testing Methods
 
-### Sample Testing
+### Adaptive Testing
 
 **LLMEval: A Preliminary Study on How to Evaluate Large Language Models.**<br>
 *Y Zhang, M Zhang, H Yuan, S Liu, Y Shi, T Gui, Q Zhang, X Huang.*<br>
