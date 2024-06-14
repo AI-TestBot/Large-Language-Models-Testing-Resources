@@ -799,12 +799,34 @@ arxiv:2403.11956, 2024.
 arXiv:2311.11567, 2023.
 [[ArXiv](https://arxiv.org/abs/2311.11567)]
 
+### VQA
+
+**CMMU: A Benchmark for Chinese Multi-modal Multi-type Question Understanding and Reasoning.**<br>
+*Z He, X Wu, P Zhou, R Xuan, G Liu, X Yang, Q Zhu, H Huang.*<br>
+arXiv:2401.14011, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.14011)]
+[[Github](https://github.com/FlagOpen/CMMU)]
+
 ### Aesthetic
 
 **UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark.**<br>
 *Z Zhou, Q Wang, B Lin, Y Su, R Chen, X Tao, A Zheng, L Yuan, P Wan, D Zhang.*<br>
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2404.09619)]
+
+### Vision Tasks
+
+**MM-BigBench: Evaluating Multimodal Models on Multimodal Content Comprehension Tasks.**<br>
+*X Yang, W Wu, S Feng, M Wang, D Wang, Y Li, Q Sun, Y Zhang, X Fu, S Poria.*<br>
+arXiv:2310.09036, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.09036)]
+[[Github](https://github.com/declare-lab/MM-InstructEval)]
+
+**On the hidden mystery of ocr in large multimodal models.**<br>
+*Y Liu, Z Li, H Li, W Yu, M Huang, D Peng, M Liu, M Chen, C Li, L Jin, X Bai.*<br>
+arXiv:2305.07895, 2023.
+[[ArXiv](https://arxiv.org/html/2305.07895v5)]
+[[Github](https://github.com/Yuliang-Liu/MultimodalOCR)]
 
 ## Testing Methods
 
