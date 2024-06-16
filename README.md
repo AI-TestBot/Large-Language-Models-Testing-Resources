@@ -635,13 +635,20 @@ ArXiv, 2024.
 ACL, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.16775)]
 
+### Carbon Emission
+
+**OpenCarbonEval: A Unified Carbon Emission Estimation Framework in Large-Scale AI Models.**<br>
+*Z Yu, Y Wu, Z Deng, Y Tang, XP Zhang.*<br>
+arXiv:2405.12843, 2024.
+[[ArXiv](https://arxiv.org/pdf/2405.12843)]
+
 ## Data Engineering
 
 ### Generation
 
-**DyVal: Graph-informed Dynamic Evaluation of Large Language Models.**<br>
-*K Zhu, J Chen, J Wang, NZ Gong, D Yang, X Xie.*<br>
-ICLR, 2024.
+**Multimodal-Data-Generation-Resources.**<br>
+*Test DataSets Generation*<br>
+[[Github](https://github.com/MMDSPF/Multimodal-Data-Generation-Resources)]
 
 ## Testing Methods
 
