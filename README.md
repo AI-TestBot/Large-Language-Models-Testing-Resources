@@ -261,6 +261,18 @@ arXiv:2402.14334, 2024.
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.15721)]
 
+**Uhgeval: Benchmarking the hallucination of chinese large language models via unconstrained generation.**<br>
+*X Liang, S Song, S Niu, Z Li, F Xiong, B Tang, Z Wy, D He, P Cheng, Z Wang, H Deng.*<br>
+arXiv:2311.15296, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.15296)]
+[[Github](https://iaar-shanghai.github.io/UHGEval/)]
+
+**Halueval: A large-scale hallucination evaluation benchmark for large language models.**<br>
+*J Li, X Cheng, WX Zhao, JY Nie, JR Wen.*<br>
+Proceedings of the 2023 Conference on Empirical Methods in Natural Language, 2023.
+[[Paper](https://aclanthology.org/2023.emnlp-main.397.pdf)]
+[[Github](https://github.com/RUCAIBox/HaluEval)]
+
 ### Robust
 
 **Promptbench: Towards evaluating the robustness of large language models on adversarial prompts.**<br>
