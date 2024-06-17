@@ -214,6 +214,12 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.longhoe.net/pdf/2309.10691)]
 [[Github](https://xwang.dev/mint-bench/)]
 
+**T-eval: Evaluating the tool utilization capability step by step.**<br>
+*Z Chen, W Du, W Zhang, K Liu, J Liu, M Zheng, J Zhuo, S Zhang, D Lin, K Chen, F Zhao.*<br>
+arXiv:2312.14033, 2023.
+[[ArXiv](https://arxiv.org/html/2312.14033v3)]
+[[Github](https://hub.opencompass.org.cn/dataset-detail/T-Eval)]
+
 ### Instruction Following
 
 **Followbench: A multi-level fine-grained constraints following benchmark for large language models.**<br>
@@ -221,6 +227,18 @@ ArXiv, 2023.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.20410)]
 [[Github](https://github.com/YJiangcm/FollowBench)]
+
+**CIF-Bench: A Chinese Instruction-Following Benchmark for Evaluating the Generalizability of Large Language Models.**<br>
+*Y Li, G Zhang, X Qu, J Li, Z Li, Z Wang, H Li, R Yuan, Y Ma, K Zhang, W Zhou, Y Liang, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2402.13109)]
+[[Github](https://yizhilll.github.io/CIF-Bench/)]
+
+**InFoBench: Evaluating Instruction Following Ability in Large Language Models.**<br>
+*Y Qin, K Song, Y Hu, W Yao, S Cho, X Wang, X Wu, F Liu, P Liu, D Yu.*<br>
+arXiv:2401.03601, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.03601)]
+[[Github](https://github.com/qinyiwei/InfoBench)]
 
 ### Reliable
 
@@ -238,6 +256,18 @@ ArXiv, 2024.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2306.04528)]
 [[Github](https://github.com/microsoft/promptbench)]
+
+**Are Large Language Models Really Robust to Word-Level Perturbations?**<br>
+*H Wang, G Ma, C Yu, N Gui, L Zhang, Z Huang, S Ma, Y Chang, S Zhang, L Shen, X Wang, et al.*<br>
+arxiv:2309.11166, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.11166)]
+[[Github](https://github.com/Harry-mic/TREvaL)]
+
+**Assessing Hidden Risks of LLMs: An Empirical Study on Robustness, Consistency, and Credibility.**<br>
+*W Ye, M Ou, T Li, X Ma, Y Yanggong, S Wu, J Fu, G Chen, H Wang, J Zhao.*<br>
+arxiv:2305.10235, 2023.
+[[ArXiv](https://arxiv.org/pdf/2305.10235)]
+[[Github](https://github.com/yyy01/LLMRiskEval_RCC)]
 
 ## Industry
 
