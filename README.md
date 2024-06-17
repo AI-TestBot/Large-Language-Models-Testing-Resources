@@ -750,6 +750,13 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.15043)]
 [[Github](https://github.com/zhuohaoyu/KIEval)]
 
+**LiveBench: A Challenging, Contamination-Free LLM Benchmark.**<br>
+*Colin White, Samuel Dooley, Manley Roberts, Arka Pal.*<br>
+ArXiv, 2024.
+[[Paper](https://livebench.ai/livebench.pdf)]
+[[Homepage](https://livebench.ai/)]
+[[Github](https://github.com/livebench/livebench)]
+
 # Vision-Languages-Models-(VLMs)-Testing-Survey
 
 ## Review
