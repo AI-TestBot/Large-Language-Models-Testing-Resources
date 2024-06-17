@@ -103,7 +103,7 @@ ICLR, 2021.
 [[Github](https://github.com/hendrycks/test)]
 [[Datasets](https://huggingface.co/datasets/tasksource/mmlu)]
 
-**AC-EVAL: Evaluating Ancient Chinese Language Understanding in Large Language Models.**<br>
+**C-EVAL: Evaluating Ancient Chinese Language Understanding in Large Language Models.**<br>
 *Y Wei, Y Xu, X Wei, S Yang, Y Zhu, Y Li, D Liu, B Wu.*<br>
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.06574)]
@@ -206,6 +206,12 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.01275)]
 [[Github](https://github.com/morecry/CharacterEval)]
 
+**Rolellm: Benchmarking, eliciting, and enhancing role-playing abilities of large language models.**<br>
+*ZM Wang, Z Peng, H Que, J Liu, W Zhou, Y Wu, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.00746)]
+[[Github](https://github.com/InteractiveNLP-Team/RoleLLM-public)]
+
 ### Tool
 
 **Mint: Evaluating llms in multi-turn interaction with tools and language feedback.**<br>
@@ -240,9 +246,15 @@ arXiv:2401.03601, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.03601)]
 [[Github](https://github.com/qinyiwei/InfoBench)]
 
+**INSTRUCTIR: A Benchmark for Instruction Following of Information Retrieval Models.**<br>
+*H Oh, H Lee, S Ye, H Shin, H Jang, C Jun, M Seo.*<br>
+arXiv:2402.14334, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.14334)]
+[[Github](https://github.com/kaistAI/InstructIR)]
+
 ### Reliable
 
-**[Hallucination]
+#### [Hallucination]
 
 **Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models.**<br>
 *C Jiang, W Ye, M Dong, H Jia, H Xu, M Yan, J Zhang, S Zhang.*<br>
