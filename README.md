@@ -159,6 +159,11 @@ arXiv, 2024.
 
 ### Reasoning
 
+**Beyond the imitation game: Quantifying and extrapolating the capabilities of language models.**<br>
+*A Srivastava, A Rastogi, A Rao, AAM Shoeb, et al.*<br>
+arXiv, 2022.
+[[ArXiv](https://arxiv.org/pdf/2206.04615)]
+
 #### [Math]
 
 **Measuring Mathematical Problem Solving With the MATH Dataset.**<br>
