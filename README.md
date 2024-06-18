@@ -32,7 +32,7 @@
 
 ## Leaderboard
 
-**Open LLM Leaderboard**<br>
+**Open LLM Leaderboard.**<br>
 *Huggingface.*<br>
 [[HomePage](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)]
 
@@ -42,29 +42,29 @@ ArXiv, 2024.
 [[HomePage](https://chat.lmsys.org/)]
 [[ArXiv](https://arxiv.org/pdf/2403.04132)]
 
-**AlpacaEval**<br>
+**AlpacaEval.**<br>
 **AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback.**<br>
 *Y Dubois, CX Li, R Taori, T Zhang, I Gulrajani, J Ba, C Guestrin, PS Liang, TB Hashimoto.*<br>
 Advances in Neural Information Processing Systems, 2024.
 [[HomePage](https://tatsu-lab.github.io/alpaca_eval/)]
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fc47800ee5b30b8777fdd30abcaaf3b-Paper-Conference.pdf)]
 
-**OpenCompass**<br>
+**OpenCompass.**<br>
 *司南大模型评测平台*<br>
 *上海人工智能实验室*<br>
 [[HomePage](https://opencompass.org.cn/home)]
 [[Github](https://opencompass.org.cn/home)]
 
-**FlagEval**<br>
+**FlagEval.**<br>
 *天秤大模型评测平台*<br>
 *北京智源研究院*<br>
 [[HomePage](https://flageval.baai.ac.cn/#/home)]
 
-**SuperBench**<br>
+**SuperBench.**<br>
 *大模型综合能力评测框架*<br>
 *清华大学-基础模型研究中心*<br>
 
-**CLiB**<br>
+**CLiB.**<br>
 *chinese-llm-benchmark.*<br>
 [[Github](https://github.com/jeinlee1991/chinese-llm-benchmark)]
 
@@ -86,6 +86,13 @@ ArXiv, 2023.
 ## General
 
 ### Comprehensive
+
+**Holistic evaluation of language models.**<br>
+*R Bommasani, P Liang, T Lee, et al.*<br>
+ArXiv, 2023.
+[[Homepage](https://crfm.stanford.edu/helm/lite/latest/)]
+[[ArXiv](https://arxiv.org/pdf/2211.09110)]
+[[Github](https://github.com/stanford-crfm/helm)]
 
 **Holistic evaluation of language models.**<br>
 *R Bommasani, P Liang, T Lee, et al.*<br>
