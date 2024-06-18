@@ -111,6 +111,20 @@ ArXiv, 2024.
 
 ### Generation
 
+#### [Summarization]
+
+**Lcsts: A large scale chinese short text summarization dataset.**<br>
+*B Hu, Q Chen, F Zhu.*<br>
+arXiv:1506.05865, 2015.
+[[arXiv](https://arxiv.org/pdf/1506.05865)]
+[[Homepage]([https://github.com/mtbench101/mt-bench-101](http://icrc.hitsz.edu.cn/Article/show/139.html))]
+
+**DialogSum: A real-life scenario dialogue summarization dataset.**<br>
+*Y Chen, Y Liu, L Chen, Y Zhang.*<br>
+arXiv:2105.06762, 2021.
+[[arXiv](https://arxiv.org/pdf/2105.06762)]
+[[Github]([https://github.com/cylnlp/DialogSum))]
+
 #### [QA]
 
 **Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.**<br>
@@ -124,7 +138,6 @@ Advances in Neural Information Processing Systems, 2024.
 arXiv, 2024.
 [[arXiv](https://arxiv.org/pdf/2402.14762)]
 [[Github](https://github.com/mtbench101/mt-bench-101)]
-
 
 ### Reasoning
 
