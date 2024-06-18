@@ -2,13 +2,13 @@
 
 ## Organization
 
-**LMSYS Org**<br>
+**LMSYS Org.**<br>
 *UC Berkeley*<br>
 [[HomePage](https://lmsys.org/)]
 
 ## Research Group
 
-**The Knowledge Computing Lab**<br>
+**The Knowledge Computing Lab.**<br>
 *叶蔚，北京大学*<br>
 [[HomePage](http://se.pku.edu.cn/kcl/weiye/)]
 [[Google Scholar](https://so2.cljtscd.com/citations?hl=zh-CN&user=RgLGFMIAAAAJ&view_op=list_works&sortby=pubdate)]
@@ -26,7 +26,7 @@
 
 ## Commercial Companies
 
-**Patronus AI**<br>
+**Patronus AI.**<br>
 *人工智能模型评估公司, 美国.*<br>
 [[HomePage](https://www.patronus.ai/)]
 
@@ -60,9 +60,22 @@ Advances in Neural Information Processing Systems, 2024.
 *北京智源研究院*<br>
 [[HomePage](https://flageval.baai.ac.cn/#/home)]
 
+**Superclue: A comprehensive chinese large language model benchmark.**<br>
+*L Xu, A Li, L Zhu, H Xue, C Zhu, K Zhao, H He, X Zhang, Q Kang, Z Lan.*<br>
+preprint arXiv:2307.15020, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.15020)]
+[[Homepage](https://www.superclueai.com/)]
+
 **SuperBench.**<br>
 *大模型综合能力评测框架*<br>
 *清华大学-基础模型研究中心*<br>
+
+**LLMEval: A Preliminary Study on How to Evaluate Large Language Models.**<br>
+*Y Zhang, M Zhang, H Yuan, S Liu, Y Shi, T Gui, Q Zhang, X Huang.*<br>
+Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+[[HomePage](http://llmeval.com/index)]
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
+[[Github](https://github.com/llmeval/)]
 
 **CLiB.**<br>
 *chinese-llm-benchmark.*<br>
@@ -94,12 +107,10 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2211.09110)]
 [[Github](https://github.com/stanford-crfm/helm)]
 
-**Holistic evaluation of language models.**<br>
-*R Bommasani, P Liang, T Lee, et al.*<br>
-ArXiv, 2023.
-[[Homepage](https://crfm.stanford.edu/helm/lite/latest/)]
-[[ArXiv](https://arxiv.org/pdf/2211.09110)]
-[[Github](https://github.com/stanford-crfm/helm)]
+**TencentLLMEval: a hierarchical evaluation of Real-World capabilities for human-aligned LLMs.**<br>
+*S Xie, W Yao, Y Dai, S Wang, D Zhou, L Jin, X Feng, P Wei, Y Lin, Z Hu, D Yu, Z Zhang, et al.*<br>
+arXiv:2311.05374, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.05374)]
 
 ### Understanding
 
