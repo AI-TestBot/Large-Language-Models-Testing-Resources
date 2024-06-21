@@ -32,20 +32,10 @@
 
 ## Leaderboard
 
-|Date|Title|Paper|HomePage|Github|Organization|
+|Date|Title|Paper|HomePage|Github|Organization|Authors|
 |:---:|:---:|:---:|:---:|:---:|:---:|  
-|2023| Open LLM Leaderboard|-| [[homepage]](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) |-|Huggingface | 
-|2023| Chatbot arena: An open platform for evaluating llms by human preference|[[paper]](https://arxiv.org/pdf/2403.04132) | [[homepage]](https://chat.lmsys.org/) |-| UC Berkeley | 
-
-**Open LLM Leaderboard.**<br>
-*Huggingface.*<br>
-[[Huggingface](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)]
-
-**Chatbot arena: An open platform for evaluating llms by human preference.**<br>
-*WL Chiang, L Zheng, Y Sheng, AN Angelopoulos, T Li, D Li, H Zhang, B Zhu, M Jordan, et al.*<br>
-ArXiv, 2024.
-[[HomePage](https://chat.lmsys.org/)]
-[[ArXiv](https://arxiv.org/pdf/2403.04132)]
+|2023| Open LLM Leaderboard|-| [[homepage]](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) |-|Huggingface |-|
+|2023| Chatbot arena: An open platform for evaluating llms by human preference|[[paper]](https://arxiv.org/pdf/2403.04132) | [[homepage]](https://chat.lmsys.org/) |-| UC Berkeley | WL Chiang, L Zheng, Y Sheng, AN Angelopoulos, T Li, D Li, H Zhang, B Zhu, M Jordan, et al.|
 
 **AlpacaEval.**<br>
 **AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback.**<br>
