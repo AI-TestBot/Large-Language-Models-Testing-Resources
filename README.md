@@ -92,6 +92,11 @@ ArXiv, 2024.
 
 ### Generation
 
+|Date|Task|Title|Paper|HomePage|Github|DataSets|Organization|Authors|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|   
+|2015| Summarization |Lcsts: A large scale chinese short text summarization dataset|[[EMNLP]](https://arxiv.org/pdf/1506.05865) |[[homepage]](http://icrc.hitsz.edu.cn/Article/show/139.html) |-|-|Harbin Institute of Technology. |B Hu, Q Chen, F Zhu.|
+
+
 #### [Summarization]
 
 **Lcsts: A large scale chinese short text summarization dataset.**<br>
