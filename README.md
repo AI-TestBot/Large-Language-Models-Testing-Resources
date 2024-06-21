@@ -35,14 +35,8 @@
 |Date|Title|Paper|HomePage|Github|DataSets|Organization|Authors|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|   
 |2023| Open LLM Leaderboard|-| [[homepage]](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) |-|-|Huggingface |-|
-|2023| Chatbot arena: An open platform for evaluating llms by human preference|[[paper]](https://arxiv.org/pdf/2403.04132) | [[homepage]](https://chat.lmsys.org/) |-|-| UC Berkeley | WL Chiang, L Zheng, Y Sheng, AN Angelopoulos, T Li, D Li, H Zhang, B Zhu, M Jordan, et al.|
-
-**AlpacaEval.**<br>
-**AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback.**<br>
-*Y Dubois, CX Li, R Taori, T Zhang, I Gulrajani, J Ba, C Guestrin, PS Liang, TB Hashimoto.*<br>
-Advances in Neural Information Processing Systems, 2024.
-[[HomePage](https://tatsu-lab.github.io/alpaca_eval/)]
-[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fc47800ee5b30b8777fdd30abcaaf3b-Paper-Conference.pdf)]
+|2023| Chatbot arena: An open platform for evaluating llms by human preference|[[arXiv]](https://arxiv.org/pdf/2403.04132) | [[homepage]](https://chat.lmsys.org/) |-|-| UC Berkeley | WL Chiang, L Zheng, Y Sheng, AN Angelopoulos, T Li, D Li, H Zhang, B Zhu, M Jordan, et al.|
+|2024| AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback.|[[Advances in Neural Information Processing Systems, 2024]]([https://arxiv.org/pdf/2403.04132](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fc47800ee5b30b8777fdd30abcaaf3b-Paper-Conference.pdf)) | [[homepage]](https://tatsu-lab.github.io/alpaca_eval/) |-|-| Stanford University | Y Dubois, CX Li, R Taori, T Zhang, I Gulrajani, J Ba, C Guestrin, PS Liang, TB Hashimoto.|
 
 **OpenCompass.**<br>
 *司南大模型评测平台*<br>
