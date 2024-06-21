@@ -32,17 +32,17 @@
 
 ## Leaderboard
 
-|Date|Title|Paper|HomePage|Github|DataSets|Organization|Authors|
+|Date|Title|Paper|HomePage|Github|DataSets|Organization|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|   
-|2023| Open LLM Leaderboard.|-| [[homepage]](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) |-|-|Huggingface |-|
-|2023| Chatbot arena: An open platform for evaluating llms by human preference.|[[arXiv]](https://arxiv.org/pdf/2403.04132) | [[homepage]](https://chat.lmsys.org/) |-|-| UC Berkeley | WL Chiang, L Zheng, Y Sheng, AN Angelopoulos, T Li, D Li, H Zhang, B Zhu, M Jordan, et al.|
-|2024| AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fc47800ee5b30b8777fdd30abcaaf3b-Paper-Conference.pdf) | [[homepage]](https://tatsu-lab.github.io/alpaca_eval/) |-|-| Stanford University | Y Dubois, CX Li, R Taori, T Zhang, I Gulrajani, J Ba, C Guestrin, PS Liang, TB Hashimoto.|
+|2023| Open LLM Leaderboard.|-| [[homepage]](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) |-|-|Huggingface |
+|2023| Chatbot arena: An open platform for evaluating llms by human preference.|[[arXiv]](https://arxiv.org/pdf/2403.04132) | [[homepage]](https://chat.lmsys.org/) |-|-| UC Berkeley |
+|2024| AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fc47800ee5b30b8777fdd30abcaaf3b-Paper-Conference.pdf) | [[homepage]](https://tatsu-lab.github.io/alpaca_eval/) |-|-| Stanford University |
 |2023| OpenCompass-司南大模型评测平台.|-| [[homepage]](https://opencompass.org.cn/home) |[[Github]](https://opencompass.org.cn/home) |-|上海人工智能实验室|-|
-|2023| FlagEval-天秤大模型评测平台.|-| [[homepage]](https://flageval.baai.ac.cn/#/home) |-|-|北京智源人工智能研究院|-|
-|2023| Superclue: A comprehensive chinese large language model benchmark.|[[arXiv]](https://arxiv.org/pdf/2307.15020) | [[homepage]](https://www.superclueai.com/) |-|-|SUPERCLUE|L Xu, A Li, L Zhu, H Xue, C Zhu, K Zhao, H He, X Zhang, Q Kang, Z Lan|
-|2023| SuperBench-大模型综合能力评测框架.|-|-|-|-|清华大学-基础模型研究中心|-|
-|2023| LLMEval: A Preliminary Study on How to Evaluate Large Language Models.|[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632) | [[homepage]](http://llmeval.com/index) |[[Github]](https://github.com/llmeval/)|-|复旦大学|Y Zhang, M Zhang, H Yuan, S Liu, Y Shi, T Gui, Q Zhang, X Huang|
-|2023| CLiB-chinese-llm-benchmark.|-|-|[[Github]](https://github.com/jeinlee1991/chinese-llm-benchmark)|-|-|-|
+|2023| FlagEval-天秤大模型评测平台.|-| [[homepage]](https://flageval.baai.ac.cn/#/home) |-|-|北京智源人工智能研究院|
+|2023| Superclue: A comprehensive chinese large language model benchmark.|[[arXiv]](https://arxiv.org/pdf/2307.15020) | [[homepage]](https://www.superclueai.com/) |-|-|SUPERCLUE|
+|2023| SuperBench-大模型综合能力评测框架.|-|-|-|-|清华大学-基础模型研究中心|
+|2023| LLMEval: A Preliminary Study on How to Evaluate Large Language Models.|[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632) | [[homepage]](http://llmeval.com/index) |[[Github]](https://github.com/llmeval/)|-|复旦大学|
+|2023| CLiB-chinese-llm-benchmark.|-|-|[[Github]](https://github.com/jeinlee1991/chinese-llm-benchmark)|-|-|
 
 ## Review
 
@@ -92,12 +92,12 @@ ArXiv, 2024.
 
 ### Generation
 
-|Date|Task|Title|Paper|HomePage|Github|DataSets|Organization|Authors|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|   
-|2015| Summarization |Lcsts: A large scale chinese short text summarization dataset.|[[EMNLP]](https://arxiv.org/pdf/1506.05865) |[[homepage]](http://icrc.hitsz.edu.cn/Article/show/139.html) |-|-|Harbin Institute of Technology. |B Hu, Q Chen, F Zhu.|
-|2015| Summarization |DialogSum: A real-life scenario dialogue summarization dataset.|[[arXiv]](https://arxiv.org/pdf/2105.06762) |-|[[Github]](https://github.com/cylnlp/DialogSum)|-|Zhejiang University. |Y Chen, Y Liu, L Chen, Y Zhang.|
-|2024| QA |Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf) |[[homepage]](https://chat.lmsys.org/)|-|-|UC Berkeley. |L Zheng, WL Chiang, Y Sheng, S Zhuang, Z Wu, Y Zhuang, Z Lin, Z Li, D Li, E **ng, H Zhang, et al.|
-|2024| QA |MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues.|[[arXiv]](https://arxiv.org/pdf/2402.14762) |-|[[Github]](https://github.com/mtbench101/mt-bench-101)|-|Alibaba Group. |G Bai, J Liu, X Bu, Y He, J Liu, Z Zhou, Z Lin, et al.|
+|Date|Task|Title|Paper|HomePage|Github|DataSets|Organization|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|   
+|2015| Summarization |Lcsts: A large scale chinese short text summarization dataset.|[[EMNLP]](https://arxiv.org/pdf/1506.05865) |[[homepage]](http://icrc.hitsz.edu.cn/Article/show/139.html) |-|-|Harbin Institute of Technology. |
+|2015| Summarization |DialogSum: A real-life scenario dialogue summarization dataset.|[[arXiv]](https://arxiv.org/pdf/2105.06762) |-|[[Github]](https://github.com/cylnlp/DialogSum)|-|Zhejiang University. |
+|2024| QA |Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf) |[[homepage]](https://chat.lmsys.org/)|-|-|UC Berkeley. |
+|2024| QA |MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues.|[[arXiv]](https://arxiv.org/pdf/2402.14762) |-|[[Github]](https://github.com/mtbench101/mt-bench-101)|-|Alibaba Group. |
 
 ### Reasoning
 
