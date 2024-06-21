@@ -1,14 +1,6 @@
 # Large-Language-Models-(LLMs)-Evaluation-Survey
 
-## Supported Element
 
-|Category|Name|Organization|HomePage|Github|Scholar|
-|:---:|:---:|:---:|:---:|:---:|:---:|   
-|Organization| LMSYS Org |UC Berkeley| [[homepage]](https://lmsys.org/) |-|-|
-|Research Group| 叶蔚 | 北京大学-The Knowledge Computing Lab | [[homepage]](http://se.pku.edu.cn/kcl/weiye/) |-|[[scholar]](https://so2.cljtscd.com/citations?hl=zh-CN&user=RgLGFMIAAAAJ&view_op=list_works&sortby=pubdate)|
-|Research Group| 熊德意 | 天津大学-自然语言处理实验室 | [[homepage]](https://tjunlp-lab.github.io/) |[[github]](https://github.com/tjunlp-lab)|-| 
-|Conference| NeurIPS (Datasets and Benchmarks Track) |-| [[homepage]](https://dblp.uni-trier.de/db/conf/nips/neurips2023.html) |-|-|-|
-|Commercial Companies| Patronus AI|-| [[homepage]](https://www.patronus.ai/) |-|-|-|-|
 
 ## Leaderboard
 
@@ -795,6 +787,16 @@ ArXiv, 2024.
 [[Paper](https://livebench.ai/livebench.pdf)]
 [[Homepage](https://livebench.ai/)]
 [[Github](https://github.com/livebench/livebench)]
+
+## Supported Elements
+
+|Category|Name|Organization|HomePage|Github|Scholar|
+|:---:|:---:|:---:|:---:|:---:|:---:|   
+|Organization| LMSYS Org |UC Berkeley| [[homepage]](https://lmsys.org/) |-|-|
+|Research Group| 叶蔚 | 北京大学-The Knowledge Computing Lab | [[homepage]](http://se.pku.edu.cn/kcl/weiye/) |-|[[scholar]](https://so2.cljtscd.com/citations?hl=zh-CN&user=RgLGFMIAAAAJ&view_op=list_works&sortby=pubdate)|
+|Research Group| 熊德意 | 天津大学-自然语言处理实验室 | [[homepage]](https://tjunlp-lab.github.io/) |[[github]](https://github.com/tjunlp-lab)|-| 
+|Conference| NeurIPS (Datasets and Benchmarks Track) |-| [[homepage]](https://dblp.uni-trier.de/db/conf/nips/neurips2023.html) |-|-|-|
+|Commercial Companies| Patronus AI|-| [[homepage]](https://www.patronus.ai/) |-|-|-|-|
 
 # Vision-Languages-Models-(VLMs)-Testing-Survey
 
