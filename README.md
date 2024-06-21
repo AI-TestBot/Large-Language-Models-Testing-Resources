@@ -33,7 +33,7 @@
 ## Leaderboard
 
 |Date|Title|Paper|HomePage|Github|Organization|Authors|
-|:---:|:---:|:---:|:---:|:---:|:---:|  
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|   
 |2023| Open LLM Leaderboard|-| [[homepage]](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) |-|Huggingface |-|
 |2023| Chatbot arena: An open platform for evaluating llms by human preference|[[paper]](https://arxiv.org/pdf/2403.04132) | [[homepage]](https://chat.lmsys.org/) |-| UC Berkeley | WL Chiang, L Zheng, Y Sheng, AN Angelopoulos, T Li, D Li, H Zhang, B Zhu, M Jordan, et al.|
 
