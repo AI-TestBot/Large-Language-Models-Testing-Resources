@@ -1,34 +1,14 @@
 # Large-Language-Models-(LLMs)-Evaluation-Survey
 
-## Organization
+## Supported Element
 
-**LMSYS Org.**<br>
-*UC Berkeley*<br>
-[[HomePage](https://lmsys.org/)]
-
-## Research Group
-
-**The Knowledge Computing Lab.**<br>
-*叶蔚，北京大学*<br>
-[[HomePage](http://se.pku.edu.cn/kcl/weiye/)]
-[[Google Scholar](https://so2.cljtscd.com/citations?hl=zh-CN&user=RgLGFMIAAAAJ&view_op=list_works&sortby=pubdate)]
-
-**天津大学自然语言处理实验室(tjunlp-lab)**<br>
-*熊德意， 天津大学*<br>
-[[HomePage](https://tjunlp-lab.github.io/)]
-[[HomePage](https://dyxiong.github.io/)]
-[[Github](https://github.com/tjunlp-lab)]
-
-## Conference
-
-*NeurIPS (Datasets and Benchmarks Track)*<br>
-[[HomePage](https://dblp.uni-trier.de/db/conf/nips/neurips2023.html)]
-
-## Commercial Companies
-
-**Patronus AI.**<br>
-*人工智能模型评估公司, 美国.*<br>
-[[HomePage](https://www.patronus.ai/)]
+|Category|Name|Organization|HomePage|Github|Scholar|
+|:---:|:---:|:---:|:---:|:---:|:---:|   
+|Organization| LMSYS Org |UC Berkeley| [[homepage]](https://lmsys.org/) |-|-|
+|Research Group| 叶蔚 | 北京大学-The Knowledge Computing Lab | [[homepage]](http://se.pku.edu.cn/kcl/weiye/) |-|[[scholar]](https://so2.cljtscd.com/citations?hl=zh-CN&user=RgLGFMIAAAAJ&view_op=list_works&sortby=pubdate)|
+|Research Group| 熊德意 | 天津大学-自然语言处理实验室 | [[homepage]](https://tjunlp-lab.github.io/) |[[github]](https://github.com/tjunlp-lab)|-| 
+|Conference| NeurIPS (Datasets and Benchmarks Track) |-| [[homepage]](https://dblp.uni-trier.de/db/conf/nips/neurips2023.html) |-|-|-|
+|Commercial Companies| Patronus AI|-| [[homepage]](https://www.patronus.ai/) |-|-|-|-|
 
 ## Leaderboard
 
