@@ -94,22 +94,9 @@ ArXiv, 2024.
 
 |Date|Task|Title|Paper|HomePage|Github|DataSets|Organization|Authors|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|   
-|2015| Summarization |Lcsts: A large scale chinese short text summarization dataset|[[EMNLP]](https://arxiv.org/pdf/1506.05865) |[[homepage]](http://icrc.hitsz.edu.cn/Article/show/139.html) |-|-|Harbin Institute of Technology. |B Hu, Q Chen, F Zhu.|
+|2015| Summarization |Lcsts: A large scale chinese short text summarization dataset.|[[EMNLP]](https://arxiv.org/pdf/1506.05865) |[[homepage]](http://icrc.hitsz.edu.cn/Article/show/139.html) |-|-|Harbin Institute of Technology. |B Hu, Q Chen, F Zhu.|
+|2015| Summarization |DialogSum: A real-life scenario dialogue summarization dataset.|[[arXiv]](https://arxiv.org/pdf/2105.06762) |-|[[Github]](https://github.com/cylnlp/DialogSum)|-|Harbin Institute of Technology. |Y Chen, Y Liu, L Chen, Y Zhang.|
 
-
-#### [Summarization]
-
-**Lcsts: A large scale chinese short text summarization dataset.**<br>
-*B Hu, Q Chen, F Zhu.*<br>
-arXiv:1506.05865, 2015.
-[[arXiv](https://arxiv.org/pdf/1506.05865)]
-[[Homepage]([https://github.com/mtbench101/mt-bench-101](http://icrc.hitsz.edu.cn/Article/show/139.html))]
-
-**DialogSum: A real-life scenario dialogue summarization dataset.**<br>
-*Y Chen, Y Liu, L Chen, Y Zhang.*<br>
-arXiv:2105.06762, 2021.
-[[arXiv](https://arxiv.org/pdf/2105.06762)]
-[[Github]([https://github.com/cylnlp/DialogSum))]
 
 #### [QA]
 
