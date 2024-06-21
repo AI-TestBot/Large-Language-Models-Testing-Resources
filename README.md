@@ -95,22 +95,9 @@ ArXiv, 2024.
 |Date|Task|Title|Paper|HomePage|Github|DataSets|Organization|Authors|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|   
 |2015| Summarization |Lcsts: A large scale chinese short text summarization dataset.|[[EMNLP]](https://arxiv.org/pdf/1506.05865) |[[homepage]](http://icrc.hitsz.edu.cn/Article/show/139.html) |-|-|Harbin Institute of Technology. |B Hu, Q Chen, F Zhu.|
-|2015| Summarization |DialogSum: A real-life scenario dialogue summarization dataset.|[[arXiv]](https://arxiv.org/pdf/2105.06762) |-|[[Github]](https://github.com/cylnlp/DialogSum)|-|Harbin Institute of Technology. |Y Chen, Y Liu, L Chen, Y Zhang.|
-
-
-#### [QA]
-
-**Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.**<br>
-*L Zheng, WL Chiang, Y Sheng, S Zhuang, Z Wu, Y Zhuang, Z Lin, Z Li, D Li, E **ng, H Zhang, et al.*<br>
-Advances in Neural Information Processing Systems, 2024.
-[[HomePage](https://chat.lmsys.org/)]
-[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf)]
-
-**MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues.**<br>
-*G Bai, J Liu, X Bu, Y He, J Liu, Z Zhou, Z Lin, et al.*<br>
-arXiv, 2024.
-[[arXiv](https://arxiv.org/pdf/2402.14762)]
-[[Github](https://github.com/mtbench101/mt-bench-101)]
+|2015| Summarization |DialogSum: A real-life scenario dialogue summarization dataset.|[[arXiv]](https://arxiv.org/pdf/2105.06762) |-|[[Github]](https://github.com/cylnlp/DialogSum)|-|Zhejiang University. |Y Chen, Y Liu, L Chen, Y Zhang.|
+|2024| QA |Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf) |[[homepage]](https://chat.lmsys.org/)|-|-|UC Berkeley. |L Zheng, WL Chiang, Y Sheng, S Zhuang, Z Wu, Y Zhuang, Z Lin, Z Li, D Li, E **ng, H Zhang, et al.|
+|2024| QA |MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues.|[[arXiv]](https://arxiv.org/pdf/2402.14762) |-|[[Github]](https://github.com/mtbench101/mt-bench-101)|-|Alibaba Group. |G Bai, J Liu, X Bu, Y He, J Liu, Z Zhou, Z Lin, et al.|
 
 ### Reasoning
 
