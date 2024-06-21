@@ -39,22 +39,10 @@
 |2024| AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fc47800ee5b30b8777fdd30abcaaf3b-Paper-Conference.pdf) | [[homepage]](https://tatsu-lab.github.io/alpaca_eval/) |-|-| Stanford University | Y Dubois, CX Li, R Taori, T Zhang, I Gulrajani, J Ba, C Guestrin, PS Liang, TB Hashimoto.|
 |2023| OpenCompass-司南大模型评测平台.|-| [[homepage]](https://opencompass.org.cn/home) |[[Github]](https://opencompass.org.cn/home) |-|上海人工智能实验室|-|
 |2023| FlagEval-天秤大模型评测平台.|-| [[homepage]](https://flageval.baai.ac.cn/#/home) |-|-|北京智源人工智能研究院|-|
-|2023| Superclue: A comprehensive chinese large language model benchmark.|[[arXiv]](https://arxiv.org/pdf/2307.15020) | [[homepage]](https://www.superclueai.com/) |-|-|北京智源人工智能研究院|L Xu, A Li, L Zhu, H Xue, C Zhu, K Zhao, H He, X Zhang, Q Kang, Z Lan|
-
-**SuperBench.**<br>
-*大模型综合能力评测框架*<br>
-*清华大学-基础模型研究中心*<br>
-
-**LLMEval: A Preliminary Study on How to Evaluate Large Language Models.**<br>
-*Y Zhang, M Zhang, H Yuan, S Liu, Y Shi, T Gui, Q Zhang, X Huang.*<br>
-Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
-[[HomePage](http://llmeval.com/index)]
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
-[[Github](https://github.com/llmeval/)]
-
-**CLiB.**<br>
-*chinese-llm-benchmark.*<br>
-[[Github](https://github.com/jeinlee1991/chinese-llm-benchmark)]
+|2023| Superclue: A comprehensive chinese large language model benchmark.|[[arXiv]](https://arxiv.org/pdf/2307.15020) | [[homepage]](https://www.superclueai.com/) |-|-|SUPERCLUE|L Xu, A Li, L Zhu, H Xue, C Zhu, K Zhao, H He, X Zhang, Q Kang, Z Lan|
+|2023| SuperBench-大模型综合能力评测框架.|[-|-|-|-|清华大学-基础模型研究中心|-|
+|2023| LLMEval: A Preliminary Study on How to Evaluate Large Language Models.|[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632) | [[homepage]](http://llmeval.com/index) |[[github]](https://github.com/llmeval/)|-|复旦大学|Y Zhang, M Zhang, H Yuan, S Liu, Y Shi, T Gui, Q Zhang, X Huang|
+|2023| CLiB-chinese-llm-benchmark.|-|-|[[github]](https://github.com/jeinlee1991/chinese-llm-benchmark)|-|-|-|
 
 ## Review
 
