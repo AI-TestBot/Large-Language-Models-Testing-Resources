@@ -1,4 +1,4 @@
-# Large-Language-Models-(LLMs)-Testing-Resources
+# Large Language Models (LLMs) Testing Resources
 
 ## 📒Introduction
 Large-Language-Models-(LLMs)-Testing-Resources: A curated list of Awesome LLMs Testing Papers with Codes, check [📖Contents](#paperlist) for more details. This repo is still updated frequently ~ 👨‍💻‍ **Welcome to star ⭐️ or submit a PR to this repo! I will review and merge it.**
