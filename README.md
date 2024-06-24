@@ -5,6 +5,9 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 
 ## 📖Contents 
 * 📖[Leaderboard](#Leaderboard)
+* 📖[Review](#Review)
+* 📖[General](#General)
+* 📖[General-Comprehensive](#Comprehensive)
 
 ## 📖Leaderboard
 <div id="Leaderboard"></div>
@@ -21,7 +24,7 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 |2023| LLMEval: A Preliminary Study on How to Evaluate Large Language Models.|[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632) | [[homepage]](http://llmeval.com/index) |[[Github]](https://github.com/llmeval/)|-|复旦大学|
 |2023| CLiB-chinese-llm-benchmark.|-|-|[[Github]](https://github.com/jeinlee1991/chinese-llm-benchmark)|-|-|
 
-## Review
+## 📖Review
 
 **A Survey on Evaluation of Large Language Models.**<br>
 *Y Chang, X Wang, J Wang, Y Wu, L Yang, K Zhu, H Chen, X Yi, C Wang, Y Wang, W Ye, et al.*<br>
