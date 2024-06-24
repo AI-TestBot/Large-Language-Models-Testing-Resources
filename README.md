@@ -21,6 +21,22 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 * 📖[General-Instruction-Following](#Instruction-Following)
 * 📖[General-Reliable](#Reliable)
 * 📖[General-Robust](#Robust)
+* 📖[Industry](#Industry)
+* 📖[Industry-Finance](#Industry-Finance)
+* 📖[Industry-Medical](#Industry-Medical)
+* 📖[Industry-Law](#Industry-Law)
+* 📖[Industry-Software](#Industry-Software)
+* 📖[Industry-Education](#Industry-Education)
+* 📖[Industry-Research](#Industry-Research)
+* 📖[Industry-Goverment-Affairs](#Industry-Goverment-Affairs)
+* 📖[Industry-Communication](#Industry-Communication)
+* 📖[Industry-Power](#Industry-Power)
+* 📖[Industry-Transportation](#Industry-Transportation)
+* 📖[Industry-Industry](#Industry-Industry)
+* 📖[Industry-Media](#Industry-Media)
+* 📖[Industry-Robot](#Industry-Robot)
+* 📖[Industry-Game](#Industry-Game)
+
 
 ## 📖Leaderboard
 <div id="Leaderboard"></div>
@@ -269,9 +285,9 @@ arxiv:2305.10235, 2023.
 [[ArXiv](https://arxiv.org/pdf/2305.10235)]
 [[Github](https://github.com/yyy01/LLMRiskEval_RCC)]
 
-## Industry
+## 📖Industry
 
-### Finance
+### 📖Finance
 
 **WHEN FLUE MEETS FLANG: Benchmarks and Large Pre-trained Language Model for Financial Domain.**<br>
 *Raj Sanjay Shah, Kunal Chawla, Dheeraj Eidnani, Agam Shah, Wendi Du, Sudheer Chava, Natraj Raman, Charese Smiley, Jiaao Chen, Diyi Yang.*<br>
@@ -313,7 +329,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.11944.pdf)]
 [[Github](https://github.com/patronus-ai/financebench)]
 
-### Medical
+### 📖Medical
 
 **PubMedQA: A Dataset for Biomedical Research Question Answering.**<br>
 *Qiao Jin, Bhuwan Dhingra, Zhengping Liu, William W. Cohen, Xinghua Lu.*<br>
@@ -387,7 +403,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2310.01386)]
 [[Github](https://github.com/CUHK-ARISE/PsychoBench)]
 
-### Law
+### 📖Law
 
 **JEC-QA: A Legal-Domain Question Answering Dataset.**<br>
 *Haoxi Zhong, Chaojun Xiao, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, Maosong Sun.*<br>
@@ -419,7 +435,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2310.05620)]
 [[Github](https://github.com/CSHaitao/LexiLaw)]
 
-### Software
+### 📖Software
 
 **Exploring the effectiveness of llms in automated logging generation: An empirical study.**<br>
 *Yichen Li, Yintong Huo, Zhihan Jiang, Renyi Zhong, Pinjia He, Yuxin Su, and Michael R. Lyu.*<br>
@@ -427,7 +443,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.05950)]
 [[Github](https://github.com/LoggingResearch/LoggingEmpirical)]
 
-### Education
+### 📖Education
 
 **Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench.**<br>
 *Jen-tse Huang, Wenxuan Wang, Eric John Li, Man Ho Lam, Shujie Ren, Youliang Yuan, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu.*<br>
@@ -441,7 +457,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29914/31598)]
 [[Github](https://github.com/tal-tech)]
 
-### Research
+### 📖Research
 
 **Scibench: Evaluating college-level scientific problem-solving abilities of large language models.**<br>
 *X Wang, Z Hu, P Lu, Y Zhu, J Zhang, S Subramaniam, AR Loomba, S Zhang, Y Sun, et al.*<br>
@@ -455,11 +471,11 @@ arxiv:2310.03302, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.03302)]
 [[Github](https://github.com/snap-stanford/MLAgentBench/)]
 
-### Goverment Affairs
+### 📖Goverment-Affairs
 
 **To be refreshed...**<br>
 
-### Communication
+### 📖Communication
 
 **TeleQnA: A Benchmark Dataset to Assess Large Language Models Telecommunications Knowledge.**<br>
 *Ali Maatouk, Fadhel Ayed, Nicola Piovesan, Antonio De Domenico, Merouane Debbah, Zhi-Quan Luo.*<br>
@@ -473,7 +489,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2309.05557)]
 [[Datasets](https://huggingface.co/datasets/NASP/neteval-exam,https://modelscope.cn/datasets/nasp/neteval-exam)]
 
-### Power
+### 📖Power
 
 **NuclearQA: A Human-Made Benchmark for Language Models for the Nuclear Domain.**<br>
 *A Acharya, S Munikoti, A Hellinger, S Smith, S Wagle, S Horawalavithana.*<br>
@@ -481,7 +497,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.10920)]
 [[Github](https://github.com/pnnl/EXPERT2)]
 
-### Transportation
+### 📖Transportation
 
 **Open-transmind: A new baseline and benchmark for 1st foundation model challenge of intelligent transportation.**<br>
 *Y Shi, F Lv, X Wang, C **a, S Li, S Yang, T **, G Zhang.*<br>
@@ -489,19 +505,19 @@ CVPR, 2023.
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/WFM/papers/Shi_Open-TransMind_A_New_Baseline_and_Benchmark_for_1st_Foundation_Model_CVPRW_2023_paper.pdf)]
 [[Github](https://github.com/Traffic-X/Open-TransMind)]
 
-### Industry（工业）
+### 📖Industry（工业）
 
 **To be refreshed...**<br>
 
 
-### Media
+### 📖Media
 
 **Evaluating the Effectiveness of GPT Large Language Model for News Classification in the IPTC News Ontology.**<br>
 *B Fatemi, F Rabbi, AL Opdahl.*<br>
 ArXiv, 2023.
 [[Paper](https://ieeexplore.ieee.org/iel7/6287639/6514899/10367969.pdf)]
 
-### Robot
+### 📖Robot
 
 **LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic Tabletop Manipulation.**<br>
 *S Zhang, P Wicke, LK Şenel, L Figueredo, A Naceri, S Haddadin, B Plank, H Schütze.*<br>
@@ -509,7 +525,7 @@ arxiv:2310.12020, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.12020)]
 [[Github](https://cisnlp.github.io/lohoravens-webpage/)]
 
-### Game
+### 📖Game
 
 **AvalonBench: Evaluating LLMs Playing the Game of Avalon.**<br>
 *J Light, M Cai, S Shen, Z Hu.*<br>
