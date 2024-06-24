@@ -19,6 +19,8 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 * 📖[General-Role-Playing](#Role-Playing)
 * 📖[General-Tool](#Tool)
 * 📖[General-Instruction-Following](#Instruction-Following)
+* 📖[General-Reliable](#Reliable)
+* 📖[General-Robust](#Robust)
 
 ## 📖Leaderboard
 <div id="Leaderboard"></div>
@@ -230,8 +232,6 @@ arXiv:2402.14334, 2024.
 
 ### 📖Reliable
 
-#### [Hallucination]
-
 **Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models.**<br>
 *C Jiang, W Ye, M Dong, H Jia, H Xu, M Yan, J Zhang, S Zhang.*<br>
 ArXiv, 2024.
@@ -249,7 +249,7 @@ Proceedings of the 2023 Conference on Empirical Methods in Natural Language, 202
 [[Paper](https://aclanthology.org/2023.emnlp-main.397.pdf)]
 [[Github](https://github.com/RUCAIBox/HaluEval)]
 
-### Robust
+### 📖Robust
 
 **Promptbench: Towards evaluating the robustness of large language models on adversarial prompts.**<br>
 *K Zhu, J Wang, J Zhou, Z Wang, H Chen, Y Wang, L Yang, W Ye, Y Zhang, NZ Gong, X **e.*<br>
