@@ -12,7 +12,13 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 * 📖[General-Generation](#Generation)
 * 📖[General-Reasoning](#Reasoning)
 * 📖[General-Knowledge](#Knowledge)
-* 📖[General-Reasoning](#Reasoning)
+* 📖[General-Discipline](#Discipline)
+* 📖[General-Multilingual](#Multilingual)
+* 📖[General-Long-Context](#Long-Context)
+* 📖[General-Chain-of-Thought](#Chain-of-Thought)
+* 📖[General-Role-Playing](#Role-Playing)
+* 📖[General-Tool](#Tool)
+* 📖[General-Instruction Following](#Instruction Following)
 
 ## 📖Leaderboard
 <div id="Leaderboard"></div>
@@ -152,7 +158,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2309.04766)]
 [[Github](https://github.com/SeaEval/SeaEval)]
 
-### 📖Long Context
+### 📖Long-Context
 
 **CLongEval: A Chinese Benchmark for Evaluating Long-Context Large Language Models.**<br>
 *Z Huang, J Li, S Huang, W Zhong, I King.*<br>
