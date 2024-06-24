@@ -47,7 +47,13 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 * 📖[Applications-TaskPlanning](#Applications-TaskPlanning)
 * 📖[Applications-Agent](#Applications-Agent)
 * 📖[Applications-EmbodiedAI](#Applications-EmbodiedAI)
-
+* 📖[Security](#Security)
+* 📖[Security-Content-Security](#Security-Content-Security)
+* 📖[Security-Value-Aligement](#Security-Value-Aligement)
+* 📖[Security-Model-Security](#Security-Model-Security)
+* 📖[Security-Privacy-Security](#Security-Privacy-Security)
+* 📖[User-Experience](#User-Experience)
+* 📖[Performance-Cost](#Performance-Cost)
 
 ## 📖Leaderboard
 <div id="Leaderboard"></div>
@@ -642,9 +648,9 @@ ICLR, 2023.
 [[ArXiv](https://arxiv.org/pdf/2210.07474)]
 [[Homepage](https://sqa3d.github.io/)]
 
-## Security
+## 📖Security
 
-### Content Security
+### 📖Content-Security
 
 **JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models.**<br>
 *M Zhang, X Pan, M Yang.*<br>
@@ -652,7 +658,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.00286.pdf)]
 [[Github](https://github.com/whitzard-ai/jade-db)]
 
-### Value Aligement
+### 📖Value-Aligement
 
 **Cvalues: Measuring the values of chinese large language models from safety to responsibility.**<br>
 *G Xu, J Liu, M Yan, H Xu, J Si, Z Zhou, P Yi, X Gao, J Sang, R Zhang, J Zhang, C Peng, et al.*<br>
@@ -666,7 +672,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.18743)]
 [[Github](https://github.com/THUDM/AlignBench)]
 
-### Model Security
+### 📖Model-Security
 
 **R-Judge: Benchmarking Safety Risk Awareness for LLM Agents.**<br>
 *T Yuan, Z He, L Dong, Y Wang, R Zhao, T **a, L Xu, B Zhou, F Li, Z Zhang, R Wang, G Liu.*<br>
@@ -680,7 +686,7 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.17882)]
 [[Github](https://github.com/HowieHwong/Awareness-in-LLM)]
 
-### Privacy Security
+### 📖Privacy-Security
 
 **Can llms keep a secret? testing privacy implications of language models via contextual integrity theory.**<br>
 *N Mireshghallah, H Kim, X Zhou, Y Tsvetkov, M Sap, R Shokri, Y Choi.*<br>
@@ -688,7 +694,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.17884)]
 [[Github](http://confaide.github.io/)]
 
-## User Experience
+## 📖User-Experience
 
 **A User-Centric Benchmark for Evaluating Large Language Models.**<br>
 *J Wang, F Mo, W Ma, P Sun, M Zhang, et al.*<br>
@@ -701,7 +707,7 @@ ArXiv, 2024.
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.08329)]
 
-## Performance & Cost 
+## 📖Performance-Cost 
 
 ### Compression
 
