@@ -8,6 +8,11 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 * 📖[Review](#Review)
 * 📖[General](#General)
 * 📖[General-Comprehensive](#Comprehensive)
+* 📖[General-Understanding](#Understanding)
+* 📖[General-Generation](#Generation)
+* 📖[General-Reasoning](#Reasoning)
+* 📖[General-Knowledge](#Knowledge)
+* 📖[General-Reasoning](#Reasoning)
 
 ## 📖Leaderboard
 <div id="Leaderboard"></div>
@@ -39,9 +44,9 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.19736)]
 [[Github](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)]
 
-## General
+## 📖General
 
-### Comprehensive
+### 📖Comprehensive
 
 **Holistic evaluation of language models.**<br>
 *R Bommasani, P Liang, T Lee, et al.*<br>
@@ -55,7 +60,7 @@ ArXiv, 2023.
 arXiv:2311.05374, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.05374)]
 
-### Understanding
+### 📖Understanding
 
 **Measuring massive multitask language understanding.**<br>
 *D Hendrycks, C Burns, S Basart, A Zou, M Mazeika, D Song, J Steinhardt.*<br>
@@ -70,7 +75,7 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.06574)]
 [[Github](https://github.com/yuting-wei/AC-EVAL)]
 
-### Generation
+### 📖Generation
 
 |Date|Task|Title|Paper|HomePage|Github|DataSets|Organization|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|   
@@ -79,14 +84,12 @@ ArXiv, 2024.
 |2024| QA |Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf) |[[homepage]](https://chat.lmsys.org/)|-|-|UC Berkeley. |
 |2024| QA |MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues.|[[arXiv]](https://arxiv.org/pdf/2402.14762) |-|[[Github]](https://github.com/mtbench101/mt-bench-101)|-|Alibaba Group. |
 
-### Reasoning
+### 📖Reasoning
 
 **Beyond the imitation game: Quantifying and extrapolating the capabilities of language models.**<br>
 *A Srivastava, A Rastogi, A Rao, AAM Shoeb, et al.*<br>
 arXiv, 2022.
 [[ArXiv](https://arxiv.org/pdf/2206.04615)]
-
-#### [Math]
 
 **Measuring Mathematical Problem Solving With the MATH Dataset.**<br>
 *Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, Jacob Steinhardt.*<br>
@@ -125,7 +128,7 @@ AAAI, 2020.
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2404.06349)]
 
-### Knowledge
+### 📖Knowledge
 
 **KoLA: Carefully Benchmarking World Knowledge of Large Language Models.**<br>
 *J Yu, X Wang, S Tu, S Cao, D Zhang-Li, X Lv, H Peng, Z Yao, X Zhang, H Li, C Li, Z Zhang, et al.*<br>
@@ -133,7 +136,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2306.09296)]
 [[Homepages](http://103.238.162.37:31622/)]
 
-### Discipline
+### 📖Discipline
 
 **Evaluating the performance of large language models on gaokao benchmark.**<br>
 *X Zhang, C Li, Y Zong, Z Ying, L He, X Qiu.*<br>
@@ -141,7 +144,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2305.12474)]
 [[Github](https://github.com/OpenLMLab/GAOKAO-Bench)]
 
-### Multilingual
+### 📖Multilingual
 
 **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning.**<br>
 *B Wang, Z Liu, X Huang, F Jiao, Y Ding, AT Aw, NF Chen.*<br>
@@ -149,7 +152,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2309.04766)]
 [[Github](https://github.com/SeaEval/SeaEval)]
 
-### Long Context
+### 📖Long Context
 
 **CLongEval: A Chinese Benchmark for Evaluating Long-Context Large Language Models.**<br>
 *Z Huang, J Li, S Huang, W Zhong, I King.*<br>
@@ -157,7 +160,7 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.03514)]
 [[Github](https://github.com/zexuanqiu/CLongEval)]
 
-### Chain-of-Thought
+### 📖Chain-of-Thought
 
 **Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models' Reasoning Performance.**<br>
 *Y Fu, L Ou, M Chen, Y Wan, H Peng, T Khot.*<br>
@@ -165,7 +168,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2305.17306)]
 [[Github](https://github.com/FranxYao/chain-of-thought-hub)]
 
-### Role-Playing
+### 📖Role-Playing
 
 **Charactereval: A chinese benchmark for role-playing conversational agent evaluation.**<br>
 *Q Tu, S Fan, Z Tian, R Yan.*<br>
@@ -179,7 +182,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.00746)]
 [[Github](https://github.com/InteractiveNLP-Team/RoleLLM-public)]
 
-### Tool
+### 📖Tool
 
 **Mint: Evaluating llms in multi-turn interaction with tools and language feedback.**<br>
 *X Wang, Z Wang, J Liu, Y Chen, L Yuan, H Peng, H Ji.*<br>
@@ -193,7 +196,7 @@ arXiv:2312.14033, 2023.
 [[ArXiv](https://arxiv.org/html/2312.14033v3)]
 [[Github](https://hub.opencompass.org.cn/dataset-detail/T-Eval)]
 
-### Instruction Following
+### 📖Instruction Following
 
 **Followbench: A multi-level fine-grained constraints following benchmark for large language models.**<br>
 *Y Jiang, Y Wang, X Zeng, W Zhong, L Li, F Mi, L Shang, X Jiang, Q Liu, W Wang.*<br>
@@ -219,7 +222,7 @@ arXiv:2402.14334, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.14334)]
 [[Github](https://github.com/kaistAI/InstructIR)]
 
-### Reliable
+### 📖Reliable
 
 #### [Hallucination]
 
