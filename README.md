@@ -18,7 +18,7 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 * 📖[General-Chain-of-Thought](#Chain-of-Thought)
 * 📖[General-Role-Playing](#Role-Playing)
 * 📖[General-Tool](#Tool)
-* 📖[General-Instruction Following](#Instruction Following)
+* 📖[General-Instruction-Following](#Instruction-Following)
 
 ## 📖Leaderboard
 <div id="Leaderboard"></div>
