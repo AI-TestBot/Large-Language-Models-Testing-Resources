@@ -716,6 +716,11 @@ ArXiv, 2024.
 ACL, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.16775)]
 
+**MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases.**<br>
+*R Murthy, L Yang, J Tan, TM Awalgaonkar, Y Zhou, S Heinecke, S Desai, J Wu, R Xu, S Tan, et al.*<br>
+arxiv:2406.10290, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.10290)]
+
 ### Carbon Emission
 
 **OpenCarbonEval: A Unified Carbon Emission Estimation Framework in Large-Scale AI Models.**<br>
