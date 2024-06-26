@@ -55,10 +55,14 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 * 📖[User-Experience](#User-Experience)
 * 📖[Performance-Cost](#Performance-Cost)
 * 📖[Testing-DataSets](#Testing-DataSets)
+   * 📖[Generation](#Generation)
 * 📖[Testing-Methods](#Testing-Methods)
+   * 📖[Dynamic-Testing](#Dynamic-Testing)
+   * 📖[Sampling-Testing](#Sampling-Testing)
+   * 📖[Evaluation-Methods](#Evaluation-Methods)
 * 📖[Testing-Tools](#Testing-Tools)
 * 📖[Challenges](#Challenges)
-* 📖[Challenges-Contamination](#Challenges-Contamination)
+   * 📖[Contamination](#Contamination)
 * 📖[Supported-Elements](#Supported-Elements)
   
 ## 📖Leaderboard
@@ -736,7 +740,7 @@ arXiv:2405.12843, 2024.
 
 ## 📖Testing-DataSets
 
-### Generation
+### 📖Generation
 
 **Multimodal-Data-Generation-Resources.**<br>
 *Test DataSets Generation*<br>
@@ -744,7 +748,7 @@ arXiv:2405.12843, 2024.
 
 ## 📖Testing-Methods
 
-### Adaptive-Testing
+### 📖Dynamic-Testing
 
 **LLMEval: A Preliminary Study on How to Evaluate Large Language Models.**<br>
 *Y Zhang, M Zhang, H Yuan, S Liu, Y Shi, T Gui, Q Zhang, X Huang.*<br>
@@ -753,7 +757,16 @@ Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
 [[Github](https://github.com/llmeval/)]
 
-### Evaluation-Methods
+### 📖Adaptive-Testing
+
+**LLMEval: A Preliminary Study on How to Evaluate Large Language Models.**<br>
+*Y Zhang, M Zhang, H Yuan, S Liu, Y Shi, T Gui, Q Zhang, X Huang.*<br>
+Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+[[HomePage](http://llmeval.com/index)]
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
+[[Github](https://github.com/llmeval/)]
+
+### 📖Evaluation-Methods
 
 **JudgeLM: Fine-tuned Large Language Models are Scalable Judges.**<br>
 *L Zhu, X Wang, X Wang.*<br>
