@@ -36,8 +36,8 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[Media](#Industry-Media)
   * 📖[Robot](#Robot)
   * 📖[Game](#Game)
-* 📖[Applications](#Applications)
-  * 📖[AI-Assistants](#AI-Assistants)
+* 📖[Application](#Application)
+  * 📖[AI-Assistant](#AI-Assistant)
   * 📖[Chatbot](#Chatbot)
   * 📖[Knowledge-Management](#Knowledge-Management)
   * 📖[Data-Analysis](#Data-Analysiss)
@@ -564,9 +564,9 @@ NeurIPS 2023 Foundation Models for Decision Making Workshop, 2023.
 [[Paper](https://openreview.net/pdf?id=ltUrSryS0K)]
 [[Github](https://github.com/jonathanmli/Avalon-LLM)]
 
-## 📖Applications
+## 📖Application
 
-### 📖AI-Assistants
+### 📖AI-Assistant
 
 **GAIA: a benchmark for General AI Assistants.**<br>
 *G Mialon, C Fourrier, C Swift, T Wolf, Y LeCun, T Scialom.*<br>
