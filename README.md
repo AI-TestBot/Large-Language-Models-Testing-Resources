@@ -757,14 +757,12 @@ Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
 [[Github](https://github.com/llmeval/)]
 
-### 📖Adaptive-Testing
+### 📖Sampling-Testing
 
-**LLMEval: A Preliminary Study on How to Evaluate Large Language Models.**<br>
-*Y Zhang, M Zhang, H Yuan, S Liu, Y Shi, T Gui, Q Zhang, X Huang.*<br>
-Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
-[[HomePage](http://llmeval.com/index)]
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
-[[Github](https://github.com/llmeval/)]
+**tinyBenchmarks: evaluating LLMs with fewer examples.**<br>
+*FM Polo, L Weber, L Choshen, Y Sun, G Xu, M Yurochkin.*<br>
+arXiv:2402.14992, 2024.
+[[Paper](https://arxiv.org/html/2402.14992v1)]
 
 ### 📖Evaluation-Methods
 
