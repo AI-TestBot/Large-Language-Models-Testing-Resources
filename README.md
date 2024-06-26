@@ -22,36 +22,36 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[Reliable](#Reliable)
   * 📖[Robust](#Robust)
 * 📖[Industry](#Industry)
-* 📖[Industry-Finance](#Industry-Finance)
-* 📖[Industry-Medical](#Industry-Medical)
-* 📖[Industry-Law](#Industry-Law)
-* 📖[Industry-Software](#Industry-Software)
-* 📖[Industry-Education](#Industry-Education)
-* 📖[Industry-Research](#Industry-Research)
-* 📖[Industry-Goverment-Affairs](#Industry-Goverment-Affairs)
-* 📖[Industry-Communication](#Industry-Communication)
-* 📖[Industry-Power](#Industry-Power)
-* 📖[Industry-Transportation](#Industry-Transportation)
-* 📖[Industry-Industry](#Industry-Industry)
-* 📖[Industry-Media](#Industry-Media)
-* 📖[Industry-Robot](#Industry-Robot)
-* 📖[Industry-Game](#Industry-Game)
+  * 📖[Finance](#Finance)
+  * 📖[Medical](#Medical)
+  * 📖[Law](#Law)
+  * 📖[Software](#Software)
+  * 📖[Education](#Education)
+  * 📖[Research](#Research)
+  * 📖[Goverment-Affairs](#Goverment-Affairs)
+  * 📖[Communication](#Communication)
+  * 📖[Power](#Power)
+  * 📖[Transportation](#Transportation)
+  * 📖[Industry](#Industry)
+  * 📖[Media](#Industry-Media)
+  * 📖[Robot](#Robot)
+  * 📖[Game](#Game)
 * 📖[Applications](#Applications)
-* 📖[Applications-AI-Assistants](#Applications-AI-Assistants)
-* 📖[Applications-Chatbot](#Applications-Chatbot)
-* 📖[Applications-Knowledge-Management](#Applications-Knowledge-Management)
-* 📖[Applications-Data-Analysis](#Applications-Data-Analysiss)
-* 📖[Applications-Code-Assistant](#Applications-Code-Assistant)
-* 📖[Applications-Office-Assistant](#Applications-Office-Assistant)
-* 📖[Applications-Content-Generation](#Applications-Content-Generation)
-* 📖[Applications-TaskPlanning](#Applications-TaskPlanning)
-* 📖[Applications-Agent](#Applications-Agent)
-* 📖[Applications-EmbodiedAI](#Applications-EmbodiedAI)
+  * 📖[AI-Assistants](#AI-Assistants)
+  * 📖[Chatbot](#Chatbot)
+  * 📖[Knowledge-Management](#Knowledge-Management)
+  * 📖[Data-Analysis](#Data-Analysiss)
+  * 📖[Code-Assistant](#Code-Assistant)
+  * 📖[Office-Assistant](#Office-Assistant)
+  * 📖[Content-Generation](#Content-Generation)
+  * 📖[TaskPlanning](#TaskPlanning)
+  * 📖[Agent](#Agent)
+  * 📖[EmbodiedAI](#EmbodiedAI)
 * 📖[Security](#Security)
-* 📖[Security-Content-Security](#Security-Content-Security)
-* 📖[Security-Value-Aligement](#Security-Value-Aligement)
-* 📖[Security-Model-Security](#Security-Model-Security)
-* 📖[Security-Privacy-Security](#Security-Privacy-Security)
+  * 📖[Content-Security](#Content-Security)
+  * 📖[Value-Aligement](#Value-Aligement)
+  * 📖[Model-Security](#Model-Security)
+  * 📖[Privacy-Security](#Privacy-Security)
 * 📖[User-Experience](#User-Experience)
 * 📖[Performance-Cost](#Performance-Cost)
 * 📖[Testing-DataSets](#Testing-DataSets)
@@ -229,7 +229,7 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.00746)]
 [[Github](https://github.com/InteractiveNLP-Team/RoleLLM-public)]
 
-### 📖Tool
+### 📖Tools
 
 **Mint: Evaluating llms in multi-turn interaction with tools and language feedback.**<br>
 *X Wang, Z Wang, J Liu, Y Chen, L Yuan, H Peng, H Ji.*<br>
@@ -243,7 +243,7 @@ arXiv:2312.14033, 2023.
 [[ArXiv](https://arxiv.org/html/2312.14033v3)]
 [[Github](https://hub.opencompass.org.cn/dataset-detail/T-Eval)]
 
-### 📖Instruction Following
+### 📖Instruction-Following
 
 **Followbench: A multi-level fine-grained constraints following benchmark for large language models.**<br>
 *Y Jiang, Y Wang, X Zeng, W Zhong, L Li, F Mi, L Shang, X Jiang, Q Liu, W Wang.*<br>
