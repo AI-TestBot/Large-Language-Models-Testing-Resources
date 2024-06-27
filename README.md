@@ -607,6 +607,17 @@ AAAI, 2024.
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29728/31250)]
 [[Github](https://github.com/chen700564/RGB)]
 
+**Ares: An automated evaluation framework for retrieval-augmented generation systems.**<br>
+*J Saad-Falcon, O Khattab, C Potts, M Zaharia.*<br>
+arXiv:2311.09476, 2023.
+[[Paper](https://arxiv.org/pdf/2311.094760)]
+[[Github](https://github.com/stanford-futuredata/ARES)]
+
+**Crud-rag: A comprehensive chinese benchmark for retrieval-augmented generation of large language models.**<br>
+*Y Lyu, Z Li, S Niu, F Xiong, B Tang, W Wang, H Wu, H Liu, T Xu, E Chen.*<br>
+arXiv:2401.17043, 2024.
+[[Paper](https://arxiv.org/pdf/2401.17043)]
+
 ### 📖Data-Analysis
 
 **Tapilot-Crossing: Benchmarking and Evolving LLMs Towards Interactive Data Analysis Agents.**<br>
