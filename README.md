@@ -58,8 +58,7 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
    * 📖[Generation](#Generation)
 * 📖[Testing-Methods](#Testing-Methods)
    * 📖[Dynamic-Testing](#Dynamic-Testing)
-   * 📖[Sampling-Testing](#Sampling-Testing)
-   * 📖[Evaluation-Methods](#Evaluation-Methods)
+   * 📖[NLG-Evaluation](#NLG-Evaluation)
 * 📖[Testing-Tools](#Testing-Tools)
 * 📖[Challenges](#Challenges)
    * 📖[Contamination](#Contamination)
@@ -772,14 +771,12 @@ Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
 [[Github](https://github.com/llmeval/)]
 
-### 📖Sampling-Testing
-
 **tinyBenchmarks: evaluating LLMs with fewer examples.**<br>
 *FM Polo, L Weber, L Choshen, Y Sun, G Xu, M Yurochkin.*<br>
 arXiv:2402.14992, 2024.
 [[Paper](https://arxiv.org/html/2402.14992v1)]
 
-### 📖Evaluation-Methods
+### 📖NLG-Evaluation
 
 **JudgeLM: Fine-tuned Large Language Models are Scalable Judges.**<br>
 *L Zhu, X Wang, X Wang.*<br>
