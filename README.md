@@ -608,6 +608,12 @@ arxiv:2310.12020, 2023.
 
 ### 📖Game
 
+**Gameeval: Evaluating llms on conversational games.**<br>
+*D Qiao, C Wu, Y Liang, J Li, N Duan.*<br>
+arXiv:2308.10032, 2023.
+[[Paper](https://arxiv.org/pdf/2308.10032)]
+[[Github](https://github.com/jordddan/GameEval)]
+
 **AvalonBench: Evaluating LLMs Playing the Game of Avalon.**<br>
 *J Light, M Cai, S Shen, Z Hu.*<br>
 NeurIPS 2023 Foundation Models for Decision Making Workshop, 2023.
