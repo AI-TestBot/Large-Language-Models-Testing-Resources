@@ -33,7 +33,9 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[Power](#Power)
   * 📖[Transportation](#Transportation)
   * 📖[Industry](#Industry)
-  * 📖[Media](#Industry-Media)
+  * 📖[Media](#Media)
+  * 📖[Design](#Design)
+  * 📖[Internet](#Internet)
   * 📖[Robot](#Robot)
   * 📖[Game](#Game)
 * 📖[Application](#Application)
@@ -490,17 +492,33 @@ CAAI, 2023.
 
 ### 📖Education
 
-**Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench.**<br>
-*Jen-tse Huang, Wenxuan Wang, Eric John Li, Man Ho Lam, Shujie Ren, Youliang Yuan, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/abs/2310.01386)]
-[[Github](https://github.com/CUHK-ARISE/PsychoBench)]
+**Curriculum-Driven Edubot: A Framework for Developing Language Learning Chatbots Through Synthesizing Conversational Data.**<br>
+*Y Li, S Qu, J Shen, S Min, Z Yu.*<br>
+arXiv:2309.16804, 2023.
+[[Paper](https://arxiv.org/pdf/2309.16804)]
 
 **CK12: A Rounded K12 Knowledge Graph Based Benchmark for Chinese Holistic Cognition Evaluation.**<br>
 *W You, P Wang, C Li, Z Ji, J Bai.*<br>
 Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29914/31598)]
 [[Github](https://github.com/tal-tech)]
+
+**Adapting large language models for education: Foundational capabilities, potentials, and challenges.**<br>
+*Q Li, L Fu, W Zhang, X Chen, J Yu, W Xia, W Zhang, R Tang, Y Yu.*<br>
+arXiv:2401.08664, 2023.
+[[Paper](https://arxiv.org/pdf/2401.08664?trk=public_post_comment-text)]
+
+**E-EVAL: A Comprehensive Chinese K-12 Education Evaluation Benchmark for Large Language Models.**<br>
+*J Hou, C Ao, H Wu, X Kong, Z Zheng, D Tang, C Li, X Hu, R Xu, S Ni, M Yang.*<br>
+arXiv:2401.15927, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.15927)]
+[[Github](https://github.com/AI-EDU-LAB/E-EVAL)]
+
+**Large language models for education: A survey and outlook.**<br>
+*S Wang, T Xu, H Li, C Zhang, J Liang, J Tang, PS Yu, Q Wen.*<br>
+arXiv:2403.18105, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.18105)]
+[[Github](https://github.com/AI-EDU-LAB/E-EVAL)]
 
 ### 📖Research
 
@@ -534,6 +552,11 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2309.05557)]
 [[Datasets](https://huggingface.co/datasets/NASP/neteval-exam,https://modelscope.cn/datasets/nasp/neteval-exam)]
 
+**NetConfEval: Can LLMs Facilitate Network Configuration?**<br>
+*C Wang, M Scazzariello, A Farshin, S Ferlin, D Kostić, M Chiesa.*<br>
+Proceedings of the ACM on Networking, 2024.
+[[ArXiv](https://dl.acm.org/doi/pdf/10.1145/3656296)]
+
 ### 📖Power
 
 **NuclearQA: A Human-Made Benchmark for Language Models for the Nuclear Domain.**<br>
@@ -554,13 +577,26 @@ CVPR, 2023.
 
 **To be refreshed...**<br>
 
-
 ### 📖Media
 
 **Evaluating the Effectiveness of GPT Large Language Model for News Classification in the IPTC News Ontology.**<br>
 *B Fatemi, F Rabbi, AL Opdahl.*<br>
 ArXiv, 2023.
 [[Paper](https://ieeexplore.ieee.org/iel7/6287639/6514899/10367969.pdf)]
+
+### 📖Design
+
+**How Good is ChatGPT in Giving Advice on Your Visualization Design.**<br>
+*NW Kim, G Myers, B Bach.*<br>
+arXiv:2310.09617, 2023.
+[[Paper](https://arxiv.org/pdf/2310.09617)]
+
+### 📖Internet
+
+**Llmrec: Benchmarking large language models on recommendation task.**<br>
+*J Liu, C Liu, P Zhou, Q Ye, D Chong, K Zhou, Y Xie, Y Cao, S Wang, C You, PS Yu.*<br>
+arXiv:2308.12241, 2023.
+[[Paper](https://arxiv.org/pdf/2308.12241)]
 
 ### 📖Robot
 
