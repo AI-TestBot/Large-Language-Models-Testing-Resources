@@ -25,7 +25,7 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[Finance](#Finance)
   * 📖[Medical](#Medical)
   * 📖[Law](#Law)
-  * 📖[Software](#Software)
+  * 📖[Engineering](#Engineering)
   * 📖[Education](#Education)
   * 📖[Research](#Research)
   * 📖[Goverment-Affairs](#Goverment-Affairs)
@@ -483,10 +483,10 @@ CAAI, 2023.
 
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2023| Empower large language model to perform better on industrial domain-specific question answering.|[[ArXiv]](https://arxiv.org/pdf/2305.11541) |-|[[Github]](https://github.com/microsoft/Microsoft-Q-A-MSQA-)|-|
-|2023| Exploring the effectiveness of llms in automated logging generation: An empirical study.|[[ArXiv]](https://arxiv.org/pdf/2307.05950) |-|[[Github]](https://github.com/LoggingResearch/LoggingEmpirical)|-|
+|2023| Software |Empower large language model to perform better on industrial domain-specific question answering.|[[ArXiv]](https://arxiv.org/pdf/2305.11541) |-|[[Github]](https://github.com/microsoft/Microsoft-Q-A-MSQA-)|-|
 |2023| Software |Exploring the effectiveness of llms in automated logging generation: An empirical study.|[[ArXiv]](https://arxiv.org/pdf/2307.05950) |-|[[Github]](https://github.com/LoggingResearch/LoggingEmpirical)|-|
-|2024| CloudEval-YAML A Practical Benchmark for Cloud Native YAML Configuration Generation.|[[MLSys]](https://proceedings.mlsys.org/paper_files/paper/2024/file/554e056fe2b6d9fd27ffcd3367ae1267-Paper-Conference.pdf) |-|[[Github]](https://github.com/alibaba/CloudEval-YAML)|-|
+|2023| Software |Exploring the effectiveness of llms in automated logging generation: An empirical study.|[[ArXiv]](https://arxiv.org/pdf/2307.05950) |-|[[Github]](https://github.com/LoggingResearch/LoggingEmpirical)|-|
+|2024| Software |CloudEval-YAML A Practical Benchmark for Cloud Native YAML Configuration Generation.|[[MLSys]](https://proceedings.mlsys.org/paper_files/paper/2024/file/554e056fe2b6d9fd27ffcd3367ae1267-Paper-Conference.pdf) |-|[[Github]](https://github.com/alibaba/CloudEval-YAML)|-|
 
 ### 📖Education
 
