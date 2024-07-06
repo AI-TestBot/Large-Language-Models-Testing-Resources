@@ -319,19 +319,17 @@ arxiv:2305.10235, 2023.
 
 ### 📖Finance
 
-**WHEN FLUE MEETS FLANG: Benchmarks and Large Pre-trained Language Model for Financial Domain.**<br>
-*Raj Sanjay Shah, Kunal Chawla, Dheeraj Eidnani, Agam Shah, Wendi Du, Sudheer Chava, Natraj Raman, Charese Smiley, Jiaao Chen, Diyi Yang.*<br>
-ArXiv, 2022.
-[[ArXiv](https://arxiv.org/pdf/2211.00083.pdf)]
-[[Github](https://salt-nlp.github.io/FLANG/)]
-[[Datasets](https://huggingface.co/SALT-NLP/FLANG-BERT)]
-
-**PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance.**<br>
-*Q Xie, W Han, X Zhang, Y Lai, M Peng, A Lopez-Lira, J Huang.*<br>
+**BBT-Fin: Comprehensive Construction of Chinese Financial Domain Pre-trained Language Model, Corpus and Benchmark.**<br>
+*Dakuan Lu, Hengkui Wu, Jiaqing Liang, Yipei Xu, Qianyu He, Yipeng Geng, Mengkun Han, Yingsi Xin, Yanghua Xiao.*<br>
 ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2306.05443.pdf)]
-[[Github](https://github.com/The-FinAI/PIXIU)]
-[[Datasets](https://huggingface.co/ChanceFocus)]
+[[ArXiv](https://arxiv.org/pdf/2302.09432.pdf)]
+[[Github](https://github.com/ssymmetry/BBT-FinCUGE-Applications)]
+
+**FinanceBench: A New Benchmark for Financial Question Answering.**<br>
+*Pranab Islam, Anand Kannappan, Douwe Kiela, Rebecca Qian, Nino Scherrer, Bertie Vidgen.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.11944.pdf)]
+[[Github](https://github.com/patronus-ai/financebench)]
 
 **FinEval: A Chinese Financial Domain Knowledge Evaluation Benchmark for Large Language Models.**<br>
 *Liwen Zhang, Weige Cai, Zhaowei Liu, Zhi Yang, Wei Dai, Yujie Liao, Qianru Qin, Yifei Li, Xingyu Liu, Zhiqiang Liu, Zhoufan Zhu, Anbo Wu, Xin Guo, Yun Chen.*<br>
@@ -340,12 +338,6 @@ ArXiv, 2023.
 [[Github](https://github.com/SUFE-AIFLM-Lab/FinEval)]
 [[Datasets](https://huggingface.co/datasets/SUFE-AIFLM-Lab/FinEval)]
 
-**BBT-Fin: Comprehensive Construction of Chinese Financial Domain Pre-trained Language Model, Corpus and Benchmark.**<br>
-*Dakuan Lu, Hengkui Wu, Jiaqing Liang, Yipei Xu, Qianyu He, Yipeng Geng, Mengkun Han, Yingsi Xin, Yanghua Xiao.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2302.09432.pdf)]
-[[Github](https://github.com/ssymmetry/BBT-FinCUGE-Applications)]
-
 **FinGPT: Open-Source Financial Large Language Models.**<br>
 *Hongyang Yang, Xiao-Yang Liu, Christina Dan Wang.*<br>
 ArXiv, 2023.
@@ -353,11 +345,19 @@ ArXiv, 2023.
 [[Github](https://github.com/AI4Finance-Foundation/FinNLP)]
 [[Datasets](https://ai4finance-foundation.github.io/FinNLP/)]
 
-**FinanceBench: A New Benchmark for Financial Question Answering.**<br>
-*Pranab Islam, Anand Kannappan, Douwe Kiela, Rebecca Qian, Nino Scherrer, Bertie Vidgen.*<br>
+**PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance.**<br>
+*Q Xie, W Han, X Zhang, Y Lai, M Peng, A Lopez-Lira, J Huang.*<br>
 ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2311.11944.pdf)]
-[[Github](https://github.com/patronus-ai/financebench)]
+[[ArXiv](https://arxiv.org/pdf/2306.05443.pdf)]
+[[Github](https://github.com/The-FinAI/PIXIU)]
+[[Datasets](https://huggingface.co/ChanceFocus)]
+
+**WHEN FLUE MEETS FLANG: Benchmarks and Large Pre-trained Language Model for Financial Domain.**<br>
+*Raj Sanjay Shah, Kunal Chawla, Dheeraj Eidnani, Agam Shah, Wendi Du, Sudheer Chava, Natraj Raman, Charese Smiley, Jiaao Chen, Diyi Yang.*<br>
+ArXiv, 2022.
+[[ArXiv](https://arxiv.org/pdf/2211.00083.pdf)]
+[[Github](https://salt-nlp.github.io/FLANG/)]
+[[Datasets](https://huggingface.co/SALT-NLP/FLANG-BERT)]
 
 ### 📖Medical
 
@@ -378,9 +378,29 @@ AS, 2021.
 for Medical domain Question Answering.**<br>
 *Ankit Pal, Logesh Kumar Umapathi, Malaikannan Sankarasubbu.*<br>
 PMLR, 2022.
-[[ArXiv]()]
+[[ArXiv](https://proceedings.mlr.press/v174/pal22a/pal22a.pdf)]
 [[Github](https://medmcqa.github.io/ )]
 [[Datasets](https://huggingface.co/datasets/medmcqa)]
+
+**Benchmarking Large Language Models on CMExam - A comprehensive Chinese Medical Exam Dataset.**<br>
+*Junling Liu, Peilin Zhou, Yining Hua, Dading Chong, Zhongyu Tian, Andrew Liu, Helin Wang, Chenyu You, Zhenhua Guo, LEI ZHU, Michael Lingzhi Li.*<br>
+Nips, 2023.
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a48ad12d588c597f4725a8b84af647b5-Abstract-Datasets_and_Benchmarks.html)]
+[[Github](https://github.com/williamliujl/CMExam)]
+
+**ExplainCPE: A Free-text Explanation Benchmark of Chinese Pharmacist Examination.**<br>
+*Dongfang Li, Jindi Yu, Baotian Hu, Zhenran Xu, Min Zhang.*<br>
+EMNLP, 2023.
+[[ArXiv](https://arxiv.org/abs/2305.12945)]
+[[Github](https://github.com/HITsz-TMG/ExplainCPE)]
+
+**CMB: A Comprehensive Medical Benchmark in Chinese.**<br>
+*Xidong Wang, Guiming Hardy Chen, Dingjie Song, Zhiyi Zhang, Zhihong Chen, Qingying Xiao, Feng Jiang, Jianquan Li, Xiang Wan, Benyou Wang, Haizhou Li.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/abs/2308.08833)]
+[[Datasets](https://huggingface.co/datasets/FreedomIntelligence/CMB/tree/main,https://cmedbenchmark.llmzoo.com/)]
+
+
 
 **Large Language Models Encode Clinical Knowledge.**<br>
 *Karan Singhal, Shekoofeh Azizi, Tao Tu, S. Sara Mahdavi, Jason Wei, Hyung Won Chung, Nathan Scales, Ajay Tanwani, Heather Cole-Lewis, Stephen Pfohl, Perry Payne, Martin Seneviratne, Paul Gamble, Chris Kelly, Nathaneal Scharli, Aakanksha Chowdhery, Philip Mansfield, Blaise Aguera y Arcas, Dale Webster, Greg S. Corrado, Yossi Matias, Katherine Chou, Juraj Gottweis, Nenad Tomasev, Yun Liu, Alvin Rajkomar, Joelle Barral, Christopher Semturs, Alan Karthikesalingam, Vivek Natarajan.*<br>
@@ -392,46 +412,37 @@ Natrue, 2023.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2305.07340.pdf)]
 
-**Benchmarking Large Language Models on CMExam - A comprehensive Chinese Medical Exam Dataset.**<br>
-*Junling Liu, Peilin Zhou, Yining Hua, Dading Chong, Zhongyu Tian, Andrew Liu, Helin Wang, Chenyu You, Zhenhua Guo, LEI ZHU, Michael Lingzhi Li.*<br>
-Nips, 2023.
-[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a48ad12d588c597f4725a8b84af647b5-Abstract-Datasets_and_Benchmarks.html)]
-[[Github](https://github.com/williamliujl/CMExam)]
-
-**CMB: A Comprehensive Medical Benchmark in Chinese.**<br>
-*Xidong Wang, Guiming Hardy Chen, Dingjie Song, Zhiyi Zhang, Zhihong Chen, Qingying Xiao, Feng Jiang, Jianquan Li, Xiang Wan, Benyou Wang, Haizhou Li.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/abs/2308.08833)]
-[[Datasets](https://huggingface.co/datasets/FreedomIntelligence/CMB/tree/main,https://cmedbenchmark.llmzoo.com/)]
-
-**ExplainCPE: A Free-text Explanation Benchmark of Chinese Pharmacist Examination.**<br>
-*Dongfang Li, Jindi Yu, Baotian Hu, Zhenran Xu, Min Zhang.*<br>
-EMNLP, 2023.
-[[ArXiv](https://arxiv.org/abs/2305.12945)]
-[[Github](https://github.com/HITsz-TMG/ExplainCPE)]
-
 **PromptCBLUE: A Chinese Prompt Tuning Benchmark for the Medical Domain.**<br>
 *Wei Zhu, Xiaoling Wang, Huanran Zheng, Mosha Chen, Buzhou Tang.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.14151.pdf)]
 [[Datasets](https://tianchi.aliyun.com/competition/entrance/532084/introduction)]
 
-**MedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models.**<br>
-*Cai, Y., Wang, L., Wang, Y., de Melo, G., Zhang, Y., Wang, Y., & He, L.*<br>
-AAAI, 2023.
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29723)]
-[[Github](https://github.com/michael-wzhu/PromptCBLUE)]
-
-**Foundation metrics for evaluating effectiveness of healthcare conversations powered by generative AI.**<br>
-*M Abbasian, E Khatibi, I Azimi, D Oniani, Z Shakeri Hossein Abad, A Thieme, R Sriram, et al.*<br>
-NPJ Digital Medicine, 2024.
-[[Paper](https://www.nature.com/articles/s41746-024-01074-z.pdf)]
-
 **Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench.**<br>
 *Jen-tse Huang, Wenxuan Wang, Eric John Li, Man Ho Lam, Shujie Ren, Youliang Yuan, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2310.01386)]
 [[Github](https://github.com/CUHK-ARISE/PsychoBench)]
+
+**Large language models encode clinical knowledge.**<br>
+*K Singhal, S Azizi, T Tu, SS Mahdavi, J Wei, HW Chung, et al.*<br>
+Nature, 2023.
+
+**MedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models.**<br>
+*Cai, Y., Wang, L., Wang, Y., de Melo, G., Zhang, Y., Wang, Y., & He, L.*<br>
+AAAI, 2024.
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29723)]
+[[Github](https://github.com/michael-wzhu/PromptCBLUE)]
+
+**Evaluation of ChatGPT-generated medical responses: a systematic review and meta-analysis.**<br>
+*Q Wei, Z Yao, Y Cui, B Wei, Z Jin, X Xu.*<br>
+Journal of Biomedical Informatics, 2024.
+[[Paper](https://arxiv.org/pdf/2310.08410)]
+
+**Foundation metrics for evaluating effectiveness of healthcare conversations powered by generative AI.**<br>
+*M Abbasian, E Khatibi, I Azimi, D Oniani, Z Shakeri Hossein Abad, A Thieme, R Sriram, et al.*<br>
+NPJ Digital Medicine, 2024.
+[[Paper](https://www.nature.com/articles/s41746-024-01074-z.pdf)]
 
 ### 📖Law
 
