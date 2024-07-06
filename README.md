@@ -400,13 +400,6 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2308.08833)]
 [[Datasets](https://huggingface.co/datasets/FreedomIntelligence/CMB/tree/main,https://cmedbenchmark.llmzoo.com/)]
 
-
-
-**Large Language Models Encode Clinical Knowledge.**<br>
-*Karan Singhal, Shekoofeh Azizi, Tao Tu, S. Sara Mahdavi, Jason Wei, Hyung Won Chung, Nathan Scales, Ajay Tanwani, Heather Cole-Lewis, Stephen Pfohl, Perry Payne, Martin Seneviratne, Paul Gamble, Chris Kelly, Nathaneal Scharli, Aakanksha Chowdhery, Philip Mansfield, Blaise Aguera y Arcas, Dale Webster, Greg S. Corrado, Yossi Matias, Katherine Chou, Juraj Gottweis, Nenad Tomasev, Yun Liu, Alvin Rajkomar, Joelle Barral, Christopher Semturs, Alan Karthikesalingam, Vivek Natarajan.*<br>
-Natrue, 2023.
-[[HomePage](https://www.nature.com/articles/s41586-023-06291-2)]
-
 **MedGPTEval: A Dataset and Benchmark to Evaluate Responses of Large Language Models in Medicine.**<br>
 *Jie Xu, Lu Lu, Sen Yang, Bilin Liang, Xinwei Peng, Jiali Pang, Jinru Ding, Xiaoming Shi, Lingrui Yang, Huan Song, Kang Li, Xin Sun, Shaoting Zhang.*<br>
 ArXiv, 2023.
@@ -424,9 +417,10 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2310.01386)]
 [[Github](https://github.com/CUHK-ARISE/PsychoBench)]
 
-**Large language models encode clinical knowledge.**<br>
-*K Singhal, S Azizi, T Tu, SS Mahdavi, J Wei, HW Chung, et al.*<br>
-Nature, 2023.
+**Large Language Models Encode Clinical Knowledge.**<br>
+*Karan Singhal, Shekoofeh Azizi, Tao Tu, S. Sara Mahdavi, Jason Wei, Hyung Won Chung, Nathan Scales, Ajay Tanwani, Heather Cole-Lewis, Stephen Pfohl, Perry Payne, Martin Seneviratne, Paul Gamble, Chris Kelly, Nathaneal Scharli, Aakanksha Chowdhery, Philip Mansfield, Blaise Aguera y Arcas, Dale Webster, Greg S. Corrado, Yossi Matias, Katherine Chou, Juraj Gottweis, Nenad Tomasev, Yun Liu, Alvin Rajkomar, Joelle Barral, Christopher Semturs, Alan Karthikesalingam, Vivek Natarajan.*<br>
+Natrue, 2023.
+[[HomePage](https://www.nature.com/articles/s41586-023-06291-2)]
 
 **MedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models.**<br>
 *Cai, Y., Wang, L., Wang, Y., de Melo, G., Zhang, Y., Wang, Y., & He, L.*<br>
@@ -458,12 +452,6 @@ ArXiv, 2021.
 [[Github](https://github.com/TheAtticusProject/cuad/)]
 [[Datasets](https://www.atticusprojectai.org/cuad)]
 
-**LawBench: Benchmarking Legal Knowledge of Large Language Models.**<br>
-*Zhiwei Fei, Xiaoyu Shen, Dawei Zhu, Fengzhe Zhou, Zhuo Han, Songyang Zhang, Kai Chen, Zongwen Shen, Jidong Ge.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/abs/2309.16289)]
-[[Github](https://github.com/open-compass/LawBench/)]
-
 **LegalBench: Prototyping a Collaborative Benchmark for Legal Reasoning.**<br>
 *Neel Guha, Daniel E. Ho, Julian Nyarko, Christopher Ré.*<br>
 ArXiv, 2022.
@@ -475,6 +463,21 @@ ArXiv, 2022.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/abs/2310.05620)]
 [[Github](https://github.com/CSHaitao/LexiLaw)]
+
+**LawBench: Benchmarking Legal Knowledge of Large Language Models.**<br>
+*Zhiwei Fei, Xiaoyu Shen, Dawei Zhu, Fengzhe Zhou, Zhuo Han, Songyang Zhang, Kai Chen, Zongwen Shen, Jidong Ge.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/abs/2309.16289)]
+[[Github](https://github.com/open-compass/LawBench/)]\
+
+**司法大语言模型评估框架路线分析.**<br>
+*李海涛，艾清遥，吴玥悦，刘奕群.*<br>
+CAAI, 2023.
+
+**法律大模型评估指标和测评方法.**<br>
+*许建峰，刘程远，况琨，何浩，孙常龙，李宝善，魏斌，杨力，金耀辉，吴飞.*<br>
+中国人工智能学会, 2024.
+[[Paper](https://mp.weixin.qq.com/s?__biz=MjM5ODIwNjEzNQ==&mid=2649886453&idx=1&sn=72efeda0e5c31828ef793f78f32cee35&chksm=bec8e12d89bf683b543d96281ad2b76f03c4e107ff73fb9e19a640a876c7718f14fea5683c7b&scene=27)]
 
 ### 📖Software
 
