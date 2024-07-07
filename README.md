@@ -161,10 +161,15 @@ arXiv:2311.05374, 2023.
 
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2015| Summarization |Lcsts: A large scale chinese short text summarization dataset.|[[EMNLP]](https://arxiv.org/pdf/1506.05865) |[[homepage]](http://icrc.hitsz.edu.cn/Article/show/139.html) |-|-|
-|2015| Summarization |DialogSum: A real-life scenario dialogue summarization dataset.|[[arXiv]](https://arxiv.org/pdf/2105.06762) |-|[[Github]](https://github.com/cylnlp/DialogSum)|-|
-|2024| QA |Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf) |[[homepage]](https://chat.lmsys.org/)|-|-|
-|2024| QA |MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues.|[[arXiv]](https://arxiv.org/pdf/2402.14762) |-|[[Github]](https://github.com/mtbench101/mt-bench-101)|-|
+|2015| Summarization | Lcsts: A large scale chinese short text summarization dataset.|[[EMNLP]](https://arxiv.org/pdf/1506.05865) |[[homepage]](http://icrc.hitsz.edu.cn/Article/show/139.html) |-|-|
+|2019| Summarization | Don't give me the details, just the summary! topic-aware convolutional neural networks for extreme summarization.|[[arXiv]](https://arxiv.org/pdf/1808.08745) |-|[[Github]](https://github.com/EdinburghNLP/XSum)|-|
+|2019| Summarization | SAMSum corpus A human-annotated dialogue dataset for abstractive summarization.|[[arXiv]](https://arxiv.org/pdf/1911.12237) |-|-|-|
+|2021| Summarization | DialogSum: A real-life scenario dialogue summarization dataset.|[[arXiv]](https://arxiv.org/pdf/2105.06762) |-|[[Github]](https://github.com/cylnlp/DialogSum)|-|
+|2023| Summarization | Clinical text summarization: adapting large language models can outperform human experts.|[[arXiv]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10635391/pdf/nihpp-rs3483777v1.pdf) |-|-|-|
+|2023| Summarization | Embrace divergence for richer insights: A multi-document summarization benchmark and a case study on summarizing diverse information from news articles.|[[arXiv]](https://arxiv.org/pdf/2309.09369) |-|[[Github]](https://github.com/salesforce/DiverseSumm)|-|
+|2024| Summarization | Benchmarking large language models for news summarization.|[[TACL]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00632/119276) |-|-|-|
+|2024| QA | Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf) |[[homepage]](https://chat.lmsys.org/)|-|-|
+|2024| QA | MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues.|[[arXiv]](https://arxiv.org/pdf/2402.14762) |-|[[Github]](https://github.com/mtbench101/mt-bench-101)|-|
 
 ### 📖Reasoning
 
