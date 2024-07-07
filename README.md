@@ -153,6 +153,7 @@ arXiv:2311.05374, 2023.
 |2023| Semantic | The two word test: A semantic benchmark for large language models.|[[ArXiv]](https://arxiv.org/pdf/2306.04610) |-|-|-|
 |2023| Semantic | This is not a dataset: A large negation benchmark to challenge large language models.|[[ArXiv]](https://arxiv.org/pdf/2310.15941) |-|[[Github]](https://github.com/hitz-zentroa/This-is-not-a-Dataset)|-|
 |2023| Graph | Gpt4graph: Can large language models understand graph structured data? an empirical evaluation and benchmarking.|[[ArXiv]](https://arxiv.org/pdf/2305.15066) |-|-|-|
+|2018| Knowledge | Can a suit of armor conduct electricity? a new dataset for open book question answering.|[[ArXiv]](https://arxiv.org/pdf/1809.02789) |-|[[Github]](https://leaderboard.allenai.org/open_book_qa)|-|
 |2021| Knowledge | Measuring massive multitask language understanding.|[[ICLR]](https://arxiv.org/pdf/2009.03300.pdf?trk=public_post_comment-text) |-|[[Github]](https://github.com/hendrycks/test)|[[Huggingface]](https://huggingface.co/datasets/tasksource/mmlu)|
 |2023| Knowledge | C-EVAL: Evaluating Ancient Chinese Language Understanding in Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2307.05950) |-|[[Github]](https://github.com/yuting-wei/AC-EVAL)|-|
 |2023| Knowledge | Cmmlu: Measuring massive multitask language understanding in chinese.|[[ArXiv]](https://arxiv.org/pdf/2306.09212) |-|[[Github]](https://github.com/haonan-li/CMMLU)|-|
