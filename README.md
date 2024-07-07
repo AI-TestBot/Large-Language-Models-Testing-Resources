@@ -139,6 +139,8 @@ arXiv:2311.05374, 2023.
 
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2018| Comprehensive | GLUE: A multi-task benchmark and analysis platform for natural language understanding.|[[ArXiv]](https://arxiv.org/pdf/1804.07461) |[[Homepage]](https://super.gluebenchmark.com/)|-|-|
+|2019| Comprehensive | Superglue: A stickier benchmark for general-purpose language understanding systems.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2019/file/4496bf24afe7fab6f046bf4923da8de6-Paper.pdf) |[[Homepage]](https://super.gluebenchmark.com/)|-|-|
 |2017| Reading | Race: Large-scale reading comprehension dataset from examinations.|[[ArXiv]](https://arxiv.org/pdf/1704.04683) |-|[[Github]](https://github.com/qizhex/RACE_AR_baselines)|[[Datasets]](http://www.cs.cmu.edu/~glai1/data/race/)|
 |2017| Reading | DROP: A reading comprehension benchmark requiring discrete reasoning over paragraphs.|[[ArXiv]](https://arxiv.org/pdf/1903.00161) |[[Homepage]](https://allenai.org/data/drop)|-|-|
 |2021| Knowledge | Measuring massive multitask language understanding.|[[ICLR]](https://arxiv.org/pdf/2009.03300.pdf?trk=public_post_comment-text) |-|[[Github]](https://github.com/hendrycks/test)|[[Huggingface]](https://huggingface.co/datasets/tasksource/mmlu)|
