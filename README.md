@@ -87,18 +87,33 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 
 ## 📖Review
 
-**A Survey on Evaluation of Large Language Models.**<br>
-*Y Chang, X Wang, J Wang, Y Wu, L Yang, K Zhu, H Chen, X Yi, C Wang, Y Wang, W Ye, et al.*<br>
-ACM Transactions on Intelligent Systems and Technology, 2023.
-[[Paper](https://dl.acm.org/doi/pdf/10.1145/3641289)]
-[[ArXiv](https://arxiv.org/pdf/2307.03109.pdf)]
-[[Github](https://github.com/MLGroupJLU/LLM-eval-survey)]
-
 **Evaluating large language models: A comprehensive survey.**<br>
 *Z Guo, R Jin, C Liu, Y Huang, D Shi, L Yu, Y Liu, J Li, B Xiong, D Xiong.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.19736)]
 [[Github](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)]
+
+**A Survey on Evaluation of Large Language Models.**<br>
+*Y Chang, X Wang, J Wang, Y Wu, L Yang, K Zhu, H Chen, X Yi, C Wang, Y Wang, W Ye, et al.*<br>
+ACM Transactions on Intelligent Systems and Technology, 2024.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3641289)]
+[[ArXiv](https://arxiv.org/pdf/2307.03109.pdf)]
+[[Github](https://github.com/MLGroupJLU/LLM-eval-survey)]
+
+**Through the lens of core competency: Survey on evaluation of large language models.**<br>
+*Z Ziyu, C Qiguang, M Longxuan, L Mingda, et al.*<br>
+CCL, 2024.
+[[Paper](https://arxiv.org/pdf/2302.04023)]
+
+**A multitask, multilingual, multimodal evaluation of chatgpt on reasoning, hallucination, and interactivity.**<br>
+*Y Bang, S Cahyawijaya, N Lee, W Dai, D Su, et al.*<br>
+arXiv, 2023.
+[[Paper](https://arxiv.org/pdf/2305.18486)]
+
+**A systematic study and comprehensive evaluation of ChatGPT on benchmark datasets.**<br>
+*MTR Laskar, MS Bari, M Rahman, MAH Bhuiyan, S Joty, JX Huang.*<br>
+arXiv:2305.18486, 2023.
+[[Paper](https://arxiv.org/pdf/2305.18486)]
 
 ## 📖General
 
