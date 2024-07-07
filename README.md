@@ -105,6 +105,10 @@ ACM Transactions on Intelligent Systems and Technology, 2024.
 CCL, 2024.
 [[Paper](https://arxiv.org/pdf/2302.04023)]
 
+**大语言模型评测综述.**<br>
+*罗 文,王厚峰.*<br>
+中文信息学报, 2024.
+
 **A multitask, multilingual, multimodal evaluation of chatgpt on reasoning, hallucination, and interactivity.**<br>
 *Y Bang, S Cahyawijaya, N Lee, W Dai, D Su, et al.*<br>
 arXiv, 2023.
@@ -133,18 +137,12 @@ arXiv:2311.05374, 2023.
 
 ### 📖Understanding
 
-**Measuring massive multitask language understanding.**<br>
-*D Hendrycks, C Burns, S Basart, A Zou, M Mazeika, D Song, J Steinhardt.*<br>
-ICLR, 2021.
-[[ArXiv](https://arxiv.org/pdf/2009.03300.pdf?trk=public_post_comment-text)]
-[[Github](https://github.com/hendrycks/test)]
-[[Datasets](https://huggingface.co/datasets/tasksource/mmlu)]
-
-**C-EVAL: Evaluating Ancient Chinese Language Understanding in Large Language Models.**<br>
-*Y Wei, Y Xu, X Wei, S Yang, Y Zhu, Y Li, D Liu, B Wu.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2403.06574)]
-[[Github](https://github.com/yuting-wei/AC-EVAL)]
+|Date|Task|Title|Paper|HomePage|Github|DataSets|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2021| Knowledge | Measuring massive multitask language understanding.|[[ICLR]](https://arxiv.org/pdf/2009.03300.pdf?trk=public_post_comment-text) |-|[[Github]](https://github.com/hendrycks/test)|[[Huggingface]](https://huggingface.co/datasets/tasksource/mmlu)|
+|2023| Knowledge | C-EVAL: Evaluating Ancient Chinese Language Understanding in Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2307.05950) |-|[[Github]](https://github.com/yuting-wei/AC-EVAL)|-|
+|2023| Knowledge | Cmmlu: Measuring massive multitask language understanding in chinese.|[[ArXiv]](https://arxiv.org/pdf/2306.09212) |-|[[Github]](https://github.com/haonan-li/CMMLU)|-|
+|2023| Knowledge | Measuring massive multitask chinese understanding.|[[ArXiv]](https://arxiv.org/pdf/2304.12986) |-|-|-|
 
 ### 📖Generation
 
