@@ -147,6 +147,7 @@ arXiv:2311.05374, 2023.
 |2017| Reading | Know what you don't know: Unanswerable questions for SQuAD.|[[ArXiv]](https://arxiv.org/pdf/1806.03822) |-|-|-|
 |2019| Reading | DROP: A reading comprehension benchmark requiring discrete reasoning over paragraphs.|[[ArXiv]](https://arxiv.org/pdf/1903.00161) |[[Homepage]](https://allenai.org/data/drop)|-|-|
 |2023| Reading | The belebele benchmark: a parallel reading comprehension dataset in 122 language variants.|[[ArXiv]](https://arxiv.org/pdf/2308.16884) |-|-|-|
+|2024| Reading | AC-EVAL: Evaluating Ancient Chinese Language Understanding in Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2403.06574) |-|[[Github]](https://github.com/yuting-wei/AC-EVAL)|-|
 |2023| Semantic | The two word test: A semantic benchmark for large language models.|[[ArXiv]](https://arxiv.org/pdf/2306.04610) |-|-|-|
 |2023| Semantic | This is not a dataset: A large negation benchmark to challenge large language models.|[[ArXiv]](https://arxiv.org/pdf/2310.15941) |-|[[Github]](https://github.com/hitz-zentroa/This-is-not-a-Dataset)|-|
 |2023| Graph | Gpt4graph: Can large language models understand graph structured data? an empirical evaluation and benchmarking.|[[ArXiv]](https://arxiv.org/pdf/2305.15066) |-|-|-|
@@ -154,6 +155,7 @@ arXiv:2311.05374, 2023.
 |2023| Knowledge | C-EVAL: Evaluating Ancient Chinese Language Understanding in Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2307.05950) |-|[[Github]](https://github.com/yuting-wei/AC-EVAL)|-|
 |2023| Knowledge | Cmmlu: Measuring massive multitask language understanding in chinese.|[[ArXiv]](https://arxiv.org/pdf/2306.09212) |-|[[Github]](https://github.com/haonan-li/CMMLU)|-|
 |2023| Knowledge | Measuring massive multitask chinese understanding.|[[ArXiv]](https://arxiv.org/pdf/2304.12986) |-|-|-|
+|2023| Metrics | Rethinking the Evaluating Framework for Natural Language Understanding in AI Systems: Language Acquisition as a Core for Future Metrics.|[[ArXiv]](https://arxiv.org/pdf/2309.11981) |-|-|-|
 
 ### 📖Generation
 
