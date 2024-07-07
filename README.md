@@ -66,9 +66,9 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
    * 📖[Contamination](#Contamination)
 * 📖[Supported-Elements](#Supported-Elements)
      * 📖[Organization](#Organization)
-     * 📖[Research-Group](#Research-Group)
+     * 📖[Research-Groups](#Research-Groups)
      * 📖[Conference](#Conference)
-     * 📖[Commercial-Companies](#Commercial-Companies)
+     * 📖[Company](#Company)
   
 ## 📖Leaderboard
 <div id="Leaderboard"></div>
@@ -937,7 +937,7 @@ ArXiv, 2024.
 *UC Berkeley.*<br>
 [[Homepage](https://lmsys.org/)]
 
-### 📖Research-Group
+### 📖Research-Groups
 
 |Category|Name|Organization|HomePage|Github|Scholar|
 |:---:|:---:|:---:|:---:|:---:|:---:|   
@@ -949,7 +949,7 @@ ArXiv, 2024.
 **NeurIPS (Datasets and Benchmarks Track).**<br>
 [[Homepage](https://dblp.uni-trier.de/db/conf/nips/neurips2023.html)]
 
-### 📖Commercial-Companies
+### 📖Company
 
 **Patronus AI.**<br>
 [[Homepage](https://www.patronus.ai/)]
