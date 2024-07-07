@@ -145,6 +145,7 @@ arXiv:2311.05374, 2023.
 |2019| Comprehensive | Fewclue: A chinese few-shot learning evaluation benchmark.|[[ArXiv]](https://arxiv.org/pdf/2107.07498) |[[Homepage]](https://www.cluebenchmarks.com/)|-|-|
 |2017| Reading | Race: Large-scale reading comprehension dataset from examinations.|[[ArXiv]](https://arxiv.org/pdf/1704.04683) |-|[[Github]](https://github.com/qizhex/RACE_AR_baselines)|[[Datasets]](http://www.cs.cmu.edu/~glai1/data/race/)|
 |2017| Reading | Know what you don't know: Unanswerable questions for SQuAD.|[[ArXiv]](https://arxiv.org/pdf/1806.03822) |-|-|-|
+|2017| Reading | Triviaqa: A large scale distantly supervised challenge dataset for reading comprehension.|[[ArXiv]](https://arxiv.org/pdf/1705.03551) |[[Homepage]](http://nlp.cs.washington.edu/triviaqa/)|-|-|
 |2019| Reading | DROP: A reading comprehension benchmark requiring discrete reasoning over paragraphs.|[[ArXiv]](https://arxiv.org/pdf/1903.00161) |[[Homepage]](https://allenai.org/data/drop)|-|-|
 |2023| Reading | The belebele benchmark: a parallel reading comprehension dataset in 122 language variants.|[[ArXiv]](https://arxiv.org/pdf/2308.16884) |-|-|-|
 |2024| Reading | AC-EVAL: Evaluating Ancient Chinese Language Understanding in Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2403.06574) |-|[[Github]](https://github.com/yuting-wei/AC-EVAL)|-|
@@ -170,6 +171,9 @@ arXiv:2311.05374, 2023.
 |2024| Summarization | Benchmarking large language models for news summarization.|[[TACL]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00632/119276) |-|-|-|
 |2024| QA | Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf) |[[homepage]](https://chat.lmsys.org/)|-|-|
 |2024| QA | MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues.|[[arXiv]](https://arxiv.org/pdf/2402.14762) |-|[[Github]](https://github.com/mtbench101/mt-bench-101)|-|
+|2023| Graph | Evaluating generative models for graph-to-text generation.|[[arXiv]](https://arxiv.org/pdf/2307.14712) |-|[[Github]](https://github.com/ShuzhouYuan/Eval_G2T_GenModels)|-|
+|2023| Graph | Text2kgbench: A benchmark for ontology-driven knowledge graph generation from text.|[[arXiv]](https://arxiv.org/pdf/2308.02357) |-|[[Github]](https://github.com/cenguix/Text2KGBench)|-|
+|2024| Content | Benchmarking large language models on controllable generation under diversified instructions.|[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/download/29734/31262) |-|[[Github]](https://github.com/Xt-cyh/CoDI-Eval)|-|
 
 ### 📖Reasoning
 
