@@ -147,6 +147,7 @@ arXiv:2311.05374, 2023.
 |2017| Reading | Know what you don't know: Unanswerable questions for SQuAD.|[[ArXiv]](https://arxiv.org/pdf/1806.03822) |-|-|-|
 |2017| Reading | Triviaqa: A large scale distantly supervised challenge dataset for reading comprehension.|[[ArXiv]](https://arxiv.org/pdf/1705.03551) |[[Homepage]](http://nlp.cs.washington.edu/triviaqa/)|-|-|
 |2019| Reading | DROP: A reading comprehension benchmark requiring discrete reasoning over paragraphs.|[[ArXiv]](https://arxiv.org/pdf/1903.00161) |[[Homepage]](https://allenai.org/data/drop)|-|-|
+|2019| Reading | BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions.|[[ArXiv]](https://arxiv.org/pdf/1905.10044) |[[Homepage]](https://github.com/google-research-datasets/boolean-questions)|-|-|
 |2023| Reading | The belebele benchmark: a parallel reading comprehension dataset in 122 language variants.|[[ArXiv]](https://arxiv.org/pdf/2308.16884) |-|-|-|
 |2024| Reading | AC-EVAL: Evaluating Ancient Chinese Language Understanding in Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2403.06574) |-|[[Github]](https://github.com/yuting-wei/AC-EVAL)|-|
 |2023| Semantic | The two word test: A semantic benchmark for large language models.|[[ArXiv]](https://arxiv.org/pdf/2306.04610) |-|-|-|
