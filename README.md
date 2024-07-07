@@ -189,47 +189,15 @@ arXiv:2311.05374, 2023.
 
 ### 📖Reasoning
 
-**Beyond the imitation game: Quantifying and extrapolating the capabilities of language models.**<br>
-*A Srivastava, A Rastogi, A Rao, AAM Shoeb, et al.*<br>
-arXiv, 2022.
-[[ArXiv](https://arxiv.org/pdf/2206.04615)]
-
-**Measuring Mathematical Problem Solving With the MATH Dataset.**<br>
-*Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, Jacob Steinhardt.*<br>
-Nips, 2021.
-[[ArXiv](https://arxiv.org/abs/2103.03874)]
-[[Datasets](https://paperswithcode.com/task/math-word-problem-solving)]
-
-**Deep Neural Solver for Math Word Problems.**<br>
-*Yan Wang, Xiaojiang Liu, Shuming Shi.*<br>
-EMNLP, 2017.
-[[Paper](https://aclanthology.org/D17-1088/)]
-[[Datasets](https://paperswithcode.com/task/math-word-problem-solving)]
-
-**Training verifiers to solve math word problems.**<br>
-*Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman.*<br>
-ArXiv, 2021.
-[[ArXiv](https://arxiv.org/abs/2110.14168)]
-[[Github](https://github.com/openai/grade_x005f_x0002_school-math)]
-[[Datasets](https://huggingface.co/datasets/gsm8k)]
-
-**CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?.**<br>
-*Tianwen Wei, Jian Luan, Wei Liu, Shuang Dong, Bin Wang.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/abs/2306.16636)]
-[[Datasets](https://huggingface.co/datasets/weitianwen/cmath)]
-
-**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts.**<br>
-*Pan Lu, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, Jianfeng Gao.*<br>
-AAAI, 2020.
-[[ArXiv](https://arxiv.org/abs/2310.01386)]
-[[Github](https://github.com/lupantech/MathVista)]
-[[Datasets](https://huggingface.co/datasets/AI4Math/MathVista)]
-
-**CausalBench: A Comprehensive Benchmark for Causal Learning Capability of Large Language Models.**<br>
-*Y Zhou, X Wu, B Huang, J Wu, L Feng, KC Tan.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2404.06349)]
+|Date|Task|Title|Paper|HomePage|Github|DataSets|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2022| Comprehensive | Beyond the imitation game: Quantifying and extrapolating the capabilities of language models.|[[ArXiv]](https://arxiv.org/pdf/2206.04615) |-|-|-|
+|2017| Math | Deep Neural Solver for Math Word Problems.|[[EMNLP]](https://aclanthology.org/D17-1088/) |-|-|[[DataSets]](https://paperswithcode.com/task/math-word-problem-solving) |
+|2021| Math | Measuring Mathematical Problem Solving With the MATH Dataset.|[[NeurIPS]](https://arxiv.org/abs/2103.03874) |-|-|[[DataSets]](https://paperswithcode.com/task/math-word-problem-solving) |
+|2021| Math | Training verifiers to solve math word problems.|[[NeurIPS]](https://arxiv.org/abs/2110.14168) |-|[[Github]](https://github.com/openai/grade_x005f_x0002_school-math)|[[DataSets]](https://huggingface.co/datasets/gsm8k) |
+|2023| Math | CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?|[[ArXiv]](https://arxiv.org/abs/2306.16636) |-|-|[[DataSets]](https://huggingface.co/datasets/weitianwen/cmath)|
+|2023| Math | MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts.|[[ArXiv]](https://arxiv.org/abs/2310.01386) |-|[[Github]](https://github.com/lupantech/MathVista)|[[DataSets]](https://huggingface.co/datasets/AI4Math/MathVista) |
+|2024| Causal | CausalBench: A Comprehensive Benchmark for Causal Learning Capability of Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2306.09296) |-|-|-|
 
 ### 📖Knowledge
 
