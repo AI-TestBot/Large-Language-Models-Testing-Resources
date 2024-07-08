@@ -196,8 +196,16 @@ arXiv:2311.05374, 2023.
 |2021| Math | Measuring Mathematical Problem Solving With the MATH Dataset.|[[NeurIPS]](https://arxiv.org/abs/2103.03874) |-|-|[[DataSets]](https://paperswithcode.com/task/math-word-problem-solving) |
 |2021| Math | Training verifiers to solve math word problems.|[[NeurIPS]](https://arxiv.org/abs/2110.14168) |-|[[Github]](https://github.com/openai/grade_x005f_x0002_school-math)|[[DataSets]](https://huggingface.co/datasets/gsm8k) |
 |2023| Math | CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?|[[ArXiv]](https://arxiv.org/abs/2306.16636) |-|-|[[DataSets]](https://huggingface.co/datasets/weitianwen/cmath)|
-|2023| Math | MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts.|[[ArXiv]](https://arxiv.org/abs/2310.01386) |-|[[Github]](https://github.com/lupantech/MathVista)|[[DataSets]](https://huggingface.co/datasets/AI4Math/MathVista) |
+|2023| Math | MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts.|[[ArXiv]](https://arxiv.org/abs/2310.01386) |-|[[Github]](https://github.com/lupantech/MathVista)|[[DataSets]](https://huggingface.co/datasets/AI4Math/MathVista)|
+|2012| Commonsense | The winograd schema challenge.|[[AAAI]](https://cdn.aaai.org/ocs/4492/4492-21843-1-PB.pdf) |-|-|-|
+|2018| Commonsense | Commonsenseqa: A question answering challenge targeting commonsense knowledge.|[[ArXiv]](https://arxiv.org/pdf/1811.00937) |-|-|-|
+|2019| Commonsense | Hellaswag Can a machine really finish your sentence.|[[ArXiv]](https://arxiv.org/pdf/1905.07830) |[[Homepage]](https://rowanzellers.com/hellaswag/)|-|-|
+|2019| Commonsense | Socialiqa: Commonsense reasoning about social interactions.|[[ArXiv]](https://arxiv.org/pdf/1904.09728) |[[Homepage]](https://maartensap.com/socialiqa/)|-|-|
+|2020| Commonsense | Piqa: Reasoning about physical commonsense in natural language.|[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/download/6239/6095) |-|-|-|
+|2021| Commonsense | Winogrande An adversarial winograd schema challenge at scale.|[[CACM]](https://dl.acm.org/doi/pdf/10.1145/3474381) |-|-|-|
+|2024| Commonsense | Benchmarking Chinese Commonsense Reasoning of LLMs: From Chinese-Specifics to Reasoning-Memorization Correlations.|[[ArXiv](https://arxiv.org/pdf/2403.14112) |-|[[Github](https://github.com/opendatalab/CHARM)|-|
 |2024| Causal | CausalBench: A Comprehensive Benchmark for Causal Learning Capability of Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2306.09296) |-|-|-|
+|2024| Causal | Cladder: A benchmark to assess causal reasoning capabilities of language models.|[[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/631bb9434d718ea309af82566347d607-Paper-Conference.pdf) |-|[[Github](https://github.com/causalNLP/cladder)|[[Huggingface](https://huggingface.co/datasets/causalNLP/cladder)|
 
 ### 📖Knowledge
 
