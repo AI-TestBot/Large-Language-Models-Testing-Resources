@@ -192,10 +192,14 @@ arXiv:2311.05374, 2023.
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2022| Comprehensive | Beyond the imitation game: Quantifying and extrapolating the capabilities of language models.|[[ArXiv]](https://arxiv.org/pdf/2206.04615) |-|-|-|
+|2023| Comprehensive | Arb: Advanced reasoning benchmark for large language models.|[[ArXiv]](https://arxiv.org/pdf/2307.13692) |-|-|-|
+|2023| Comprehensive | Nphardeval: Dynamic benchmark on reasoning ability of large language models via complexity classes.|[[ArXiv]](https://arxiv.org/pdf/2312.14890) |-|[[Github]](https://github.com/casmlab/NPHardEval)|-|
 |2017| Math | Deep Neural Solver for Math Word Problems.|[[EMNLP]](https://aclanthology.org/D17-1088/) |-|-|[[DataSets]](https://paperswithcode.com/task/math-word-problem-solving) |
 |2021| Math | Measuring Mathematical Problem Solving With the MATH Dataset.|[[NeurIPS]](https://arxiv.org/abs/2103.03874) |-|-|[[DataSets]](https://paperswithcode.com/task/math-word-problem-solving) |
 |2021| Math | Training verifiers to solve math word problems.|[[NeurIPS]](https://arxiv.org/abs/2110.14168) |-|[[Github]](https://github.com/openai/grade_x005f_x0002_school-math)|[[DataSets]](https://huggingface.co/datasets/gsm8k) |
+|2023| Math | Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil Cognitive Depth in LLMs.|[[ArXiv]](https://arxiv.org/pdf/2312.17080) |-|-|[[DataSets]](https://github.com/dvlab-research/MR-GSM8K)|
 |2023| Math | CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?|[[ArXiv]](https://arxiv.org/abs/2306.16636) |-|-|[[DataSets]](https://huggingface.co/datasets/weitianwen/cmath)|
+|2023| Math | TheoremQA: A Theorem-driven Question Answering Dataset.|[[ArXiv]](https://aclanthology.org/2023.emnlp-main.489.pdf)|-|-|-|
 |2023| Math | MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts.|[[ArXiv]](https://arxiv.org/abs/2310.01386) |-|[[Github]](https://github.com/lupantech/MathVista)|[[DataSets]](https://huggingface.co/datasets/AI4Math/MathVista)|
 |2012| Commonsense | The winograd schema challenge.|[[AAAI]](https://cdn.aaai.org/ocs/4492/4492-21843-1-PB.pdf) |-|-|-|
 |2018| Commonsense | Commonsenseqa: A question answering challenge targeting commonsense knowledge.|[[ArXiv]](https://arxiv.org/pdf/1811.00937) |-|-|-|
@@ -203,14 +207,19 @@ arXiv:2311.05374, 2023.
 |2019| Commonsense | Socialiqa: Commonsense reasoning about social interactions.|[[ArXiv]](https://arxiv.org/pdf/1904.09728) |[[Homepage]](https://maartensap.com/socialiqa/)|-|-|
 |2020| Commonsense | Piqa: Reasoning about physical commonsense in natural language.|[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/download/6239/6095) |-|-|-|
 |2021| Commonsense | Winogrande An adversarial winograd schema challenge at scale.|[[CACM]](https://dl.acm.org/doi/pdf/10.1145/3474381) |-|-|-|
+|2023| Commonsense | Worldsense: A synthetic benchmark for grounded reasoning in large language models.|[[ArXiv]](https://arxiv.org/pdf/2311.15930) |-|[[Github]](https://github.com/facebookresearch/worldsense)|-|
+|2024| Commonsense | Corecode: A common sense annotated dialogue dataset with benchmark tasks for chinese large language models.|[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/download/29861/31501) |-|[[Github]](https://github.com/danshi777/CORECODE)|-|
 |2024| Commonsense | Benchmarking Chinese Commonsense Reasoning of LLMs: From Chinese-Specifics to Reasoning-Memorization Correlations.|[[ArXiv]](https://arxiv.org/pdf/2403.14112) |-|[[Github]](https://github.com/opendatalab/CHARM)|-|
 |2016| Logic | Story cloze evaluator: Vector space representation evaluation by predicting what happens next.|[[ArXiv]](https://aclanthology.org/W16-2505.pdf) |-|-|-|
 |2016| Logic | The LAMBADA dataset: Word prediction requiring a broad discourse context.|[[ArXiv]](https://arxiv.org/pdf/1606.06031) |-|-|-|
+|2023| Logic | Towards benchmarking and improving the temporal reasoning capability of large language models.|[[ArXiv]](https://arxiv.org/pdf/2306.08952)|-|[[Github]](https://github.com/DAMO-NLP-SG/TempReason)|-|
 |2023| Logic | Towards logiglue: A brief survey and a benchmark for analyzing logical reasoning capabilities of language models.|[[ArXiv]](https://arxiv.org/pdf/2310.00836) |-|-|-|
+|2022| Causal | Wikiwhy: Answering and explaining cause-and-effect questions.|[[ArXiv]](https://arxiv.org/pdf/2210.12152) |-|-|-|
 |2024| Causal | CausalBench: A Comprehensive Benchmark for Causal Learning Capability of Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2306.09296) |-|-|-|
 |2024| Causal | Cladder: A benchmark to assess causal reasoning capabilities of language models.|[[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/631bb9434d718ea309af82566347d607-Paper-Conference.pdf) |-|[[Github]](https://github.com/causalNLP/cladder)|[[Huggingface]](https://huggingface.co/datasets/causalNLP/cladder)|
 |2023| Step | Art: Automatic multi-step reasoning and tool-use for large language models.|[[ArXiv]](https://arxiv.org/pdf/2303.09014) |-|[[Github](https://github.com/bhargaviparanjape/language-programmes/)|-|
 |2023| Step | STEPS: A Benchmark for Order Reasoning in Sequential Tasks.|[[ArXiv]](https://arxiv.org/pdf/2306.04441) |-|[[Github]](https://github.com/Victorwz/STEPS)|-|
+
 
 ### 📖Knowledge
 
