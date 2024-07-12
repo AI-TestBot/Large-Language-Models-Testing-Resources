@@ -526,7 +526,7 @@ CAAI, 2023.
 |2023| Software |Empower large language model to perform better on industrial domain-specific question answering.|[[ArXiv]](https://arxiv.org/pdf/2305.11541) |-|[[Github]](https://github.com/microsoft/Microsoft-Q-A-MSQA-)|-|
 |2023| Software |Exploring the effectiveness of llms in automated logging generation: An empirical study.|[[ArXiv]](https://arxiv.org/pdf/2307.05950) |-|[[Github]](https://github.com/LoggingResearch/LoggingEmpirical)|-|
 |2024| Software |CloudEval-YAML A Practical Benchmark for Cloud Native YAML Configuration Generation.|[[MLSys]](https://proceedings.mlsys.org/paper_files/paper/2024/file/554e056fe2b6d9fd27ffcd3367ae1267-Paper-Conference.pdf) |-|[[Github]](https://github.com/alibaba/CloudEval-YAML)|-|
-|2024| CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery.|[[ArXiv]](https://arxiv.org/pdf/2406.08587) |-|[[Github]](https://github.com/csbench/csbench)|-|
+|2024| Software |CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery.|[[ArXiv]](https://arxiv.org/pdf/2406.08587) |-|[[Github]](https://github.com/csbench/csbench)|-|
 
 ### 📖Education
 
