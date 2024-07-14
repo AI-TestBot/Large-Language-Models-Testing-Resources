@@ -66,7 +66,7 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
    * 📖[Contamination](#Contamination)
 * 📖[Supported-Elements](#Supported-Elements)
      * 📖[Organization](#Organization)
-     * 📖[Research-Groups](#Research-Groups)
+     * 📖[Group](#Group)
      * 📖[Conference](#Conference)
      * 📖[Company](#Company)
   
@@ -976,7 +976,7 @@ ArXiv, 2024.
 *UC Berkeley.*<br>
 [[Homepage](https://lmsys.org/)]
 
-### 📖Research-Groups
+### 📖Group
 
 |Category|Name|Organization|HomePage|Github|Scholar|
 |:---:|:---:|:---:|:---:|:---:|:---:|   
