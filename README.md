@@ -224,11 +224,39 @@ arXiv:2311.05374, 2023.
 
 ### 📖Knowledge
 
+**Think you have solved question answering? try arc, the ai2 reasoning challenge.**<br>
+*P Clark, I Cowhey, O Etzioni, T Khot, A Sabharwal, C Schoenick, O Tafjord.*<br>
+arXiv:1803.05457, 2018.
+[[ArXiv](https://arxiv.org/pdf/1803.05457)]
+
+**Agieval: A human-centric benchmark for evaluating foundation models.**<br>
+*W Zhong, R Cui, Y Guo, Y Liang, S Lu, Y Wang, et al.*<br>
+arXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2304.06364)]
+[[Github](https://github.com/ruixiangcui/AGIEval)]
+
+**Do llms understand social knowledge? evaluating the sociability of large language models with socket benchmark.**<br>
+*M Choi, J Pei, S Kumar, C Shu, D Jurgens.*<br>
+arXiv:2305.14938, 2023.
+[[ArXiv](https://arxiv.org/pdf/2305.14938)]
+[[Github](https://github.com/minjechoi/SOCKET)]
+
+**Eva-kellm: A new benchmark for evaluating knowledge editing of llms.**<br>
+*S Wu, M Peng, Y Chen, J Su, M Sun.*<br>
+arXiv:2308.09954, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.09954)]
+
 **KoLA: Carefully Benchmarking World Knowledge of Large Language Models.**<br>
 *J Yu, X Wang, S Tu, S Cao, D Zhang-Li, X Lv, H Peng, Z Yao, X Zhang, H Li, C Li, Z Zhang, et al.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2306.09296)]
 [[Homepages](http://103.238.162.37:31622/)]
+
+**ZhuJiu: A Multi-dimensional, Multi-faceted Chinese Benchmark for Large Language Models.**<br>
+*B Zhang, H Xie, P Du, J Chen, P Cao, Y Chen, S Liu, K Liu, J Zhao.*<br>
+arXiv:2308.14353, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.14353)]
+[[Homepages](http://www.zhujiu-benchmark.com/)]
 
 ### 📖Discipline
 
