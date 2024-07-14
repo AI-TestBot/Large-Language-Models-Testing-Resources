@@ -953,7 +953,7 @@ medRxiv, 2023.
 
 ## 📖Challenges
 
-### 📖Challenges-Contamination
+### 📖Contamination
 
 **KIEval: A Knowledge-grounded Interactive Evaluation Framework for Large Language Models.**<br>
 *Z Yu, C Gao, W Yao, Y Wang, W Ye, J Wang, X Xie, Y Zhang, S Zhang.*<br>
