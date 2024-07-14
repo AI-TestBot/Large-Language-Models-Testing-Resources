@@ -888,7 +888,7 @@ ArXiv, 2023.
 
 ## 📖Testing-Tools
 
-**Evals.**<br>
+**Evals**<br>
 *Openai*<br>
 [[Github](https://github.com/openai/evals)]
 
@@ -896,7 +896,7 @@ ArXiv, 2023.
 *EleutherAI*<br>
 [[Github](https://github.com/EleutherAI/lm-evaluation-harness)]
 
-**OpenCompass.**<br>
+**OpenCompass**<br>
 *司南大模型评测平台*<br>
 *上海人工智能实验室*<br>
 [[HomePage](https://opencompass.org.cn/home)]
