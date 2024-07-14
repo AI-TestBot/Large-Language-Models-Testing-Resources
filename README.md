@@ -972,7 +972,7 @@ ArXiv, 2024.
 
 ### 📖Organization
 
-**LMSYS Org.**<br>
+**LMSYS Org**<br>
 *UC Berkeley.*<br>
 [[Homepage](https://lmsys.org/)]
 
