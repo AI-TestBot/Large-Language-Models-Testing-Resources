@@ -21,6 +21,22 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[Instruction-Following](#Instruction-Following)
   * 📖[Reliable](#Reliable)
   * 📖[Robust](#Robust)
+* 📖[Security](#Security)
+  * 📖[Content-Security](#Content-Security)
+  * 📖[Value-Aligement](#Value-Aligement)
+  * 📖[Model-Security](#Model-Security)
+  * 📖[Privacy-Security](#Privacy-Security)
+* 📖[Application](#Application)
+  * 📖[AI-Assistant](#AI-Assistant)
+  * 📖[Chatbot](#Chatbot)
+  * 📖[Knowledge-Management](#Knowledge-Management)
+  * 📖[Data-Analysis](#Data-Analysiss)
+  * 📖[Code-Assistant](#Code-Assistant)
+  * 📖[Office-Assistant](#Office-Assistant)
+  * 📖[Content-Generation](#Content-Generation)
+  * 📖[TaskPlanning](#TaskPlanning)
+  * 📖[Agent](#Agent)
+  * 📖[EmbodiedAI](#EmbodiedAI)
 * 📖[Industry](#Industry)
   * 📖[Finance](#Finance)
   * 📖[Medical](#Medical)
@@ -38,22 +54,6 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[Internet](#Internet)
   * 📖[Robot](#Robot)
   * 📖[Game](#Game)
-* 📖[Application](#Application)
-  * 📖[AI-Assistant](#AI-Assistant)
-  * 📖[Chatbot](#Chatbot)
-  * 📖[Knowledge-Management](#Knowledge-Management)
-  * 📖[Data-Analysis](#Data-Analysiss)
-  * 📖[Code-Assistant](#Code-Assistant)
-  * 📖[Office-Assistant](#Office-Assistant)
-  * 📖[Content-Generation](#Content-Generation)
-  * 📖[TaskPlanning](#TaskPlanning)
-  * 📖[Agent](#Agent)
-  * 📖[EmbodiedAI](#EmbodiedAI)
-* 📖[Security](#Security)
-  * 📖[Content-Security](#Content-Security)
-  * 📖[Value-Aligement](#Value-Aligement)
-  * 📖[Model-Security](#Model-Security)
-  * 📖[Privacy-Security](#Privacy-Security)
 * 📖[Human-Machine-Interaction](#Human-Machine-Interaction)
   * 📖[User-Experience](#User-Experience)
 * 📖[Performance-Cost](#Performance-Cost)
@@ -387,6 +387,161 @@ arxiv:2305.10235, 2023.
 [[ArXiv](https://arxiv.org/pdf/2305.10235)]
 [[Github](https://github.com/yyy01/LLMRiskEval_RCC)]
 
+## 📖Security
+
+### 📖Content-Security
+
+**JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models.**<br>
+*M Zhang, X Pan, M Yang.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.00286.pdf)]
+[[Github](https://github.com/whitzard-ai/jade-db)]
+
+### 📖Value-Aligement
+
+**Cvalues: Measuring the values of chinese large language models from safety to responsibility.**<br>
+*G Xu, J Liu, M Yan, H Xu, J Si, Z Zhou, P Yi, X Gao, J Sang, R Zhang, J Zhang, C Peng, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.09705)]
+[[Github](https://github.com/X-PLUG/CValues)]
+
+**Alignbench: Benchmarking chinese alignment of large language models.**<br>
+*X Liu, X Lei, S Wang, Y Huang, Z Feng, B Wen, J Cheng, P Ke, Y Xu, WL Tam, X Zhang, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.18743)]
+[[Github](https://github.com/THUDM/AlignBench)]
+
+### 📖Model-Security
+
+**R-Judge: Benchmarking Safety Risk Awareness for LLM Agents.**<br>
+*T Yuan, Z He, L Dong, Y Wang, R Zhao, T **a, L Xu, B Zhou, F Li, Z Zhang, R Wang, G Liu.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.10019)]
+[[Github](https://github.com/Lordog/R-Judge)]
+
+**I Think, Therefore I am: Awareness in Large Language Models.**<br>
+*Y Li, Y Huang, Y Lin, S Wu, Y Wan, L Sun.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.17882)]
+[[Github](https://github.com/HowieHwong/Awareness-in-LLM)]
+
+### 📖Privacy-Security
+
+**Can llms keep a secret? testing privacy implications of language models via contextual integrity theory.**<br>
+*N Mireshghallah, H Kim, X Zhou, Y Tsvetkov, M Sap, R Shokri, Y Choi.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.17884)]
+[[Github](http://confaide.github.io/)]
+
+## 📖Application
+
+### 📖AI-Assistant
+
+**GAIA: a benchmark for General AI Assistants.**<br>
+*G Mialon, C Fourrier, C Swift, T Wolf, Y LeCun, T Scialom.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.12983.pdf?trk=public_post_comment-text)]
+[[Datasets](https://huggingface.co/datasets/gaia-benchmark/GAIA)]
+
+### 📖Chatbot
+
+**DialogBench: Evaluating LLMs as Human-like Dialogue Systems.**<br>
+*J Ou, J Lu, C Liu, Y Tang, F Zhang, D Zhang, Z Wang, K Gai.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.01677)]
+
+**BotChat: Evaluating LLMs' Capabilities of Having Multi-Turn Dialogues.**<br>
+*H Duan, J Wei, C Wang, H Liu, Y Fang, S Zhang, D Lin, K Chen.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.longhoe.net/pdf/2310.13650)]
+[[Github](https://github.com/open-compass/BotChat/)]
+
+**Lmsys-chat-1m: A large-scale real-world llm conversation dataset.**<br>
+*Lianmin Zheng, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.11998)]
+[[DataSets](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)]
+
+**Don't Forget Your ABC's: Evaluating the State-of-the-Art in Chat-Oriented Dialogue Systems.**<br>
+*SE Finch, JD Finch, JD Choi.*<br>
+arxiv:2212.09180, 2022.
+[[ArXiv](https://arxiv.org/pdf/2212.09180)]
+[[Github](https://github.com/emorynlp/ChatEvaluationPlatform)]
+
+### 📖Knowledge-Management
+
+**Benchmarking Large Language Models in Retrieval-Augmented Generation.**<br>
+*J Chen, H Lin, X Han, L Sun.*<br>
+AAAI, 2024.
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29728/31250)]
+[[Github](https://github.com/chen700564/RGB)]
+
+**Ares: An automated evaluation framework for retrieval-augmented generation systems.**<br>
+*J Saad-Falcon, O Khattab, C Potts, M Zaharia.*<br>
+arXiv:2311.09476, 2023.
+[[Paper](https://arxiv.org/pdf/2311.094760)]
+[[Github](https://github.com/stanford-futuredata/ARES)]
+
+**Crud-rag: A comprehensive chinese benchmark for retrieval-augmented generation of large language models.**<br>
+*Y Lyu, Z Li, S Niu, F Xiong, B Tang, W Wang, H Wu, H Liu, T Xu, E Chen.*<br>
+arXiv:2401.17043, 2024.
+[[Paper](https://arxiv.org/pdf/2401.17043)]
+
+### 📖Data-Analysis
+
+**Tapilot-Crossing: Benchmarking and Evolving LLMs Towards Interactive Data Analysis Agents.**<br>
+*J Li, N Huo, Y Gao, J Shi, Y Zhao, G Qu, Y Wu, C Ma, JG Lou, R Cheng.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.05307)]
+[[Github](https://tapilot-crossing.github.io/)]
+
+### 📖Code-Assistant
+
+**Measuring coding challenge competence with apps.**<br>
+*D Hendrycks, S Basart, S Kadavath, M Mazeika, et al.*<br>
+ArXiv, 2021.
+[[ArXiv](https://arxiv.org/pdf/2105.09938)]
+[[Github](https://github.com/hendrycks/apps)]
+
+### 📖Office-Assistant
+
+**Pptc benchmark: Evaluating large language models for powerpoint task completion.**<br>
+*Y Guo, Z Zhang, Y Liang, D Zhao, D Nan.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.01767)]
+[[Github](https://github.com/gydpku/PPTC)]
+
+### 📖Content-Generation
+
+**KIWI: A Dataset of Knowledge-Intensive Writing Instructions for Answering Research Questions.**<br>
+*F Xu, K Lo, L Soldaini, B Kuehl, E Choi, D Wadden.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.03866)]
+[[Homepage](https://www.cs.utexas.edu/~fxu/kiwi/)]
+
+### 📖TaskPlanning
+
+**Understanding the capabilities of large language models for automated planning.**<br>
+*Vishal Pallagani, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2305.16151)]
+
+### 📖Agent
+
+**Agentbench: Evaluating llms as agents.**<br>
+*X Liu, H Yu, H Zhang, Y Xu, X Lei, H Lai, Y Gu, H Ding, K Men, K Yang, S Zhang, X Deng, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.03688)]
+[[Homepage](https://llmbench.ai/agent)]
+
+### 📖EmbodiedAI
+
+**Sqa3d: Situated question answering in 3d scenes.**<br>
+*X Ma, S Yong, Z Zheng, Q Li, Y Liang, SC Zhu, S Huang.*<br>
+ICLR, 2023.
+[[ArXiv](https://arxiv.org/pdf/2210.07474)]
+[[Homepage](https://sqa3d.github.io/)]
+
 ## 📖Industry
 
 ### 📖Finance
@@ -690,161 +845,6 @@ arXiv:2308.10032, 2023.
 NeurIPS 2023 Foundation Models for Decision Making Workshop, 2023.
 [[Paper](https://openreview.net/pdf?id=ltUrSryS0K)]
 [[Github](https://github.com/jonathanmli/Avalon-LLM)]
-
-## 📖Application
-
-### 📖AI-Assistant
-
-**GAIA: a benchmark for General AI Assistants.**<br>
-*G Mialon, C Fourrier, C Swift, T Wolf, Y LeCun, T Scialom.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2311.12983.pdf?trk=public_post_comment-text)]
-[[Datasets](https://huggingface.co/datasets/gaia-benchmark/GAIA)]
-
-### 📖Chatbot
-
-**DialogBench: Evaluating LLMs as Human-like Dialogue Systems.**<br>
-*J Ou, J Lu, C Liu, Y Tang, F Zhang, D Zhang, Z Wang, K Gai.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2311.01677)]
-
-**BotChat: Evaluating LLMs' Capabilities of Having Multi-Turn Dialogues.**<br>
-*H Duan, J Wei, C Wang, H Liu, Y Fang, S Zhang, D Lin, K Chen.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.longhoe.net/pdf/2310.13650)]
-[[Github](https://github.com/open-compass/BotChat/)]
-
-**Lmsys-chat-1m: A large-scale real-world llm conversation dataset.**<br>
-*Lianmin Zheng, et al.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2309.11998)]
-[[DataSets](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)]
-
-**Don't Forget Your ABC's: Evaluating the State-of-the-Art in Chat-Oriented Dialogue Systems.**<br>
-*SE Finch, JD Finch, JD Choi.*<br>
-arxiv:2212.09180, 2022.
-[[ArXiv](https://arxiv.org/pdf/2212.09180)]
-[[Github](https://github.com/emorynlp/ChatEvaluationPlatform)]
-
-### 📖Knowledge-Management
-
-**Benchmarking Large Language Models in Retrieval-Augmented Generation.**<br>
-*J Chen, H Lin, X Han, L Sun.*<br>
-AAAI, 2024.
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29728/31250)]
-[[Github](https://github.com/chen700564/RGB)]
-
-**Ares: An automated evaluation framework for retrieval-augmented generation systems.**<br>
-*J Saad-Falcon, O Khattab, C Potts, M Zaharia.*<br>
-arXiv:2311.09476, 2023.
-[[Paper](https://arxiv.org/pdf/2311.094760)]
-[[Github](https://github.com/stanford-futuredata/ARES)]
-
-**Crud-rag: A comprehensive chinese benchmark for retrieval-augmented generation of large language models.**<br>
-*Y Lyu, Z Li, S Niu, F Xiong, B Tang, W Wang, H Wu, H Liu, T Xu, E Chen.*<br>
-arXiv:2401.17043, 2024.
-[[Paper](https://arxiv.org/pdf/2401.17043)]
-
-### 📖Data-Analysis
-
-**Tapilot-Crossing: Benchmarking and Evolving LLMs Towards Interactive Data Analysis Agents.**<br>
-*J Li, N Huo, Y Gao, J Shi, Y Zhao, G Qu, Y Wu, C Ma, JG Lou, R Cheng.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2403.05307)]
-[[Github](https://tapilot-crossing.github.io/)]
-
-### 📖Code-Assistant
-
-**Measuring coding challenge competence with apps.**<br>
-*D Hendrycks, S Basart, S Kadavath, M Mazeika, et al.*<br>
-ArXiv, 2021.
-[[ArXiv](https://arxiv.org/pdf/2105.09938)]
-[[Github](https://github.com/hendrycks/apps)]
-
-### 📖Office-Assistant
-
-**Pptc benchmark: Evaluating large language models for powerpoint task completion.**<br>
-*Y Guo, Z Zhang, Y Liang, D Zhao, D Nan.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2311.01767)]
-[[Github](https://github.com/gydpku/PPTC)]
-
-### 📖Content-Generation
-
-**KIWI: A Dataset of Knowledge-Intensive Writing Instructions for Answering Research Questions.**<br>
-*F Xu, K Lo, L Soldaini, B Kuehl, E Choi, D Wadden.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2403.03866)]
-[[Homepage](https://www.cs.utexas.edu/~fxu/kiwi/)]
-
-### 📖TaskPlanning
-
-**Understanding the capabilities of large language models for automated planning.**<br>
-*Vishal Pallagani, et al.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2305.16151)]
-
-### 📖Agent
-
-**Agentbench: Evaluating llms as agents.**<br>
-*X Liu, H Yu, H Zhang, Y Xu, X Lei, H Lai, Y Gu, H Ding, K Men, K Yang, S Zhang, X Deng, et al.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2308.03688)]
-[[Homepage](https://llmbench.ai/agent)]
-
-### 📖EmbodiedAI
-
-**Sqa3d: Situated question answering in 3d scenes.**<br>
-*X Ma, S Yong, Z Zheng, Q Li, Y Liang, SC Zhu, S Huang.*<br>
-ICLR, 2023.
-[[ArXiv](https://arxiv.org/pdf/2210.07474)]
-[[Homepage](https://sqa3d.github.io/)]
-
-## 📖Security
-
-### 📖Content-Security
-
-**JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models.**<br>
-*M Zhang, X Pan, M Yang.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2311.00286.pdf)]
-[[Github](https://github.com/whitzard-ai/jade-db)]
-
-### 📖Value-Aligement
-
-**Cvalues: Measuring the values of chinese large language models from safety to responsibility.**<br>
-*G Xu, J Liu, M Yan, H Xu, J Si, Z Zhou, P Yi, X Gao, J Sang, R Zhang, J Zhang, C Peng, et al.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2307.09705)]
-[[Github](https://github.com/X-PLUG/CValues)]
-
-**Alignbench: Benchmarking chinese alignment of large language models.**<br>
-*X Liu, X Lei, S Wang, Y Huang, Z Feng, B Wen, J Cheng, P Ke, Y Xu, WL Tam, X Zhang, et al.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2311.18743)]
-[[Github](https://github.com/THUDM/AlignBench)]
-
-### 📖Model-Security
-
-**R-Judge: Benchmarking Safety Risk Awareness for LLM Agents.**<br>
-*T Yuan, Z He, L Dong, Y Wang, R Zhao, T **a, L Xu, B Zhou, F Li, Z Zhang, R Wang, G Liu.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2401.10019)]
-[[Github](https://github.com/Lordog/R-Judge)]
-
-**I Think, Therefore I am: Awareness in Large Language Models.**<br>
-*Y Li, Y Huang, Y Lin, S Wu, Y Wan, L Sun.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2401.17882)]
-[[Github](https://github.com/HowieHwong/Awareness-in-LLM)]
-
-### 📖Privacy-Security
-
-**Can llms keep a secret? testing privacy implications of language models via contextual integrity theory.**<br>
-*N Mireshghallah, H Kim, X Zhou, Y Tsvetkov, M Sap, R Shokri, Y Choi.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2310.17884)]
-[[Github](http://confaide.github.io/)]
 
 ## 📖Human-Machine-Interaction
 
