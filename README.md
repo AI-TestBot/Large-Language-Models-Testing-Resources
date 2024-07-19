@@ -57,6 +57,9 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 * 📖[Human-Machine-Interaction](#Human-Machine-Interaction)
   * 📖[User-Experience](#User-Experience)
 * 📖[Performance-Cost](#Performance-Cost)
+   * 📖[Model-Compression](#Model-Compression)
+   * 📖[Edge-Model](#Edge-Model)
+   * 📖[Carbon-Emission](#Carbon-Emission)
 * 📖[Testing-DataSets](#Testing-DataSets)
    * 📖[Generation](#Generation)
 * 📖[Testing-Methods](#Testing-Methods)
@@ -860,19 +863,21 @@ ArXiv, 2024.
 
 ## 📖Performance-Cost 
 
-### Compression
+### Model-Compression
 
 **A Comprehensive Evaluation of Quantization Strategies for Large Language Models.**<br>
 *M Zhang, X Pan, M Yang.*<br>
 ACL, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.16775)]
 
+### Edge-Model
+
 **MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases.**<br>
 *R Murthy, L Yang, J Tan, TM Awalgaonkar, Y Zhou, S Heinecke, S Desai, J Wu, R Xu, S Tan, et al.*<br>
 arxiv:2406.10290, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.10290)]
 
-### Carbon Emission
+### Carbon-Emission
 
 **OpenCarbonEval: A Unified Carbon Emission Estimation Framework in Large-Scale AI Models.**<br>
 *Z Yu, Y Wu, Z Deng, Y Tang, XP Zhang.*<br>
@@ -898,7 +903,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
 [[Github](https://github.com/llmeval/)]
 
-**tinyBenchmarks: evaluating LLMs with fewer examples.**<br>
+**TinyBenchmarks: evaluating LLMs with fewer examples.**<br>
 *FM Polo, L Weber, L Choshen, Y Sun, G Xu, M Yurochkin.*<br>
 arXiv:2402.14992, 2024.
 [[Paper](https://arxiv.org/html/2402.14992v1)]
