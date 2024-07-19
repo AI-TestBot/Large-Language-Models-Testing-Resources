@@ -67,6 +67,8 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 * 📖[Testing-Methods](#Testing-Methods)
    * 📖[Dynamic-Testing](#Dynamic-Testing)
    * 📖[NLG-Evaluation](#NLG-Evaluation)
+   * 📖[Weakness-Detection](#Weakness-Detection)
+   * 📖[Human-Interaction](#Human-Interaction)
 * 📖[Testing-Tools](#Testing-Tools)
 * 📖[Challenges](#Challenges)
    * 📖[Contamination](#Contamination)
@@ -939,6 +941,26 @@ ArXiv, 2023.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.18702.pdf)]
 [[Github](https://github.com/thu-coai/CritiqueLLM)]
+
+### 📖Weakness-Detection
+
+**AutoDetect: Towards a Unified Framework for Automated Weakness Detection in Large Language Models.**<br>
+*J Cheng, Y Lu, X Gu, P Ke, X Liu, Y Dong, H Wang, J Tang, M Huang.*<br>
+arXiv:2406.16714, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.16714)]
+[[Github](https://github.com/thu-coai/AutoDetect)]
+
+### 📖Human-Interaction
+
+**Beyond static datasets: A deep interaction approach to llm evaluation.**<br>
+*J Li, R Li, Q Liu .*<br>
+arXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.04369)]
+
+**Beyond static AI evaluations: advancing human interaction evaluations for LLM harms and risks.**<br>
+*L Ibrahim, S Huang, L Ahmad, M Anderljung.*<br>
+arXiv:2405.10632, 2024.
+[[ArXiv](https://arxiv.org/pdf/2405.10632)]
 
 ## 📖Testing-Tools
 
