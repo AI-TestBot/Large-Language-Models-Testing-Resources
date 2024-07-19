@@ -274,6 +274,12 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2305.12474)]
 [[Github](https://github.com/OpenLMLab/GAOKAO-Bench)]
 
+**OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI.**<br>
+*Z Huang, Z Wang, S Xia, X Li, H Zou, R Xu, RZ Fan, L Ye, E Chern, Y Ye, Y Zhang, Y Yang, et al.*<br>
+arXiv:2406.12753, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.12753)]
+[[Github](https://github.com/GAIR-NLP/OlympicArenah)]
+
 ### 📖Multilingual
 
 **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning.**<br>
@@ -449,6 +455,12 @@ ArXiv, 2023.
 
 ### 📖Chatbot
 
+**Don't Forget Your ABC's: Evaluating the State-of-the-Art in Chat-Oriented Dialogue Systems.**<br>
+*SE Finch, JD Finch, JD Choi.*<br>
+arxiv:2212.09180, 2022.
+[[ArXiv](https://arxiv.org/pdf/2212.09180)]
+[[Github](https://github.com/emorynlp/ChatEvaluationPlatform)]
+
 **DialogBench: Evaluating LLMs as Human-like Dialogue Systems.**<br>
 *J Ou, J Lu, C Liu, Y Tang, F Zhang, D Zhang, Z Wang, K Gai.*<br>
 ArXiv, 2023.
@@ -466,11 +478,11 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2309.11998)]
 [[DataSets](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)]
 
-**Don't Forget Your ABC's: Evaluating the State-of-the-Art in Chat-Oriented Dialogue Systems.**<br>
-*SE Finch, JD Finch, JD Choi.*<br>
-arxiv:2212.09180, 2022.
-[[ArXiv](https://arxiv.org/pdf/2212.09180)]
-[[Github](https://github.com/emorynlp/ChatEvaluationPlatform)]
+**SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words.**<br>
+*J Ao, Y Wang, X Tian, D Chen, J Zhang, L Lu, Y Wang, H Li, Z Wu.*<br>
+arXiv:2406.13340, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.13340)]
+[[Github](https://github.com/amphionspace/SD-Eval)]
 
 ### 📖Knowledge-Management
 
