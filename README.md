@@ -54,7 +54,8 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[Value-Aligement](#Value-Aligement)
   * 📖[Model-Security](#Model-Security)
   * 📖[Privacy-Security](#Privacy-Security)
-* 📖[User-Experience](#User-Experience)
+* 📖[Human-Machine-Interaction](#Human-Machine-Interaction)
+  * 📖[User-Experience](#User-Experience)
 * 📖[Performance-Cost](#Performance-Cost)
 * 📖[Testing-DataSets](#Testing-DataSets)
    * 📖[Generation](#Generation)
@@ -842,7 +843,9 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.17884)]
 [[Github](http://confaide.github.io/)]
 
-## 📖User-Experience
+## 📖Human-Machine-Interaction
+
+### 📖User-Experience
 
 **A User-Centric Benchmark for Evaluating Large Language Models.**<br>
 *J Wang, F Mo, W Ma, P Sun, M Zhang, et al.*<br>
