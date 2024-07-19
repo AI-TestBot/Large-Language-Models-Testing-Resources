@@ -56,6 +56,8 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[Game](#Game)
 * 📖[Human-Machine-Interaction](#Human-Machine-Interaction)
   * 📖[User-Experience](#User-Experience)
+  * 📖[Social-Intelligence](#Social-Intelligence)
+  * 📖[Emotional-Intelligence](#Emotional-Intelligence)
 * 📖[Performance-Cost](#Performance-Cost)
    * 📖[Model-Compression](#Model-Compression)
    * 📖[Edge-Model](#Edge-Model)
@@ -860,6 +862,22 @@ ArXiv, 2024.
 *J Wang, W Ma, P Sun, M Zhang, JY Nie.*<br>
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.08329)]
+
+### 📖Social-Intelligence
+
+**Evaluating and Modeling Social Intelligence: A Comparative Study of Human and AI Capabilities.**<br>
+*J Wang, C Zhang, J Li, Y Ma, L Niu, J Han, Y Peng, Y Zhu, L Fan.*<br>
+arXiv:2405.11841, 2024.
+[[ArXiv](https://arxiv.org/pdf/2405.11841)]
+[[Github](https://github.com/bigai-ai/Evaluate-n-Model-Social-Intelligence)]
+
+### 📖Emotional-Intelligence
+
+**EmoBench: Evaluating the Emotional Intelligence of Large Language Models.**<br>
+*S Sabour, S Liu, Z Zhang, JM Liu, J Zhou, AS Sunaryo, J Li, T Lee, R Mihalcea, M Huang.*<br>
+arXiv:2402.12071, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.12071)]
+[[Github](https://github.com/Sahandfer/EmoBench)]
 
 ## 📖Performance-Cost 
 
