@@ -66,8 +66,8 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
    * 📖[Generation](#Generation)
 * 📖[Testing-Methods](#Testing-Methods)
    * 📖[Dynamic-Testing](#Dynamic-Testing)
-   * 📖[NLG-Evaluation](#NLG-Evaluation)
    * 📖[Weakness-Detection](#Weakness-Detection)
+   * 📖[NLG-Evaluation](#NLG-Evaluation)
    * 📖[Human-Interaction](#Human-Interaction)
 * 📖[Testing-Tools](#Testing-Tools)
 * 📖[Challenges](#Challenges)
@@ -940,6 +940,14 @@ Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
 arXiv:2402.14992, 2024.
 [[Paper](https://arxiv.org/html/2402.14992v1)]
 
+### 📖Weakness-Detection
+
+**AutoDetect: Towards a Unified Framework for Automated Weakness Detection in Large Language Models.**<br>
+*J Cheng, Y Lu, X Gu, P Ke, X Liu, Y Dong, H Wang, J Tang, M Huang.*<br>
+arXiv:2406.16714, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.16714)]
+[[Github](https://github.com/thu-coai/AutoDetect)]
+
 ### 📖NLG-Evaluation
 
 **JudgeLM: Fine-tuned Large Language Models are Scalable Judges.**<br>
@@ -953,14 +961,6 @@ ArXiv, 2023.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.18702.pdf)]
 [[Github](https://github.com/thu-coai/CritiqueLLM)]
-
-### 📖Weakness-Detection
-
-**AutoDetect: Towards a Unified Framework for Automated Weakness Detection in Large Language Models.**<br>
-*J Cheng, Y Lu, X Gu, P Ke, X Liu, Y Dong, H Wang, J Tang, M Huang.*<br>
-arXiv:2406.16714, 2024.
-[[ArXiv](https://arxiv.org/pdf/2406.16714)]
-[[Github](https://github.com/thu-coai/AutoDetect)]
 
 ### 📖Human-Interaction
 
