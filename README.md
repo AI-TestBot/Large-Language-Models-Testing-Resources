@@ -661,7 +661,7 @@ ArXiv, 2023.
 [[Github](https://github.com/CUHK-ARISE/PsychoBench)]
 
 **Large Language Models Encode Clinical Knowledge.**<br>
-*Karan Singhal, Shekoofeh Azizi, Tao Tu, S. Sara Mahdavi, Jason Wei, Hyung Won Chung, Nathan Scales, Ajay Tanwani, Heather Cole-Lewis, Stephen Pfohl, Perry Payne, Martin Seneviratne, Paul Gamble, Chris Kelly, Nathaneal Scharli, Aakanksha Chowdhery, Philip Mansfield, Blaise Aguera y Arcas, Dale Webster, Greg S. Corrado, Yossi Matias, Katherine Chou, Juraj Gottweis, Nenad Tomasev, Yun Liu, Alvin Rajkomar, Joelle Barral, Christopher Semturs, Alan Karthikesalingam, Vivek Natarajan.*<br>
+*Karan Singhal, Shekoofeh Azizi, Tao Tu, S. Sara Mahdavi, Jason Wei, et al.*<br>
 Natrue, 2023.
 [[HomePage](https://www.nature.com/articles/s41586-023-06291-2)]
 
