@@ -1034,9 +1034,9 @@ ArXiv, 2023.
 medRxiv, 2023.
 [[ArXiv](https://www.medrxiv.org/content/medrxiv/early/2023/12/30/2023.12.22.23300458.full.pdf)]
 
-**OpenEval.**<br>
-*开放式大模型综合评估*<br>
-*天津大学, 2023*<br>
+**OpenEval: Benchmarking Chinese LLMs across Capability, Alignment and Safety.**<br>
+*C Liu, L Yu, J Li, R **, Y Huang, L Shi, J Zhang, et al.*<br>
+*ArXiv, 2024.
 [[HomePage](http://openeval.org.cn/)]
 
 ## 📖Challenges
