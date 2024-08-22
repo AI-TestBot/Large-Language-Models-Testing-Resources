@@ -27,7 +27,7 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[Model-Security](#Model-Security)
   * 📖[Privacy-Security](#Privacy-Security)
 * 📖[Application](#Application)
-  * 📖[AI-Assistant](#AI-Assistant)
+  * 📖[Comprehensive](#Comprehensive)
   * 📖[Chatbot](#Chatbot)
   * 📖[Knowledge-Management](#Knowledge-Management)
   * 📖[Data-Analysis](#Data-Analysiss)
@@ -72,6 +72,8 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 * 📖[Testing-Tools](#Testing-Tools)
 * 📖[Challenges](#Challenges)
    * 📖[Contamination](#Contamination)
+* 📖[Root-Cause-Analysis](#Root-Cause-Analysis)
+
 * 📖[Supported-Elements](#Supported-Elements)
      * 📖[Organization](#Organization)
      * 📖[Group](#Group)
@@ -296,6 +298,13 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.03514)]
 [[Github](https://github.com/zexuanqiu/CLongEval)]
 
+**LooGLE: Can Long-Context Language Models Understand Long Contexts?**<br>
+*J Li, M Wang, Z Zheng, M Zhang.*<br>
+arxiv:2311.04939, 2023.
+[[ArXiv](https://arxiv.org/abs/2311.04939)]
+[[Github](https://github.com/bigai-nlco/LooGLE)]
+[[DataSets](https://huggingface.co/datasets/bigainlco/LooGLE)]
+
 ### 📖Chain-of-Thought
 
 **Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models' Reasoning Performance.**<br>
@@ -445,13 +454,24 @@ ArXiv, 2023.
 
 ## 📖Application
 
-### 📖AI-Assistant
+### 📖Comprehensive
 
 **GAIA: a benchmark for General AI Assistants.**<br>
 *G Mialon, C Fourrier, C Swift, T Wolf, Y LeCun, T Scialom.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.12983.pdf?trk=public_post_comment-text)]
 [[Datasets](https://huggingface.co/datasets/gaia-benchmark/GAIA)]
+
+**An empirical study on large language models in accuracy and robustness under chinese industrial scenarios.**<br>
+*Z Li, W Qiu, P Ma, Y Li, Y Li, S He, B Jiang, S Wang, W Gu.*<br>
+arxiv:2402.01723, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.01723)]
+
+**What is the best model? Application-driven Evaluation for Large Language Models.**<br>
+*S Lian, K Zhao, X Liu, X Lei, B Yang, W Zhang, K Wang, Z Liu.*<br>
+arxiv:2406.10307, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.10307)]
+[[Datasets](https://github.com/UnicomAI/DataSet/tree/main/TestData/GeneralAbility)]
 
 ### 📖Chatbot
 
@@ -988,19 +1008,12 @@ arXiv:2405.10632, 2024.
 *司南大模型评测平台*<br>
 *上海人工智能实验室*<br>
 [[HomePage](https://opencompass.org.cn/home)]
-[[Github](https://opencompass.org.cn/home)]
+[[Github](https://github.com/open-compass/OpenCompass/)]
 
 **Cleva: Chinese language models evaluation platform.**<br>
 *Y Li, J Zhao, D Zheng, ZY Hu, Z Chen, X Su, Y Huang, S Huang, D Lin, MR Lyu, L Wang.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2308.04813)]
-
-**UltraEval.**<br>
-**UltraEval: A Lightweight Platform for Flexible and Comprehensive Evaluation for LLMs.**<br>
-*C He, R Luo, X Han, Z Liu, M Sun, and et al.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2404.07584)]
-[[Github](https://github.com/OpenBMB/UltraEval)]
 
 **GPT-Fathom.**<br>
 **GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond.**<br>
@@ -1008,13 +1021,6 @@ ArXiv, 2024.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2309.16583)]
 [[Github](https://github.com/GPT-Fathom/GPT-Fathom)]
-
-**FreeEval.**<br>
-**FreeEval: A Modular Framework for Trustworthy and Efficient Evaluation of Large Language Models.**<br>
-*Z Yu, C Gao, W Yao, Y Wang, Z Zeng, W Ye, J Wang, Y Zhang, S Zhang.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2404.06003)]
-[[Github](https://github.com/WisdomShell/FreeEval)]
 
 **Catwalk.**<br>
 **Catwalk: A Unified Language Model Evaluation Framework for Many Datasets.**<br>
@@ -1034,10 +1040,31 @@ ArXiv, 2023.
 medRxiv, 2023.
 [[ArXiv](https://www.medrxiv.org/content/medrxiv/early/2023/12/30/2023.12.22.23300458.full.pdf)]
 
+**UltraEval.**<br>
+**UltraEval: A Lightweight Platform for Flexible and Comprehensive Evaluation for LLMs.**<br>
+*C He, R Luo, X Han, Z Liu, M Sun, and et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.07584)]
+[[Github](https://github.com/OpenBMB/UltraEval)]
+
+**FreeEval.**<br>
+**FreeEval: A Modular Framework for Trustworthy and Efficient Evaluation of Large Language Models.**<br>
+*Z Yu, C Gao, W Yao, Y Wang, Z Zeng, W Ye, J Wang, Y Zhang, S Zhang.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.06003)]
+[[Github](https://github.com/WisdomShell/FreeEval)]
+
 **OpenEval: Benchmarking Chinese LLMs across Capability, Alignment and Safety.**<br>
 *C Liu, L Yu, J Li, R **, Y Huang, L Shi, J Zhang, et al.*<br>
-*ArXiv, 2024.
+ArXiv, 2024.
 [[HomePage](http://openeval.org.cn/)]
+
+## 📖Root-Cause-Analysis
+
+**A Survey on Failure Analysis and Fault Injection in AI Systems.**<br>
+*G Yu, G Tan, H Huang, Z Zhang, P Chen, R Natella, Z Zheng.*<br>
+ArXiv, 2024.
+[[Paper](https://arxiv.org/pdf/2407.00125)]
 
 ## 📖Challenges
 
