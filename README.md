@@ -547,6 +547,12 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.01767)]
 [[Github](https://github.com/gydpku/PPTC)]
 
+**PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion.**<br>
+*Z Zhang, Y Guo, Y Liang, D Zhao, N Duan.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.03788)]
+[[Github](https://github.com/ZekaiGalaxy/PPTCR)]
+
 ### 📖Content-Generation
 
 **KIWI: A Dataset of Knowledge-Intensive Writing Instructions for Answering Research Questions.**<br>
