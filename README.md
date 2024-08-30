@@ -73,7 +73,6 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 * 📖[Challenges](#Challenges)
    * 📖[Contamination](#Contamination)
 * 📖[Root-Cause-Analysis](#Root-Cause-Analysis)
-
 * 📖[Supported-Elements](#Supported-Elements)
      * 📖[Organization](#Organization)
      * 📖[Group](#Group)
@@ -405,6 +404,12 @@ arxiv:2309.11166, 2023.
 arxiv:2305.10235, 2023.
 [[ArXiv](https://arxiv.org/pdf/2305.10235)]
 [[Github](https://github.com/yyy01/LLMRiskEval_RCC)]
+
+**Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting.**<br>
+*M Sclar, Y Choi, Y Tsvetkov, A Suhr.*<br>
+arxiv:2310.11324, 2023.
+[[ArXiv](https://arxiv.fropet.com/pdf/2310.11324)]
+[[Github](https://github.com/msclar/formatspread)]
 
 ## 📖Security
 
