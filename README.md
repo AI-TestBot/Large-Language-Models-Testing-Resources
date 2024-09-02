@@ -1016,8 +1016,14 @@ arXiv:2405.10632, 2024.
 [[Github](https://github.com/EleutherAI/lm-evaluation-harness)]
 
 **OpenCompass**<br>
-*司南大模型评测平台*<br>
+*天秤大模型评测平台*<br>
 *上海人工智能实验室*<br>
+[[HomePage](https://flageval.baai.ac.cn/#/home)]
+[[Github](https://github.com/FlagOpen/FlagEval)]
+
+**FlagEval**<br>
+*司南大模型评测平台*<br>
+*北京智源研究院*<br>
 [[HomePage](https://opencompass.org.cn/home)]
 [[Github](https://github.com/open-compass/OpenCompass/)]
 
