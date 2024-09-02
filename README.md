@@ -1015,6 +1015,10 @@ arXiv:2405.10632, 2024.
 *EleutherAI*<br>
 [[Github](https://github.com/EleutherAI/lm-evaluation-harness)]
 
+**DeepEval.**<br>
+*Confident AI*<br>
+[[Github](https://github.com/confident-ai/deepeval)]
+
 **OpenCompass**<br>
 *天秤大模型评测平台*<br>
 *上海人工智能实验室*<br>
