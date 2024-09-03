@@ -168,6 +168,7 @@ arXiv:2311.05374, 2023.
 |2023| Knowledge | C-EVAL: Evaluating Ancient Chinese Language Understanding in Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2307.05950) |-|[[Github]](https://github.com/yuting-wei/AC-EVAL)|-|
 |2023| Knowledge | Cmmlu: Measuring massive multitask language understanding in chinese.|[[ArXiv]](https://arxiv.org/pdf/2306.09212) |-|[[Github]](https://github.com/haonan-li/CMMLU)|-|
 |2023| Knowledge | Measuring massive multitask chinese understanding.|[[ArXiv]](https://arxiv.org/pdf/2304.12986) |-|-|-|
+|2024| Knowledge | Mmlu-pro: A more robust and challenging multi-task language understanding benchmark.|[[ArXiv]](https://arxiv.org/pdf/2406.01574) |-|[[Github]](https://github.com/TIGER-AI-Lab/MMLU-Pro)|[[DataSets]](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro)|
 |2023| Metrics | Rethinking the Evaluating Framework for Natural Language Understanding in AI Systems: Language Acquisition as a Core for Future Metrics.|[[ArXiv]](https://arxiv.org/pdf/2309.11981) |-|-|-|
 
 ### 📖Generation
