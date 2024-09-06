@@ -284,6 +284,21 @@ arXiv:2406.12753, 2024.
 
 ### 📖Multilingual
 
+**Mega: Multilingual evaluation of generative ai.**<br>
+*K Ahuja, H Diddee, R Hada, M Ochieng, K Ramesh, P Jain, A Nambi, T Ganu, S Segal, et al.*<br>
+arXiv:2303.12528, 2023.
+[[ArXiv](https://arxiv.org/pdf/2303.12528)]
+
+**Megaverse: Benchmarking large language models across languages, modalities, models and tasks.**<br>
+*S Ahuja, D Aggarwal, V Gumma, I Watts, A Sathe, M Ochieng, R Hada, P Jain, M Axmed, et al.*<br>
+arXiv:2311.07463, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.07463)]
+
+**mSCAN: A Dataset for Multilingual Compositional Generalisation Evaluation.**<br>
+*A Reymond, S Steinert-Threlkeld.*<br>
+Proceedings of the 1st GenBench Workshop on (Benchmarking) Generalisation in NLP, 2023.
+[[Paper](https://aclanthology.org/2023.genbench-1.11.pdf)]
+
 **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning.**<br>
 *B Wang, Z Liu, X Huang, F Jiao, Y Ding, AT Aw, NF Chen.*<br>
 ArXiv, 2023.
