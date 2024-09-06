@@ -292,6 +292,41 @@ ArXiv, 2023.
 
 ### 📖Long-Context
 
+**ANALOGICAL--A Novel Benchmark for Long Text Analogy Evaluation in Large Language Models.**<br>
+*T Wijesiriwardene, R Wickramarachchi, BG Gajera, SM Gowaikar, C Gupta, A Chadha, et al.*<br>
+arXiv:2305.05050, 2023.
+[[ArXiv](https://arxiv.org/pdf/2305.05050)]
+
+**Bamboo: A comprehensive benchmark for evaluating long text modeling capacities of large language models.**<br>
+*Z Dong, T Tang, J Li, WX Zhao, JR Wen.*<br>
+arXiv:2309.13345, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.13345)]
+[[Github](https://arxiv.org/pdf/2309.13345)]
+
+**L-eval: Instituting standardized evaluation for long context language models.**<br>
+*C An, S Gong, M Zhong, X Zhao, M Li, J Zhang, L Kong, X Qiu.*<br>
+arXiv:2307.11088, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.11088)]
+[[Github](https://github.com/OpenLMLab/LEval)]
+
+**Longbench: A bilingual, multitask benchmark for long context understandings.**<br>
+*Y Bai, X Lv, J Zhang, H Lyu, J Tang, Z Huang, Z Du, X Liu, A Zeng, L Hou, Y Dong, J Tang, et al.*<br>
+arXiv:2308.14508, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.14508)]
+[[Github](https://github.com/THUDM/LongBench)]
+
+**M4le: A multi-ability multi-range multi-task multi-domain long-context evaluation benchmark for large language models.**<br>
+*WC Kwan, X Zeng, Y Wang, Y Sun, L Li, L Shang, Q Liu, KF Wong.*<br>
+arXiv:2310.19240, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.19240)]
+[[Github](https://github.com/KwanWaiChung/M4LE)]
+
+**Zeroscrolls: A zero-shot benchmark for long text understanding.**<br>
+*U Shaham, M Ivgi, A Efrat, J Berant, O Levy.*<br>
+arXiv:2305.14196, 2023.
+[[ArXiv](https://arxiv.org/pdf/2305.14196)]
+[[Homepage](https://www.zero.scrolls-benchmark.com/)]
+
 **CLongEval: A Chinese Benchmark for Evaluating Long-Context Large Language Models.**<br>
 *Z Huang, J Li, S Huang, W Zhong, I King.*<br>
 ArXiv, 2024.
@@ -304,6 +339,12 @@ arxiv:2311.04939, 2023.
 [[ArXiv](https://arxiv.org/abs/2311.04939)]
 [[Github](https://github.com/bigai-nlco/LooGLE)]
 [[DataSets](https://huggingface.co/datasets/bigainlco/LooGLE)]
+
+**Lv-eval: A balanced long-context benchmark with 5 length levels up to 256k.**<br>
+*T Yuan, X Ning, D Zhou, Z Yang, S Li, M Zhuang, Z Tan, Z Yao, D Lin, B Li, G Dai, S Yan, et al.*<br>
+arXiv:2402.05136, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.05136)]
+[[Github](https://github.com/infinigence/LVEval)]
 
 ### 📖Chain-of-Thought
 
