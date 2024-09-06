@@ -290,6 +290,24 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2309.04766)]
 [[Github](https://github.com/SeaEval/SeaEval)]
 
+**Evaluating the elementary multilingual capabilities of large language models with MultiQ.**<br>
+*C Holtermann, P Röttger, T Dill, A Lauscher.*<br>
+arXiv:2403.03814, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.03814)]
+[[Github](https://github.com/paul-rottger/multiq)]
+
+**M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal Models.**<br>
+*H Wang, J Xu, S Xie, R Wang, J Li, Z Xie, B Zhang, C Xiong, X Chen.*<br>
+arXiv:2405.15638, 2024.
+[[ArXiv](https://arxiv.org/pdf/2405.15638)]
+[[Github](https://github.com/M4U-Benchmark/M4U)]
+
+**MELA: Multilingual Evaluation of Linguistic Acceptability.**<br>
+*Z Zhang, Y Liu, W Huang, J Mao, R Wang, H Hu.*<br>
+arXiv:2311.09033, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.09033)]
+[[Github](https://github.com/sjtu-compling/MELA)]
+
 ### 📖Long-Context
 
 **ANALOGICAL--A Novel Benchmark for Long Text Analogy Evaluation in Large Language Models.**<br>
