@@ -349,6 +349,13 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.20410)]
 [[Github](https://github.com/YJiangcm/FollowBench)]
 
+**Instructeval: Towards holistic evaluation of instruction-tuned large language models.**<br>
+*YK Chia, P Hong, L Bing, S Poria.*<br>
+arXiv:2306.04757, 2023.
+[[ArXiv](https://arxiv.org/pdf/2306.04757)]
+[[Github](https://github.com/declare-lab/instruct-eval)]
+[[DataSets](https://huggingface.co/datasets/declare-lab/InstructEvalImpact)]
+
 **CIF-Bench: A Chinese Instruction-Following Benchmark for Evaluating the Generalizability of Large Language Models.**<br>
 *Y Li, G Zhang, X Qu, J Li, Z Li, Z Wang, H Li, R Yuan, Y Ma, K Zhang, W Zhou, Y Liang, et al.*<br>
 ArXiv, 2023.
