@@ -313,6 +313,12 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2305.17306)]
 [[Github](https://github.com/FranxYao/chain-of-thought-hub)]
 
+**Cue-CoT: Chain-of-thought prompting for responding to in-depth dialogue questions with LLMs.**<br>
+*H Wang, R Wang, F Mi, Y Deng, Z Wang, B Liang, R Xu, KF Wong.*<br>
+arXiv:2305.11792, 2023.
+[[ArXiv](https://arxiv.org/pdf/2305.17306)]
+[[Github](https://github.com/ruleGreen/Cue-CoT)]
+
 ### 📖Role-Playing
 
 **Charactereval: A chinese benchmark for role-playing conversational agent evaluation.**<br>
@@ -320,6 +326,12 @@ ArXiv, 2023.
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.01275)]
 [[Github](https://github.com/morecry/CharacterEval)]
+
+**Roleeval: A bilingual role evaluation benchmark for large language models.**<br>
+*T Shen, S Li, D Xiong.*<br>
+arXiv:2312.16132, 2023.
+[[ArXiv](https://arxiv.org/pdf/2312.16132)]
+[[Github](https://arxiv.org/pdf/2312.16132)]
 
 **Rolellm: Benchmarking, eliciting, and enhancing role-playing abilities of large language models.**<br>
 *ZM Wang, Z Peng, H Que, J Liu, W Zhou, Y Wu, et al.*<br>
@@ -338,7 +350,7 @@ ArXiv, 2023.
 **T-eval: Evaluating the tool utilization capability step by step.**<br>
 *Z Chen, W Du, W Zhang, K Liu, J Liu, M Zheng, J Zhuo, S Zhang, D Lin, K Chen, F Zhao.*<br>
 arXiv:2312.14033, 2023.
-[[ArXiv](https://arxiv.org/html/2312.14033v3)]
+[[ArXiv](https://arxiv.org/pdf/2305.11792)]
 [[Github](https://hub.opencompass.org.cn/dataset-detail/T-Eval)]
 
 ### 📖Instruction-Following
