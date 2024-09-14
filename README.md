@@ -276,6 +276,18 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2305.12474)]
 [[Github](https://github.com/OpenLMLab/GAOKAO-Bench)]
 
+**M3exam: A multilingual, multimodal, multilevel benchmark for examining large language models.**<br>
+*W Zhang, M Aljunied, C Gao, YK Chia, L Bing.*<br>
+Advances in Neural Information Processing Systems, 2023.
+[[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/117c5c8622b0d539f74f6d1fb082a2e9-Paper-Datasets_and_Benchmarks.pdf)]
+[[Github](https://github.com/DAMO-NLP-SG/M3Exam)]
+
+**M3ke: A massive multi-level multi-subject knowledge evaluation benchmark for chinese large language models.**<br>
+*C Liu, R **, Y Ren, L Yu, T Dong, X Peng, et al.*<br>
+arXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2305.10263)]
+[[Github](https://github.com/tjunlp-lab/M3KE)]
+
 **OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI.**<br>
 *Z Huang, Z Wang, S Xia, X Li, H Zou, R Xu, RZ Fan, L Ye, E Chern, Y Ye, Y Zhang, Y Yang, et al.*<br>
 arXiv:2406.12753, 2024.
@@ -283,6 +295,31 @@ arXiv:2406.12753, 2024.
 [[Github](https://github.com/GAIR-NLP/OlympicArenah)]
 
 ### 📖Multilingual
+
+**XNLI: Evaluating cross-lingual sentence representations.**<br>
+*A Conneau, G Lample, R Rinott, A Williams, SR Bowman, H Schwenk, V Stoyanov.*<br>
+arxiv:1809.05053, 2018.
+[[ArXiv](https://arxiv.org/pdf/1809.05053)]
+
+**Xtreme: A massively multilingual multi-task benchmark for evaluating cross-lingual generalization.**<br>
+*A Siddhant, J Hu, M Johnson, O Firat, et al.*<br>
+ICML, 2020.
+[[ArXiv](https://arxiv.org/pdf/2003.11080)]
+
+**TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages.**<br>
+*JH Clark, E Choi, M Collins, D Garrette, T Kwiatkowski, V Nikolaev, J Palomaki.*<br>
+Transactions of the Association for Computational Linguistics, 2020.
+[[ArXiv](https://arxiv.org/pdf/2003.05002)]
+
+**The Flores-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation.**<br>
+*N Goyal, C Gao, V Chaudhary, PJ Chen, G Wenzek, D Ju, S Krishnan, MA Ranzato, et al.*<br>
+Transactions of the Association for Computational Linguistics, 2022.
+[[ArXiv](https://arxiv.org/pdf/2106.03193)]
+
+**Chatgpt beyond english: Towards a comprehensive evaluation of large language models in multilingual learning.**<br>
+*VD Lai, NT Ngo, APB Veyseh, H Man, et al.*<br>
+arXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2304.05613)]
 
 **Mega: Multilingual evaluation of generative ai.**<br>
 *K Ahuja, H Diddee, R Hada, M Ochieng, K Ramesh, P Jain, A Nambi, T Ganu, S Segal, et al.*<br>
