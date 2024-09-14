@@ -415,17 +415,41 @@ ArXiv, 2023.
 
 ### 📖Tools
 
+**Api-bank: A comprehensive benchmark for tool-augmented llms.**<br>
+*M Li, Y Zhao, B Yu, F Song, H Li, H Yu, Z Li, et al.*<br>
+arxiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2304.08244)]
+[[Github](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bankl)]
+
+**Metatool benchmark for large language models: Deciding whether to use tools and which to use.**<br>
+*Y Huang, J Shi, Y Li, C Fan, S Wu, Q Zhang, Y Liu, P Zhou, Y Wan, NZ Gong, L Sun.*<br>
+arxiv:2310.03128, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.03128)]
+[[Github](https://github.com/HowieHwong/MetaTool)]
+
 **Mint: Evaluating llms in multi-turn interaction with tools and language feedback.**<br>
 *X Wang, Z Wang, J Liu, Y Chen, L Yuan, H Peng, H Ji.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.longhoe.net/pdf/2309.10691)]
 [[Github](https://xwang.dev/mint-bench/)]
 
+**On the tool manipulation capability of open-source large language models.**<br>
+*Q Xu, F Hong, B Li, C Hu, Z Chen, J Zhang.*<br>
+arxiv:2305.16504, 2023.
+[[ArXiv](https://arxiv.org/pdf/2305.165042)]
+[[Github](https://github.com/sambanova/toolbench)]
+
 **T-eval: Evaluating the tool utilization capability step by step.**<br>
 *Z Chen, W Du, W Zhang, K Liu, J Liu, M Zheng, J Zhuo, S Zhang, D Lin, K Chen, F Zhao.*<br>
 arXiv:2312.14033, 2023.
 [[ArXiv](https://arxiv.org/pdf/2305.11792)]
 [[Github](https://hub.opencompass.org.cn/dataset-detail/T-Eval)]
+
+**Toolqa: A dataset for llm question answering with external tools.**<br>
+*Y Zhuang, Y Yu, K Wang, H Sun, C Zhang.*<br>
+Advances in Neural Information Processing Systems, 2024.
+[[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/9cb2a7495900f8b602cb10159246a016-Paper-Datasets_and_Benchmarks.pdf)]
+[[Github](https://github.com/night-chen/ToolQA)]
 
 ### 📖Instruction-Following
 
