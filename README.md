@@ -64,6 +64,7 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
    * 📖[Carbon-Emission](#Carbon-Emission)
 * 📖[Testing-DataSets](#Testing-DataSets)
    * 📖[Generation](#Generation)
+   * 📖[Governence](#Governence)
 * 📖[Testing-Methods](#Testing-Methods)
    * 📖[Dynamic-Testing](#Dynamic-Testing)
    * 📖[Weakness-Detection](#Weakness-Detection)
@@ -1109,6 +1110,8 @@ arXiv:2405.12843, 2024.
 **Multimodal-Data-Generation-Resources.**<br>
 *Test DataSets Generation*<br>
 [[Github](https://github.com/MMDSPF/Multimodal-Data-Generation-Resources)]
+
+### 📖Governence
 
 ## 📖Testing-Methods
 
