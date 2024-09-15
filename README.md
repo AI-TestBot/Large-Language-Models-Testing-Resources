@@ -1072,6 +1072,12 @@ arXiv:2405.11841, 2024.
 [[ArXiv](https://arxiv.org/pdf/2405.11841)]
 [[Github](https://github.com/bigai-ai/Evaluate-n-Model-Social-Intelligence)]
 
+**ToMBench: Benchmarking Theory of Mind in Large Language Models.**<br>
+*Z Chen, J Wu, J Zhou, B Wen, G Bi, G Jiang, Y Cao, M Hu, Y Lai, Z Xiong, M Huang.*<br>
+arXiv:2402.15052, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.15052)]
+[[Github](https://github.com/zhchen18/ToMBench)]
+
 ### 📖Emotional-Intelligence
 
 **EmoBench: Evaluating the Emotional Intelligence of Large Language Models.**<br>
