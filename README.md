@@ -1066,6 +1066,23 @@ ArXiv, 2024.
 
 ### 📖Social-Intelligence
 
+**Sotopia: Interactive evaluation for social intelligence in language agents.**<br>
+*X Zhou, H Zhu, L Mathur, R Zhang, H Yu, Z Qi, LP Morency, Y Bisk, D Fried, G Neubig, et al.*<br>
+arXiv:2310.11667, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.11667)]
+[[Homepage](https://www.sotopia.world/)]
+
+**Academically intelligent LLMs are not necessarily socially intelligent.**<br>
+*R Xu, H Lin, X Han, L Sun, Y Sun.*<br>
+arXiv:2403.06591, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.06591)]
+[[Homepage](https://github.com/RossiXu/social_intelligence_of_llms)]
+
+**InterIntent: Investigating Social Intelligence of LLMs via Intention Understanding in an Interactive Game Context.**<br>
+*Z Liu, A Anand, P Zhou, J Huang, J Zhao.*<br>
+arXiv:2403.06591, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.12203)]
+
 **Evaluating and Modeling Social Intelligence: A Comparative Study of Human and AI Capabilities.**<br>
 *J Wang, C Zhang, J Li, Y Ma, L Niu, J Han, Y Peng, Y Zhu, L Fan.*<br>
 arXiv:2405.11841, 2024.
@@ -1077,6 +1094,11 @@ arXiv:2405.11841, 2024.
 arXiv:2402.15052, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.15052)]
 [[Github](https://github.com/zhchen18/ToMBench)]
+
+**Testing theory of mind in large language models and humans.**<br>
+*JWA Strachan, D Albergo, G Borghini, O Pansardi, E Scaliti, S Gupta, K Saxena, A Rufo, et al.*<br>
+Nature Human Behaviour, 2024.
+[[ArXiv](https://www.nature.com/articles/s41562-024-01882-z.pdf)]
 
 ### 📖Emotional-Intelligence
 
