@@ -231,7 +231,7 @@ arXiv:2311.05374, 2023.
 |2024| Causal | Cladder: A benchmark to assess causal reasoning capabilities of language models.|[[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/631bb9434d718ea309af82566347d607-Paper-Conference.pdf) |-|[[Github]](https://github.com/causalNLP/cladder)|[[Huggingface]](https://huggingface.co/datasets/causalNLP/cladder)|
 |2023| Step | Art: Automatic multi-step reasoning and tool-use for large language models.|[[ArXiv]](https://arxiv.org/pdf/2303.09014) |-|[[Github](https://github.com/bhargaviparanjape/language-programmes/)|-|
 |2023| Step | STEPS: A Benchmark for Order Reasoning in Sequential Tasks.|[[ArXiv]](https://arxiv.org/pdf/2306.04441) |-|[[Github]](https://github.com/Victorwz/STEPS)|-|
-|2023| Mind | Hi-tom: A benchmark for evaluating higher-order theory of mind reasoning in large language models.|[[ArXiv]](https://arxiv.org/pdf/2310.16755) |-|[[Github]](https://github.com/ying-hui-he/Hi-ToM_dataset)|-|
+|2024| Complex | OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI.|[[ArXiv]](https://arxiv.org/pdf/2406.12753) |-|[[Github]](https://gair-nlp.github.io/OlympicArena/)|-|
 
 ### 📖Knowledge
 
@@ -267,7 +267,13 @@ ArXiv, 2023.
 *B Zhang, H Xie, P Du, J Chen, P Cao, Y Chen, S Liu, K Liu, J Zhao.*<br>
 arXiv:2308.14353, 2023.
 [[ArXiv](https://arxiv.org/pdf/2308.14353)]
-[[Homepages](http://www.zhujiu-benchmark.com/)]
+[[Homepage](http://www.zhujiu-benchmark.com/)]
+
+**Xiezhi: An ever-updating benchmark for holistic domain knowledge evaluation.**<br>
+*Z Gu, X Zhu, H Ye, L Zhang, J Wang, Y Zhu, et al.*<br>
+AAAI, 2024.
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/download/29767/31320)]
+[[Github](https://github.com/MikeGu721/XiezhiBenchmark)]
 
 ### 📖Discipline
 
