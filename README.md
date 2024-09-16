@@ -1102,11 +1102,29 @@ Nature Human Behaviour, 2024.
 
 ### 📖Emotional-Intelligence
 
+**Emotionally numb or empathetic? evaluating how llms feel using emotionbench.**<br>
+*J Huang, MH Lam, EJ Li, S Ren, W Wang.*<br>
+arXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.03656)]
+[[Github](https://github.com/CUHK-ARISE/EmotionBench)]
+
+**Can Generative Agents Predict Emotion?**<br>
+*C Regan, N Iwahashi, S Tanaka, M Oka.*<br>
+arXiv:2402.04232, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.04232)]
+[[Github](https://github.com/tsukuba-websci/GenerativeAgentsPredictEmotion)]
+
 **EmoBench: Evaluating the Emotional Intelligence of Large Language Models.**<br>
 *S Sabour, S Liu, Z Zhang, JM Liu, J Zhou, AS Sunaryo, J Li, T Lee, R Mihalcea, M Huang.*<br>
 arXiv:2402.12071, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.12071)]
 [[Github](https://github.com/Sahandfer/EmoBench)]
+
+**GIEBench: Towards Holistic Evaluation of Group Identity-based Empathy for Large Language Models.**<br>
+*L Wang, Y Jin, T Shen, T Zheng, X Du, C Zhang, W Huang, J Liu, S Wang, G Zhang, L Xiang, et al.*<br>
+arXiv:2406.14903, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.14903)]
+[[Github](https://github.com/GIEBench/GIEBench)]
 
 ## 📖Performance-Cost 
 
