@@ -1066,6 +1066,12 @@ ArXiv, 2024.
 
 ### 📖Social-Intelligence
 
+**Hi-tom: A benchmark for evaluating higher-order theory of mind reasoning in large language models.**<br>
+*Y He, Y Wu, Y Jia, R Mihalcea, Y Chen, N Deng.*<br>
+arXiv:2310.16755, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.16755)]
+[[Github](https://github.com/ying-hui-he/Hi-ToM_dataset)]
+
 **Sotopia: Interactive evaluation for social intelligence in language agents.**<br>
 *X Zhou, H Zhu, L Mathur, R Zhang, H Yu, Z Qi, LP Morency, Y Bisk, D Fried, G Neubig, et al.*<br>
 arXiv:2310.11667, 2023.
