@@ -231,7 +231,11 @@ arXiv:2311.05374, 2023.
 |2024| Causal | Cladder: A benchmark to assess causal reasoning capabilities of language models.|[[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/631bb9434d718ea309af82566347d607-Paper-Conference.pdf) |-|[[Github]](https://github.com/causalNLP/cladder)|[[Huggingface]](https://huggingface.co/datasets/causalNLP/cladder)|
 |2023| Step | Art: Automatic multi-step reasoning and tool-use for large language models.|[[ArXiv]](https://arxiv.org/pdf/2303.09014) |-|[[Github](https://github.com/bhargaviparanjape/language-programmes/)|-|
 |2023| Step | STEPS: A Benchmark for Order Reasoning in Sequential Tasks.|[[ArXiv]](https://arxiv.org/pdf/2306.04441) |-|[[Github]](https://github.com/Victorwz/STEPS)|-|
+|2023| Complex | Have llms advanced enough? a challenging problem solving benchmark for large language models.|[[ArXiv]](https://arxiv.org/pdf/2305.15074) |-|[[Github]](https://github.com/dair-iitd/jeebench)|-|
+|2024| Complex | MixEval: Deriving Wisdom of the Crowd from LLM Benchmark Mixtures.|[[ArXiv]](https://arxiv.org/pdf/2406.06565) |-|[[Github]](https://mixeval.github.io/)|[[Huggingface]](https://huggingface.co/datasets/MixEval/MixEval)|
+|2024| Complex | Livebench: A challenging, contamination-free llm benchmark.|[[ArXiv]](https://arxiv.org/pdf/2406.19314) |[[Homepage]](https://livebench.ai/)|[[Github]](https://github.com/livebench/livebench)|[[Huggingface]](https://huggingface.co/livebench)|
 |2024| Complex | OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI.|[[ArXiv]](https://arxiv.org/pdf/2406.12753) |-|[[Github]](https://gair-nlp.github.io/OlympicArena/)|-|
+
 
 ### 📖Knowledge
 
