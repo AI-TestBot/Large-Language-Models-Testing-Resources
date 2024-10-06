@@ -235,7 +235,7 @@ arXiv:2311.05374, 2023.
 |2024| Complex | MixEval: Deriving Wisdom of the Crowd from LLM Benchmark Mixtures.|[[ArXiv]](https://arxiv.org/pdf/2406.06565) |-|[[Github]](https://mixeval.github.io/)|[[Huggingface]](https://huggingface.co/datasets/MixEval/MixEval)|
 |2024| Complex | Livebench: A challenging, contamination-free llm benchmark.|[[ArXiv]](https://arxiv.org/pdf/2406.19314) |[[Homepage]](https://livebench.ai/)|[[Github]](https://github.com/livebench/livebench)|[[Huggingface]](https://huggingface.co/livebench)|
 |2024| Complex | OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI.|[[ArXiv]](https://arxiv.org/pdf/2406.12753) |-|[[Github]](https://gair-nlp.github.io/OlympicArena/)|-|
-
+|2024| Complex | Evaluation of OpenAI o1: Opportunities and Challenges of AGI.|[[ArXiv]](https://arxiv.org/pdf/2409.18486) |-|[[Github]](https://github.com/UGA-CAID/AGI-Bench)|-|
 
 ### 📖Knowledge
 
