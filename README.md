@@ -21,11 +21,6 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[Instruction-Following](#Instruction-Following)
   * 📖[Reliable](#Reliable)
   * 📖[Robust](#Robust)
-* 📖[Security](#Security)
-  * 📖[Content-Security](#Content-Security)
-  * 📖[Value-Aligement](#Value-Aligement)
-  * 📖[Model-Security](#Model-Security)
-  * 📖[Privacy-Security](#Privacy-Security)
 * 📖[Application](#Application)
   * 📖[Comprehensive](#Comprehensive)
   * 📖[Chatbot](#Chatbot)
@@ -37,6 +32,11 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[TaskPlanning](#TaskPlanning)
   * 📖[Agent](#Agent)
   * 📖[EmbodiedAI](#EmbodiedAI)
+* 📖[Security](#Security)
+  * 📖[Content-Security](#Content-Security)
+  * 📖[Value-Aligement](#Value-Aligement)
+  * 📖[Model-Security](#Model-Security)
+  * 📖[Privacy-Security](#Privacy-Security)
 * 📖[Industry](#Industry)
   * 📖[Finance](#Finance)
   * 📖[Medical](#Medical)
@@ -577,52 +577,6 @@ arxiv:2310.11324, 2023.
 [[ArXiv](https://arxiv.fropet.com/pdf/2310.11324)]
 [[Github](https://github.com/msclar/formatspread)]
 
-## 📖Security
-
-### 📖Content-Security
-
-**JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models.**<br>
-*M Zhang, X Pan, M Yang.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2311.00286.pdf)]
-[[Github](https://github.com/whitzard-ai/jade-db)]
-
-### 📖Value-Aligement
-
-**Cvalues: Measuring the values of chinese large language models from safety to responsibility.**<br>
-*G Xu, J Liu, M Yan, H Xu, J Si, Z Zhou, P Yi, X Gao, J Sang, R Zhang, J Zhang, C Peng, et al.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2307.09705)]
-[[Github](https://github.com/X-PLUG/CValues)]
-
-**Alignbench: Benchmarking chinese alignment of large language models.**<br>
-*X Liu, X Lei, S Wang, Y Huang, Z Feng, B Wen, J Cheng, P Ke, Y Xu, WL Tam, X Zhang, et al.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2311.18743)]
-[[Github](https://github.com/THUDM/AlignBench)]
-
-### 📖Model-Security
-
-**R-Judge: Benchmarking Safety Risk Awareness for LLM Agents.**<br>
-*T Yuan, Z He, L Dong, Y Wang, R Zhao, T **a, L Xu, B Zhou, F Li, Z Zhang, R Wang, G Liu.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2401.10019)]
-[[Github](https://github.com/Lordog/R-Judge)]
-
-**I Think, Therefore I am: Awareness in Large Language Models.**<br>
-*Y Li, Y Huang, Y Lin, S Wu, Y Wan, L Sun.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2401.17882)]
-[[Github](https://github.com/HowieHwong/Awareness-in-LLM)]
-
-### 📖Privacy-Security
-
-**Can llms keep a secret? testing privacy implications of language models via contextual integrity theory.**<br>
-*N Mireshghallah, H Kim, X Zhou, Y Tsvetkov, M Sap, R Shokri, Y Choi.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2310.17884)]
-[[Github](http://confaide.github.io/)]
-
 ## 📖Application
 
 ### 📖Comprehensive
@@ -754,6 +708,52 @@ ArXiv, 2023.
 ICLR, 2023.
 [[ArXiv](https://arxiv.org/pdf/2210.07474)]
 [[Homepage](https://sqa3d.github.io/)]
+
+## 📖Security
+
+### 📖Content-Security
+
+**JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models.**<br>
+*M Zhang, X Pan, M Yang.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.00286.pdf)]
+[[Github](https://github.com/whitzard-ai/jade-db)]
+
+### 📖Value-Aligement
+
+**Cvalues: Measuring the values of chinese large language models from safety to responsibility.**<br>
+*G Xu, J Liu, M Yan, H Xu, J Si, Z Zhou, P Yi, X Gao, J Sang, R Zhang, J Zhang, C Peng, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.09705)]
+[[Github](https://github.com/X-PLUG/CValues)]
+
+**Alignbench: Benchmarking chinese alignment of large language models.**<br>
+*X Liu, X Lei, S Wang, Y Huang, Z Feng, B Wen, J Cheng, P Ke, Y Xu, WL Tam, X Zhang, et al.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.18743)]
+[[Github](https://github.com/THUDM/AlignBench)]
+
+### 📖Model-Security
+
+**R-Judge: Benchmarking Safety Risk Awareness for LLM Agents.**<br>
+*T Yuan, Z He, L Dong, Y Wang, R Zhao, T **a, L Xu, B Zhou, F Li, Z Zhang, R Wang, G Liu.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.10019)]
+[[Github](https://github.com/Lordog/R-Judge)]
+
+**I Think, Therefore I am: Awareness in Large Language Models.**<br>
+*Y Li, Y Huang, Y Lin, S Wu, Y Wan, L Sun.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.17882)]
+[[Github](https://github.com/HowieHwong/Awareness-in-LLM)]
+
+### 📖Privacy-Security
+
+**Can llms keep a secret? testing privacy implications of language models via contextual integrity theory.**<br>
+*N Mireshghallah, H Kim, X Zhou, Y Tsvetkov, M Sap, R Shokri, Y Choi.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.17884)]
+[[Github](http://confaide.github.io/)]
 
 ## 📖Industry
 
