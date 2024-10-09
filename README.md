@@ -73,7 +73,6 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 * 📖[Testing-Tools](#Testing-Tools)
 * 📖[Challenges](#Challenges)
    * 📖[Contamination](#Contamination)
-* 📖[Root-Cause-Analysis](#Root-Cause-Analysis)
 * 📖[Supported-Elements](#Supported-Elements)
      * 📖[Organization](#Organization)
      * 📖[Group](#Group)
@@ -1299,13 +1298,6 @@ ArXiv, 2024.
 *C Liu, L Yu, J Li, R **, Y Huang, L Shi, J Zhang, et al.*<br>
 ArXiv, 2024.
 [[HomePage](http://openeval.org.cn/)]
-
-## 📖Root-Cause-Analysis
-
-**A Survey on Failure Analysis and Fault Injection in AI Systems.**<br>
-*G Yu, G Tan, H Huang, Z Zhang, P Chen, R Natella, Z Zheng.*<br>
-ArXiv, 2024.
-[[Paper](https://arxiv.org/pdf/2407.00125)]
 
 ## 📖Challenges
 
