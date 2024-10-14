@@ -732,6 +732,11 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.18743)]
 [[Github](https://github.com/THUDM/AlignBench)]
 
+**Localvaluebench: A collaboratively built and extensible benchmark for evaluating localized value alignment and ethical safety in large language models.**<br>
+*GI Meadows, NWL Lau, EA Susanto, CL Yu, et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.01460)]
+
 ### 📖Model-Security
 
 **R-Judge: Benchmarking Safety Risk Awareness for LLM Agents.**<br>
