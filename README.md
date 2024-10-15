@@ -655,6 +655,27 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.05307)]
 [[Github](https://tapilot-crossing.github.io/)]
 
+**Are llms capable of data-based statistical and causal reasoning? benchmarking advanced quantitative reasoning with data.**<br>
+*X Liu, Z Wu, X Wu, P Lu, KW Chang, Y Feng.*<br>
+arxiv:2402.17644, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.17644)]
+[[Github](https://github.com/xxxiaol/QRData)]
+
+**Viseval: A benchmark for data visualization in the era of large language models.**<br>
+*N Chen, Y Zhang, J Xu, K Ren, Y Yang.*<br>
+IEEE Transactions on Visualization and Computer Graphics, 2024.
+[[ArXiv](https://arxiv.org/pdf/2407.00981)]
+
+**Infiagent-dabench: Evaluating agents on data analysis tasks.**<br>
+*X Hu, Z Zhao, S Wei, Z Chai, G Wang, X Wang, J Su, J Xu, M Zhu, Y Cheng, J Yuan, et al.*<br>
+arxiv:2401.05507, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.05507)]
+
+**Table meets llm: Can large language models understand structured table data? a benchmark and empirical study.**<br>
+*Y Sui, M Zhou, M Zhou, S Han, D Zhang.*<br>
+WSDM, 2024.
+[[ArXiv](https://dl.acm.org/doi/pdf/10.1145/3616855.3635752)]
+
 ### 📖Code-Assistant
 
 **Measuring coding challenge competence with apps.**<br>
@@ -1154,6 +1175,11 @@ arXiv:2406.14903, 2024.
 *M Zhang, X Pan, M Yang.*<br>
 ACL, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.16775)]
+
+**Evaluating the Generalization Ability of Quantized LLMs: Benchmark, Analysis, and Toolbox.**<br>
+*Y Liu, Y Meng, F Wu, S Peng, H Yao, C Guan, C Tang, X Ma, Z Wang, W Zhu.*<br>
+arxiv:2406.12928, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.12928)]
 
 ### Edge-Model
 
