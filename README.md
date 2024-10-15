@@ -220,6 +220,7 @@ arXiv:2311.05374, 2023.
 |2023| Math | CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?|[[ArXiv]](https://arxiv.org/abs/2306.16636) |-|-|[[DataSets]](https://huggingface.co/datasets/weitianwen/cmath)|
 |2023| Math | TheoremQA: A Theorem-driven Question Answering Dataset.|[[ArXiv]](https://aclanthology.org/2023.emnlp-main.489.pdf)|-|-|-|
 |2023| Math | MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts.|[[ArXiv]](https://arxiv.org/abs/2310.01386) |-|[[Github]](https://github.com/lupantech/MathVista)|[[DataSets]](https://huggingface.co/datasets/AI4Math/MathVista)|
+|2024| Math | GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2410.05229?) |-|-|-|
 |2016| Logic | Story cloze evaluator: Vector space representation evaluation by predicting what happens next.|[[ArXiv]](https://aclanthology.org/W16-2505.pdf) |-|-|-|
 |2016| Logic | The LAMBADA dataset: Word prediction requiring a broad discourse context.|[[ArXiv]](https://arxiv.org/pdf/1606.06031) |-|-|-|
 |2023| Logic | RoCar: A Relationship Network-based Evaluation Method to Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2307.15997)|-|[[Github]](https://github.com/NEU-DataMining/RoCar)|-|
