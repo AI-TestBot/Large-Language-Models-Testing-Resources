@@ -1359,10 +1359,11 @@ ArXiv, 2024.
 ### 📖Group
 
 |Category|Name|Organization|HomePage|Github|Scholar|
-|:---:|:---:|:---:|:---:|:---:|:---:|  
-|Research Group| Qiu Xipeng | Fudan University | [[homepage]](https://xpqiu.github.io/) |-|[[scholar]](https://so2.typicalgame.com/citations?hl=zh-CN&user=Pq4Yp_kAAAAJ&view_op=list_works&sortby=pubdate)|
-|Research Group| Yewei | Peking University-The Knowledge Computing Lab | [[homepage]](http://se.pku.edu.cn/kcl/weiye/) |-|[[scholar]](https://so2.cljtscd.com/citations?hl=zh-CN&user=RgLGFMIAAAAJ&view_op=list_works&sortby=pubdate)|
-|Research Group| Xiong Deyi | Tianjin University-Natural Language Processing Laboratory | [[homepage]](https://tjunlp-lab.github.io/) |[[github]](https://github.com/tjunlp-lab)|-| 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|NLP| Huang Minlie | Tsinghua University | [[homepage]](https://coai.cs.tsinghua.edu.cn/hml) |-|-|
+|NLP| Qiu Xipeng | Fudan University | [[homepage]](https://xpqiu.github.io/) |-|[[scholar]](https://so2.typicalgame.com/citations?hl=zh-CN&user=Pq4Yp_kAAAAJ&view_op=list_works&sortby=pubdate)|
+|NLP| Yewei | Peking University-The Knowledge Computing Lab | [[homepage]](http://se.pku.edu.cn/kcl/weiye/) |-|[[scholar]](https://so2.cljtscd.com/citations?hl=zh-CN&user=RgLGFMIAAAAJ&view_op=list_works&sortby=pubdate)|
+|NLP| Xiong Deyi | Tianjin University-Natural Language Processing Laboratory | [[homepage]](https://tjunlp-lab.github.io/) |[[github]](https://github.com/tjunlp-lab)|-| 
 
 ### 📖Conference
 
