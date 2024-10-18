@@ -1360,8 +1360,8 @@ ArXiv, 2024.
 
 |Category|Name|Organization|HomePage|Github|Scholar|
 |:---:|:---:|:---:|:---:|:---:|:---:|   
-|Research Group| 叶蔚 | 北京大学-The Knowledge Computing Lab | [[homepage]](http://se.pku.edu.cn/kcl/weiye/) |-|[[scholar]](https://so2.cljtscd.com/citations?hl=zh-CN&user=RgLGFMIAAAAJ&view_op=list_works&sortby=pubdate)|
-|Research Group| 熊德意 | 天津大学-自然语言处理实验室 | [[homepage]](https://tjunlp-lab.github.io/) |[[github]](https://github.com/tjunlp-lab)|-| 
+|Research Group| Yewei | Peking University-The Knowledge Computing Lab | [[homepage]](http://se.pku.edu.cn/kcl/weiye/) |-|[[scholar]](https://so2.cljtscd.com/citations?hl=zh-CN&user=RgLGFMIAAAAJ&view_op=list_works&sortby=pubdate)|
+|Research Group| Xiong Deyi | Tianjin University-Natural Language Processing Laboratory | [[homepage]](https://tjunlp-lab.github.io/) |[[github]](https://github.com/tjunlp-lab)|-| 
 
 ### 📖Conference
 
