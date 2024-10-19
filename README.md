@@ -63,13 +63,13 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
    * 📖[Edge-Model](#Edge-Model)
    * 📖[Carbon-Emission](#Carbon-Emission)
 * 📖[Testing-DataSets](#Testing-DataSets)
+   * 📖[Qualtiy](#Qualtiy)
    * 📖[Generation](#Generation)
-   * 📖[Governence](#Governence)
 * 📖[Testing-Methods](#Testing-Methods)
-   * 📖[Dynamic-Testing](#Dynamic-Testing)
-   * 📖[Weakness-Detection](#Weakness-Detection)
    * 📖[NLG-Evaluation](#NLG-Evaluation)
-   * 📖[Human-Interaction](#Human-Interaction)
+   * 📖[Dynamic-Testing](#Dynamic-Testing)
+   * 📖[Accurate-Testing](#Accurate-Testing)
+   * 📖[Human-Interaction-Testing](#Human-Interaction-Testing)
 * 📖[Testing-Tools](#Testing-Tools)
 * 📖[Challenges](#Challenges)
    * 📖[Contamination](#Contamination)
@@ -1040,7 +1040,9 @@ CVPR, 2023.
 
 ### 📖Industry（工业）
 
-**To be refreshed...**<br>
+**工业大模型：体系架构、关键技术与典型应用.**<br>
+*任磊, 王海腾, 董家宝等.*<br>
+中国科学: 信息科学，2024.（在审）
 
 ### 📖Media
 
@@ -1198,37 +1200,19 @@ arXiv:2405.12843, 2024.
 
 ## 📖Testing-DataSets
 
+### 📖Quality
+
+**Multimodal-Data-Optimization-Resources.**<br>
+*Test DataSets Evluation*<br>
+[[Github](https://github.com/AI-TestBot/Multimodal-Data-Optimization-Resources)]
+
 ### 📖Generation
 
 **Multimodal-Data-Generation-Resources.**<br>
 *Test DataSets Generation*<br>
-[[Github](https://github.com/MMDSPF/Multimodal-Data-Generation-Resources)]
-
-### 📖Governence
+[[Github](https://github.com/AI-TestBot/Multimodal-Data-Optimization-Resources)]
 
 ## 📖Testing-Methods
-
-### 📖Dynamic-Testing
-
-**LLMEval: A Preliminary Study on How to Evaluate Large Language Models.**<br>
-*Y Zhang, M Zhang, H Yuan, S Liu, Y Shi, T Gui, Q Zhang, X Huang.*<br>
-Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
-[[HomePage](http://llmeval.com/index)]
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
-[[Github](https://github.com/llmeval/)]
-
-**TinyBenchmarks: evaluating LLMs with fewer examples.**<br>
-*FM Polo, L Weber, L Choshen, Y Sun, G Xu, M Yurochkin.*<br>
-arXiv:2402.14992, 2024.
-[[Paper](https://arxiv.org/html/2402.14992v1)]
-
-### 📖Weakness-Detection
-
-**AutoDetect: Towards a Unified Framework for Automated Weakness Detection in Large Language Models.**<br>
-*J Cheng, Y Lu, X Gu, P Ke, X Liu, Y Dong, H Wang, J Tang, M Huang.*<br>
-arXiv:2406.16714, 2024.
-[[ArXiv](https://arxiv.org/pdf/2406.16714)]
-[[Github](https://github.com/thu-coai/AutoDetect)]
 
 ### 📖NLG-Evaluation
 
@@ -1244,7 +1228,29 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.18702.pdf)]
 [[Github](https://github.com/thu-coai/CritiqueLLM)]
 
-### 📖Human-Interaction
+### 📖Dynamic-Testing
+
+**LLMEval: A Preliminary Study on How to Evaluate Large Language Models.**<br>
+*Y Zhang, M Zhang, H Yuan, S Liu, Y Shi, T Gui, Q Zhang, X Huang.*<br>
+Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+[[HomePage](http://llmeval.com/index)]
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
+[[Github](https://github.com/llmeval/)]
+
+**TinyBenchmarks: evaluating LLMs with fewer examples.**<br>
+*FM Polo, L Weber, L Choshen, Y Sun, G Xu, M Yurochkin.*<br>
+arXiv:2402.14992, 2024.
+[[Paper](https://arxiv.org/html/2402.14992v1)]
+
+### 📖Accurate-Testing
+
+**AutoDetect: Towards a Unified Framework for Automated Weakness Detection in Large Language Models.**<br>
+*J Cheng, Y Lu, X Gu, P Ke, X Liu, Y Dong, H Wang, J Tang, M Huang.*<br>
+arXiv:2406.16714, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.16714)]
+[[Github](https://github.com/thu-coai/AutoDetect)]
+
+### 📖Human-Interaction-Testing
 
 **Beyond static datasets: A deep interaction approach to llm evaluation.**<br>
 *J Li, R Li, Q Liu .*<br>
