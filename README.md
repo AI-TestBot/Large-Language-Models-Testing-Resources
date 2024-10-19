@@ -606,10 +606,15 @@ arxiv:2212.09180, 2022.
 [[ArXiv](https://arxiv.org/pdf/2212.09180)]
 [[Github](https://github.com/emorynlp/ChatEvaluationPlatform)]
 
-**DialogBench: Evaluating LLMs as Human-like Dialogue Systems.**<br>
-*J Ou, J Lu, C Liu, Y Tang, F Zhang, D Zhang, Z Wang, K Gai.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2311.01677)]
+**Benchmarking LLM powered chatbots: methods and metrics.**<br>
+*D Banerjee, P Singh, A Avadhanam, S Srivastava.*<br>
+arXiv:2308.04624, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.04624)]
+
+**Benchmarking, ethical alignment, and evaluation framework for conversational AI: Advancing responsible development of ChatGPT.**<br>
+*PP Ray.*<br>
+BenchCouncil Transactions on Benchmarks, Standards, 2023.
+[[Paper](https://www.sciencedirect.com/science/article/pii/S2772485923000534)]
 
 **BotChat: Evaluating LLMs' Capabilities of Having Multi-Turn Dialogues.**<br>
 *H Duan, J Wei, C Wang, H Liu, Y Fang, S Zhang, D Lin, K Chen.*<br>
@@ -617,11 +622,27 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.longhoe.net/pdf/2310.13650)]
 [[Github](https://github.com/open-compass/BotChat/)]
 
+**DialogBench: Evaluating LLMs as Human-like Dialogue Systems.**<br>
+*J Ou, J Lu, C Liu, Y Tang, F Zhang, D Zhang, Z Wang, K Gai.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.01677)]
+
 **Lmsys-chat-1m: A large-scale real-world llm conversation dataset.**<br>
 *Lianmin Zheng, et al.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2309.11998)]
 [[DataSets](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)]
+
+**ComperDial: Commonsense Persona-grounded Dialogue Dataset and Benchmark.**<br>
+*H Wakaki, Y Mitsufuji, Y Maeda, Y Nishimura, S Gao, M Zhao, K Yamada, A Bosselut.*<br>
+arXiv:2406.11228, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.11228)]
+
+**DialSim: A Real-Time Simulator for Evaluating Long-Term Dialogue Understanding of Conversational Agents.**<br>
+*J Kim, W Chay, H Hwang, D Kyung, H Chung, E Cho, Y Jo, E Choi.*<br>
+arXiv:2406.13144, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.13144)]
+[[Github](https://dialsim.github.io/)]
 
 **SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words.**<br>
 *J Ao, Y Wang, X Tian, D Chen, J Zhang, L Lu, Y Wang, H Li, Z Wu.*<br>
@@ -630,6 +651,31 @@ arXiv:2406.13340, 2024.
 [[Github](https://github.com/amphionspace/SD-Eval)]
 
 ### 📖Knowledge-Management
+
+**Docmath-eval: Evaluating numerical reasoning capabilities of llms in understanding long documents with tabular data.**<br>
+*Y Zhao, Y Long, H Liu, L Nan, L Chen, R Kamoi, Y Liu, X Tang, R Zhang, A Cohan.*<br>
+arXiv:2311.09805, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.09805)]
+[[Github](https://github.com/yale-nlp/DocMath-Eval)]
+
+**Evaluating LLMs on document-based QA: Exact answer selection and numerical extraction using CogTale dataset.**<br>
+*Z Rasool, S Kurniawan, S Balugo, S Barnett, et al.*<br>
+Natural Language Processing Journal, 2024.
+[[Paper](https://www.sciencedirect.com/science/article/pii/S2949719124000311)]
+
+**Kitab: Evaluating llms on constraint satisfaction for information retrieval.**<br>
+*MI Abdin, S Gunasekar, V Chandrasekaran, J Li, M Yuksekgonul, RG Peshawaria, R Naik, et al.*<br>
+arXiv:2310.15511, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.15511)]
+[[Huggingface](https://huggingface.co/datasets/microsoft/kitab)]
+
+#### 📖RAG
+
+**Ragas: Automated evaluation of retrieval augmented generation.**<br>
+*S Es, J James, L Espinosa-Anke, S Schockaert.*<br>
+arXiv:2309.15217, 2023.
+[[Paper](https://aclanthology.org/2024.eacl-demo.16.pdf)]
+[[Github](https://github.com/explodinggradients/ragas)]
 
 **Benchmarking Large Language Models in Retrieval-Augmented Generation.**<br>
 *J Chen, H Lin, X Han, L Sun.*<br>
@@ -641,6 +687,12 @@ AAAI, 2024.
 *J Saad-Falcon, O Khattab, C Potts, M Zaharia.*<br>
 arXiv:2311.09476, 2023.
 [[Paper](https://arxiv.org/pdf/2311.094760)]
+[[Github](https://github.com/stanford-futuredata/ARES)]
+
+**CRAG--Comprehensive RAG Benchmark.**<br>
+*X Yang, K Sun, H Xin, Y Sun, N Bhalla, X Chen.*<br>
+arXiv, 2024.
+[[Paper](https://arxiv.org/pdf/2406.04744)]
 [[Github](https://github.com/stanford-futuredata/ARES)]
 
 **Crud-rag: A comprehensive chinese benchmark for retrieval-augmented generation of large language models.**<br>
