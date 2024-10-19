@@ -1360,10 +1360,10 @@ ArXiv, 2024.
 
 |Category|Name|Organization|HomePage|Github|Scholar|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|NLP| Huang Minlie | Tsinghua University | [[homepage]](https://coai.cs.tsinghua.edu.cn/hml) |-|-|
+|NLP| Huang Minlie | Tsinghua University | [[homepage]](https://coai.cs.tsinghua.edu.cn/hml) |-|[[scholar]](https://scholar.google.com/citations?user=mWS1pY4AAAAJ&hl=en&oi=ao)|
 |NLP| Qiu Xipeng | Fudan University | [[homepage]](https://xpqiu.github.io/) |-|[[scholar]](https://so2.typicalgame.com/citations?hl=zh-CN&user=Pq4Yp_kAAAAJ&view_op=list_works&sortby=pubdate)|
 |NLP| Yewei | Peking University-The Knowledge Computing Lab | [[homepage]](http://se.pku.edu.cn/kcl/weiye/) |-|[[scholar]](https://so2.cljtscd.com/citations?hl=zh-CN&user=RgLGFMIAAAAJ&view_op=list_works&sortby=pubdate)|
-|NLP| Xiong Deyi | Tianjin University-Natural Language Processing Laboratory | [[homepage]](https://tjunlp-lab.github.io/) |[[github]](https://github.com/tjunlp-lab)|-| 
+|NLP| Xiong Deyi | Tianjin University-Natural Language Processing Laboratory | [[homepage]](https://tjunlp-lab.github.io/) |[[github]](https://github.com/tjunlp-lab)|[[scholar]](https://scholar.google.com/citations?hl=en&user=QPLO3myO5PkC&view_op=list_works&sortby=pubdate)| 
 |NLP| Zheng Haitao | Tsinghua University | [[homepage]](https://www.sigs.tsinghua.edu.cn/zht/) |-|[[scholar]](https://so2.typicalgame.com/citations?hl=zh-CN&user=7VPeORoAAAAJ&view_op=list_works&sortby=pubdate)| 
 
 ### 📖Conference
