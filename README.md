@@ -63,8 +63,8 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
    * 📖[Edge-Model](#Edge-Model)
    * 📖[Carbon-Emission](#Carbon-Emission)
 * 📖[Testing-DataSets](#Testing-DataSets)
-   * 📖[Qualtiy](#Qualtiy)
-   * 📖[Generation](#Generation)
+   * 📖[DataSets-Quality](#DataSets-Quality)
+   * 📖[DataSets-Generation](#DataSets-Generation)
 * 📖[Testing-Methods](#Testing-Methods)
    * 📖[NLG-Evaluation](#NLG-Evaluation)
    * 📖[Dynamic-Testing](#Dynamic-Testing)
@@ -1200,13 +1200,13 @@ arXiv:2405.12843, 2024.
 
 ## 📖Testing-DataSets
 
-### 📖Quality
+### 📖Datasets-Quality
 
 **Multimodal-Data-Optimization-Resources.**<br>
 *Test DataSets Evluation*<br>
 [[Github](https://github.com/AI-TestBot/Multimodal-Data-Optimization-Resources)]
 
-### 📖Generation
+### 📖Datasets-Generation
 
 **Multimodal-Data-Generation-Resources.**<br>
 *Test DataSets Generation*<br>
