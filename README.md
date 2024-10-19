@@ -514,11 +514,47 @@ arXiv:2306.04757, 2023.
 [[Github](https://github.com/declare-lab/instruct-eval)]
 [[DataSets](https://huggingface.co/datasets/declare-lab/InstructEvalImpact)]
 
-**CIF-Bench: A Chinese Instruction-Following Benchmark for Evaluating the Generalizability of Large Language Models.**<br>
-*Y Li, G Zhang, X Qu, J Li, Z Li, Z Wang, H Li, R Yuan, Y Ma, K Zhang, W Zhou, Y Liang, et al.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2402.13109)]
-[[Github](https://yizhilll.github.io/CIF-Bench/)]
+**Instruction-following evaluation for large language models.**<br>
+*J Zhou, T Lu, S Mishra, S Brahma, S Basu, Y Luan, D Zhou, L Hou.*<br>
+arXiv:2311.07911, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.07911)]
+[[Github](https://github.com/google-research/google-research/tree/master/instruction_following_eval)]
+[[DataSets](https://github.com/google-research/google-research/tree/master/instruction_following_eval)]
+
+**Benchmarking complex instruction-following with multiple constraints composition.**<br>
+*B Wen, P Ke, X Gu, L Wu, H Huang, J Zhou, W Li, B Hu, W Gao, J Xu, Y Liu, J Tang, H Wang, et al.*<br>
+arXiv:2407.03978, 2024.
+[[ArXiv](https://arxiv.org/pdf/2407.03978)]
+[[Github](https://github.com/thu-coai/ComplexBench)]
+
+**Cfbench: A comprehensive constraints-following benchmark for llms.**<br>
+*T Zhang, Y Shen, W Luo, Y Zhang, H Liang, F Yang, M Lin, Y Qiao, W Chen, B Cui, W Zhang, et al.*<br>
+arXiv:2408.01122, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.01122)]
+[[Github](https://github.com/PKU-Baichuan-MLSystemLab/CFBench)]
+
+**Conifer: Improving Complex Constrained Instruction-Following Ability of Large Language Models.**<br>
+*H Sun, L Liu, J Li, F Wang, B Dong, R Lin, R Huang.*<br>
+arXiv:2404.02823, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.02823)]
+[[Github](https://github.com/ConiferLM/Conifer)]
+
+**Evaluation of Instruction-Following Ability for Large Language Models on Story-Ending Generation.**<br>
+*R Hida, J Ohmura, T Sekiya.*<br>
+arXiv:2406.16356, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.16356)]
+
+**From Complex to Simple: Enhancing Multi-Constraint Complex Instruction Following Ability of Large Language Models.**<br>
+*Q He, J Zeng, Q He, J Liang, Y Xiao.*<br>
+arXiv:2404.15846, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.15846)]
+[[Github](https://github.com/meowpass/FollowComplexInstruction)]
+
+**From Complex to Simple: Enhancing Multi-Constraint Complex Instruction Following Ability of Large Language Models.**<br>
+*Q He, J Zeng, Q He, J Liang, Y Xiao.*<br>
+arXiv:2404.15846, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.15846)]
+[[Github](https://github.com/meowpass/FollowComplexInstruction)]
 
 **InFoBench: Evaluating Instruction Following Ability in Large Language Models.**<br>
 *Y Qin, K Song, Y Hu, W Yao, S Cho, X Wang, X Wu, F Liu, P Liu, D Yu.*<br>
@@ -531,6 +567,12 @@ arXiv:2401.03601, 2024.
 arXiv:2402.14334, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.14334)]
 [[Github](https://github.com/kaistAI/InstructIR)]
+
+**SysBench: Can Large Language Models Follow System Messages?**<br>
+*Y Qin, T Zhang, Y Shen, W Luo, H Sun, Y Zhang, Y Qiao, W Chen, Z Zhou, W Zhang, B Cui.*<br>
+arXiv:2408.10943, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.10943)]
+[[Github](https://github.com/PKU-Baichuan-MLSystemLab/SysBench)]
 
 ### 📖Reliable
 
