@@ -825,11 +825,35 @@ arXiv:2409.13373.
 
 ### 📖Agent
 
+**Agentsims: An open-source sandbox for large language model evaluation.**<br>
+*J Lin, H Zhao, A Zhang, Y Wu, H Ping, Q Chen.*<br>
+arXiv:2308.04026, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.04026)]
+[[Homepage](https://agentsims.com/)]
+
+**Bolaa: Benchmarking and orchestrating llm-augmented autonomous agentsn.**<br>
+*Z Liu, W Yao, J Zhang, L Xue, S Heinecke, R Murthy, Y Feng, Z Chen, JC Niebles, D Arpit, et al.*<br>
+arXiv:2308.05960, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.05960)]
+[[Homepage](https://github.com/salesforce/BOLAA)]
+
+**Smartplay: A benchmark for llms as intelligent agents.**<br>
+*Y Wu, X Tang, TM Mitchell, Y Li.*<br>
+arXiv:2310.01557, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.01557)]
+[[Homepage](https://github.com/salesforce/BOLAA)]
+
 **Agentbench: Evaluating llms as agents.**<br>
 *X Liu, H Yu, H Zhang, Y Xu, X Lei, H Lai, Y Gu, H Ding, K Men, K Yang, S Zhang, X Deng, et al.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2308.03688)]
+ICLR, 2024.
+[[ICLR](https://arxiv.org/pdf/2308.03688)]
 [[Homepage](https://llmbench.ai/agent)]
+
+**Webarena: A realistic web environment for building autonomous agents.**<br>
+*S Zhou, FF Xu, H Zhu, X Zhou, R Lo, A Sridhar, et al.*<br>
+arXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.13854)]
+[[Homepage](https://webarena.dev/)]
 
 ### 📖EmbodiedAI
 
@@ -1481,6 +1505,7 @@ ArXiv, 2024.
 |Category|Name|Organization|HomePage|Github|Scholar|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |NLP| Sun Maosun | Tsinghua University | [[homepage]](https://nlp.csai.tsinghua.edu.cn/) |-|[[scholar]](https://so2.cljtscd.com/citations?hl=zh-CN&user=zIgT0HMAAAAJ&view_op=list_works&sortby=pubdate)|
+|NLP| Tang Jie | Tsinghua University | [[homepage]](https://keg.cs.tsinghua.edu.cn/jietang/) |-|[[scholar]](https://scholar.google.com/citations?hl=en&user=n1zDCkQAAAAJ&view_op=list_works&sortby=pubdate)| 
 |NLP| Huang Minlie | Tsinghua University | [[homepage]](https://coai.cs.tsinghua.edu.cn/hml) |-|[[scholar]](https://scholar.google.com/citations?user=mWS1pY4AAAAJ&hl=en&oi=ao)|
 |NLP| Zheng Haitao | Tsinghua University | [[homepage]](https://www.sigs.tsinghua.edu.cn/zht/) |-|[[scholar]](https://so2.typicalgame.com/citations?hl=zh-CN&user=7VPeORoAAAAJ&view_op=list_works&sortby=pubdate)| 
 |NLP| Yewei | Peking University | [[homepage]](http://se.pku.edu.cn/kcl/weiye/) |-|[[scholar]](https://so2.cljtscd.com/citations?hl=zh-CN&user=RgLGFMIAAAAJ&view_op=list_works&sortby=pubdate)|
