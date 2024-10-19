@@ -52,8 +52,8 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[Media](#Media)
   * 📖[Design](#Design)
   * 📖[Internet](#Internet)
-  * 📖[Robot](#Robot)
   * 📖[Game](#Game)
+  * 📖[Robot](#Robot)
 * 📖[Human-Machine-Interaction](#Human-Machine-Interaction)
   * 📖[User-Experience](#User-Experience)
   * 📖[Social-Intelligence](#Social-Intelligence)
@@ -993,17 +993,20 @@ arXiv:2403.18105, 2024.
 
 ### 📖Research
 
-**Scibench: Evaluating college-level scientific problem-solving abilities of large language models.**<br>
-*X Wang, Z Hu, P Lu, Y Zhu, J Zhang, S Subramaniam, AR Loomba, S Zhang, Y Sun, et al.*<br>
-ArXiv, 2023.
-[[ArXiv](http://arxiv.org/pdf/2307.10635)]
-[[Github](https://github.com/mandyyyyii/scibench)]
-
-**MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation.**<br>
-*Q Huang, J Vora, P Liang, J Leskovec.*<br>
-arxiv:2310.03302, 2023.
-[[ArXiv](https://arxiv.org/pdf/2310.03302)]
-[[Github](https://github.com/snap-stanford/MLAgentBench/)]
+|Date|Task|Title|Paper|HomePage|Github|DataSets|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023| Comprehensive | Benchmarking large language models as ai research agents.|[[ArXiv]](https://arxiv.org/pdf/2310.03302) |-|[[Github]](https://github.com/snap-stanford/MLAgentBench/)|-|
+|2023| Comprehensive | GPT vs Human for Scientific Reviews: A Dual Source Review on Applications of ChatGPT in Science.|[[ArXiv]](https://arxiv.org/pdf/2312.03769) |-|-|-|
+|2023| Comprehensive | LLMs for science: Usage for code generation and data analysis.|[[JSEP]](https://wiley.scienceconnect.io/api/oauth/authorize?ui_locales=en&scope=affiliations+alm_identity_ids+login_method+merged_users+openid+settings&response_type=code&redirect_uri=https%3A%2F%2Fonlinelibrary.wiley.com%2Faction%2FoidcCallback%3FidpCode%3Dconnect&state=Dps2IO0LOrpSUAYYguc7KtuRrf28v6p%2BGQvmml7isNKa0s7aLl5yNsTM6Lsej3%2FmMWghulq5Kc%2Fc%2BMFS8zcHIGD7TvbFrLX%2BLl%2FBO01ldiEHDr7RopuTrc%2FtIFb5amqfKYnS1b3MBZosWl6GkW77gjkJ0vXQCvM7&prompt=none&nonce=xb48Fniiudz30JE5Gd5lbnQ6Z0J5LXALPtqjU9YzRV0%3D&client_id=wiley) |-|-|-|
+|2023| Comprehensive | MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation.|[[ArXiv]](https://arxiv.org/pdf/2310.03302) |-|[[Github]](https://github.com/snap-stanford/MLAgentBench/)|-|
+|2023| Comprehensive | Scibench: Evaluating college-level scientific problem-solving abilities of large language models.|[[ArXiv]](http://arxiv.org/pdf/2307.10635) |-|[[Github]](https://github.com/mandyyyyii/scibench)|-|
+|2023| Comprehensive | Scieval: A multi-level large language model evaluation benchmark for scientific research.|[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/download/29872/31521) |-|[[Github]](https://github.com/OpenDFM/SciEval)|-|
+|2023| Comprehensive | The sciqa scientific question answering benchmark for scholarly knowledge.|[[SR]](https://www.nature.com/articles/s41598-023-33607-z.pdf) |-|[[Github]](https://github.com/YaserJaradeh/JarvisQA)|[[DataSets]](https://huggingface.co/datasets/orkg/SciQA)|
+|2024| Biomedical | Bioinfo-Bench: A Simple Benchmark Framework for LLM Bioinformatics Skills Evaluation.|[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1.full.pdf) |-|[[Github]](https://github.com/cinnnna/bioinfo-bench)|-|
+|2023| Chemistry | [ChemLLMBench] Do large language models understand chemistry? a conversation with chatgpt.|[[JCIM]](https://www.researchgate.net/profile/Andre-Pimentel-2/publication/369299429_Do_Large_Language_Models_Understand_Chemistry_A_Conversation_with/links/6413852c66f8522c38ad9ad2/Do-Large-Language-Models-Understand-Chemistry-A-Conversation-with.pdf) |[[Github]](https://github.com/andresilvapimentel/AI4Chem)|-|
+|2024| Chemistry | [ChemLLMBench] What can large language models do in chemistry? a comprehensive benchmark on eight tasks.|[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/file/bbb330189ce02be00cf7346167028ab1-Paper-Datasets_and_Benchmarks.pdf) |[[Github]](https://github.com/ChemFoundationModels/ChemLLMBench)|-|
+|2024| Geoscience | [GeoBench] K2: A foundation language model for geoscience knowledge understanding and utilization.|[[WSDM]](https://arxiv.org/pdf/2306.05064) |-|[[Github]](https://github.com/davendw49/k2)|-|
+|2023| Materials | [MaScQA] MaScQA: A Question Answering Dataset for Investigating Materials Science Knowledge of Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2308.09115) |-|[[Github]](https://github.com/M3RG-IITD/MaScQA)|[-|
 
 ### 📖Goverment-Affairs
 
