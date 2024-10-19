@@ -702,11 +702,35 @@ arXiv:2401.17043, 2024.
 
 ### 📖Data-Analysis
 
-**Tapilot-Crossing: Benchmarking and Evolving LLMs Towards Interactive Data Analysis Agents.**<br>
-*J Li, N Huo, Y Gao, J Shi, Y Zhao, G Qu, Y Wu, C Ma, JG Lou, R Cheng.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2403.05307)]
+**Chartqa: A benchmark for question answering about charts with visual and logical reasoning.**<br>
+*A Masry, DX Long, JQ Tan, S Joty, E Hoque.*<br>
+arXiv:2203.10244, 2022.
+[[ArXiv](https://arxiv.org/pdf/2203.10244)]
+[[Github](https://github.com/vis-nlp/ChartQA)]
+
+**QTSumm: Query-focused summarization over tabular data.**<br>
+*Y Zhao, Z Qi, L Nan, B Mi, Y Liu, W Zou, S Han, R Chen, X Tang, Y Xu, D Radev, A Cohan.*<br>
+arXiv:2305.14303, 2023.
+[[ArXiv](https://arxiv.org/pdf/2305.14303)]
+[[Github](https://github.com/yale-nlp/QTSumm)]
+
+**TableQAKit: A Comprehensive and Practical Toolkit for Table-based Question Answering.**<br>
+*F Lei, T Luo, P Yang, W Liu, H Liu, J Lei, Y Huang, Y Wei, S He, J Zhao, K Liu.*<br>
+arXiv:2310.15075, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.15075)]
+[[Github](https://github.com/lfy79001/TableQAKit)]
+
+**Datatales: Investigating the use of large language models for authoring data-driven articles.**<br>
+*N Sultanum, A Srinivasan.*<br>
+IEEE Visualization and Visual Analytics (VIS), 2023.
+[[ArXiv](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10360883)]
 [[Github](https://tapilot-crossing.github.io/)]
+
+**Beyond Traditional Benchmarks: Analyzing Behaviors of Open LLMs on Data-to-Text Generation.**<br>
+*Z Kasner, O Dušek.*<br>
+ACL, 2024.
+[[ACL](https://aclanthology.org/2024.acl-long.651.pdf)]
+[[Github](https://d2t-llm.github.io/)]
 
 **Are llms capable of data-based statistical and causal reasoning? benchmarking advanced quantitative reasoning with data.**<br>
 *X Liu, Z Wu, X Wu, P Lu, KW Chang, Y Feng.*<br>
@@ -714,15 +738,33 @@ arxiv:2402.17644, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.17644)]
 [[Github](https://github.com/xxxiaol/QRData)]
 
-**Viseval: A benchmark for data visualization in the era of large language models.**<br>
-*N Chen, Y Zhang, J Xu, K Ren, Y Yang.*<br>
-IEEE Transactions on Visualization and Computer Graphics, 2024.
-[[ArXiv](https://arxiv.org/pdf/2407.00981)]
+**BIBench: Benchmarking Data Analysis Knowledge of Large Language Models.**<br>
+*S Liu, S Zhao, C Jia, X Zhuang, Z Long, M Lan.*<br>
+arXiv:2401.02982, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.02982)]
+[[Github](https://github.com/cubenlp/BIBench)]
+
+**Chartbench: A benchmark for complex visual reasoning in charts.**<br>
+*Z Xu, S Du, Y Qi, C Xu, C Yuan, J Guo.*<br>
+arXiv:2312.15915, 2023.
+[[ArXiv](https://arxiv.org/pdf/2312.15915)]
+[[Github](https://chartbench.github.io/)]
 
 **Infiagent-dabench: Evaluating agents on data analysis tasks.**<br>
 *X Hu, Z Zhao, S Wei, Z Chai, G Wang, X Wang, J Su, J Xu, M Zhu, Y Cheng, J Yuan, et al.*<br>
 arxiv:2401.05507, 2024.
 [[ArXiv](https://arxiv.org/pdf/2401.05507)]
+
+**Tapilot-Crossing: Benchmarking and Evolving LLMs Towards Interactive Data Analysis Agents.**<br>
+*J Li, N Huo, Y Gao, J Shi, Y Zhao, G Qu, Y Wu, C Ma, JG Lou, R Cheng.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.05307)]
+[[Github](https://tapilot-crossing.github.io/)]
+
+**Viseval: A benchmark for data visualization in the era of large language models.**<br>
+*N Chen, Y Zhang, J Xu, K Ren, Y Yang.*<br>
+IEEE Transactions on Visualization and Computer Graphics, 2024.
+[[ArXiv](https://arxiv.org/pdf/2407.00981)]
 
 **Table meets llm: Can large language models understand structured table data? a benchmark and empirical study.**<br>
 *Y Sui, M Zhou, M Zhou, S Han, D Zhang.*<br>
@@ -761,10 +803,25 @@ ArXiv, 2024.
 
 ### 📖TaskPlanning
 
-**Understanding the capabilities of large language models for automated planning.**<br>
-*Vishal Pallagani, et al.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2305.16151)]
+**Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change).**<br>
+*K Valmeekam, A Olmo, S Sreedharan, S Kambhampati.*<br>
+arXiv:2206.10498, 2022.
+
+**On the planning abilities of large language models (a critical investigation with a proposed benchmark).**<br>
+*K Valmeekam, S Sreedharan, M Marquez, A Olmo, S Kambhampati.*<br>
+arXiv:2302.06706, 2023.
+
+**On the Planning Abilities of Large Language Models--A Critical Investigation.**<br>
+*K Valmeekam, M Marquez, S Sreedharan, S Kambhampati.*<br>
+Thirty-seventh Conference on Neural Information Processing Systems, 2023.
+
+**PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change.**<br>
+*K Valmeekam, M Marquez, A Olmo, S Sreedharan, S Kambhampati.*<br>
+Thirty-seventh Conference on Neural Information Processing Systems Datasets, 2023.
+
+**LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench.**<br>
+*K Valmeekam, K Stechly, S Kambhampati.*<br>
+arXiv:2409.13373.
 
 ### 📖Agent
 
@@ -776,11 +833,9 @@ ArXiv, 2023.
 
 ### 📖EmbodiedAI
 
-**Sqa3d: Situated question answering in 3d scenes.**<br>
-*X Ma, S Yong, Z Zheng, Q Li, Y Liang, SC Zhu, S Huang.*<br>
-ICLR, 2023.
-[[ArXiv](https://arxiv.org/pdf/2210.07474)]
-[[Homepage](https://sqa3d.github.io/)]
+**Artificial-General-Intelligence-Testing-Resources.**<br>
+*Resources for AGI & Embodied AI (EAI) Testing.*<br>
+[[Github](https://github.com/AI-TestBot/Artificial-General-Intelligence-Testing-Resources)]
 
 ## 📖Security
 
