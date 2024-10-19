@@ -791,6 +791,12 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2302.09432.pdf)]
 [[Github](https://github.com/ssymmetry/BBT-FinCUGE-Applications)]
 
+**CFBenchmark: Chinese financial assistant benchmark for large language model.**<br>
+*Y Lei, J Li, M Jiang, J Hu, D Cheng, Z Ding, C Jiang.*<br>
+arXiv:2311.05812, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.05812)]
+[[Github](https://github.com/TongjiFinLab/CFBenchmark)]
+
 **FinanceBench: A New Benchmark for Financial Question Answering.**<br>
 *Pranab Islam, Anand Kannappan, Douwe Kiela, Rebecca Qian, Nino Scherrer, Bertie Vidgen.*<br>
 ArXiv, 2023.
@@ -1065,14 +1071,6 @@ arXiv:2310.09617, 2023.
 arXiv:2308.12241, 2023.
 [[Paper](https://arxiv.org/pdf/2308.12241)]
 
-### 📖Robot
-
-**LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic Tabletop Manipulation.**<br>
-*S Zhang, P Wicke, LK Şenel, L Figueredo, A Naceri, S Haddadin, B Plank, H Schütze.*<br>
-arxiv:2310.12020, 2023.
-[[ArXiv](https://arxiv.org/pdf/2310.12020)]
-[[Github](https://cisnlp.github.io/lohoravens-webpage/)]
-
 ### 📖Game
 
 **Gameeval: Evaluating llms on conversational games.**<br>
@@ -1086,6 +1084,12 @@ arXiv:2308.10032, 2023.
 NeurIPS 2023 Foundation Models for Decision Making Workshop, 2023.
 [[Paper](https://openreview.net/pdf?id=ltUrSryS0K)]
 [[Github](https://github.com/jonathanmli/Avalon-LLM)]
+
+### 📖Robot
+
+**Artificial-General-Intelligence-Testing-Resources.**<br>
+*Resources for AGI & Embodied AI (EAI) Testing.*<br>
+[[Github](https://github.com/AI-TestBot/Artificial-General-Intelligence-Testing-Resources)]
 
 ## 📖Human-Machine-Interaction
 
