@@ -1172,7 +1172,7 @@ arXiv:2406.14903, 2024.
 
 ## 📖Performance-Cost 
 
-### Model-Compression
+### 📖Model-Compression
 
 **A Comprehensive Evaluation of Quantization Strategies for Large Language Models.**<br>
 *M Zhang, X Pan, M Yang.*<br>
@@ -1184,14 +1184,14 @@ ACL, 2024.
 arxiv:2406.12928, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.12928)]
 
-### Edge-Model
+### 📖Edge-Model
 
 **MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases.**<br>
 *R Murthy, L Yang, J Tan, TM Awalgaonkar, Y Zhou, S Heinecke, S Desai, J Wu, R Xu, S Tan, et al.*<br>
 arxiv:2406.10290, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.10290)]
 
-### Carbon-Emission
+### 📖Carbon-Emission
 
 **OpenCarbonEval: A Unified Carbon Emission Estimation Framework in Large-Scale AI Models.**<br>
 *Z Yu, Y Wu, Z Deng, Y Tang, XP Zhang.*<br>
