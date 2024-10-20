@@ -815,11 +815,11 @@ WSDM, 2024.
 
 ### 📖Code-Assistant
 
-**Measuring coding challenge competence with apps.**<br>
-*D Hendrycks, S Basart, S Kadavath, M Mazeika, et al.*<br>
-ArXiv, 2021.
-[[ArXiv](https://arxiv.org/pdf/2105.09938)]
-[[Github](https://github.com/hendrycks/apps)]
+|Date|Task|Title|Paper|HomePage|Github|DataSets|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2021| Software | [HumanEval] Evaluating large language models trained on code.|[[ArXiv]](https://arxiv.org/pdf/2107.03374) |-|[[Github]](https://github.com/openai/human-eval)|-|
+|2021| Software | [APPS] Measuring coding challenge competence with apps.|[[ArXiv]](https://arxiv.org/pdf/2105.09938) |-|[[Github]](https://github.com/hendrycks/apps)|-|
+|2021| Software | [MBPP] Program synthesis with large language models.|[[ArXiv]](https://arxiv.org/pdf/2108.07732) |-|[[Github]](https://github.com/google-research/google-research/tree/master/mbpp)|-|
 
 ### 📖Office-Assistant
 
