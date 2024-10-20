@@ -817,9 +817,19 @@ WSDM, 2024.
 
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2021| Software | [Codexglue] Codexglue: A machine learning benchmark dataset for code understanding and generation.|[[ArXiv]](https://arxiv.org/pdf/2102.04664) |-|[[Github]](https://github.com/microsoft/CodeXGLUE)|-|
 |2021| Software | [HumanEval] Evaluating large language models trained on code.|[[ArXiv]](https://arxiv.org/pdf/2107.03374) |-|[[Github]](https://github.com/openai/human-eval)|-|
 |2021| Software | [APPS] Measuring coding challenge competence with apps.|[[ArXiv]](https://arxiv.org/pdf/2105.09938) |-|[[Github]](https://github.com/hendrycks/apps)|-|
 |2021| Software | [MBPP] Program synthesis with large language models.|[[ArXiv]](https://arxiv.org/pdf/2108.07732) |-|[[Github]](https://github.com/google-research/google-research/tree/master/mbpp)|-|
+|2021| Software | [ClassEval] Classeval: A manually-crafted benchmark for evaluating llms on class-level code generation.|[[ArXiv]](https://arxiv.org/pdf/2308.01861) |-|[[Github]](https://github.com/FudanSELab/ClassEval)|-|
+|2023| Software | [Codescope] Codescope: An execution-based multilingual multitask multidimensional benchmark for evaluating llms on code understanding and generation.|[[ArXiv]](https://arxiv.org/pdf/2311.08588) |-|[[Github]](https://github.com/WeixiangYAN/CodeScope)|-|
+|2023| Software | [StudentEval] StudentEval: a benchmark of student-written prompts for large language models of code.|[[ArXiv]](https://arxiv.org/pdf/2306.04556) |-|-|-|
+|2023| Software | Testing LLMs on Code Generation with Varying Levels of Prompt Specificity.|[[ArXiv]](https://arxiv.org/pdf/2311.07599) |-|[[Github]](https://arxiv.org/pdf/github.com/murrlincoln/SWE-AI-Mini-Research)|-|
+|2023| Software | Text-to-sql empowered by large language models: A benchmark evaluation.|[[ArXiv]](https://arxiv.org/pdf/2308.15363) |-|[[Github]](https://github.com/taoyds/test-suite-sql-eval)|-|
+|2024| Software | Competition-Level Problems are Effective LLM Evaluators.|[[ACL]](https://aclanthology.org/2024.findings-acl.803.pdf) |[[Homepage]](https://x.com/keirp1/status/1724518513874739618)|-|-|
+|2024| Software | Benchmarking the text-to-sql capability of large language models: A comprehensive evaluation.|[[ArXiv]](https://arxiv.org/pdf/2403.02951) |-|-|-|
+|2024| Software | Livecodebench: Holistic and contamination free evaluation of large language models for code.|[[ArXiv]]([https://arxiv.org/pdf/2403.02951](https://arxiv.org/pdf/2403.07974)) |-|[[Github]](https://livecodebench.github.io/)|-|
+|2024| Software | Codereval: A benchmark of pragmatic code generation with generative pre-trained models.|[[ICSE]](https://arxiv.org/pdf/2302.00288) |-|-|-|
 
 ### 📖Office-Assistant
 
