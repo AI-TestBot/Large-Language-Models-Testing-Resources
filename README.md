@@ -1406,11 +1406,30 @@ arXiv:2405.12843, 2024.
 
 ### 📖NLG-Evaluation
 
-**JudgeLM: Fine-tuned Large Language Models are Scalable Judges.**<br>
-*L Zhu, X Wang, X Wang.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2310.17631.pdf)]
-[[Github](https://github.com/baaivision/JudgeLM)]
+**Are large language model-based evaluators the solution to scaling up multilingual evaluation?**<br>
+*R Hada, V Gumma, A de Wynter, H Diddee, M Ahmed, M Choudhury, K Bali, S Sitaram.*<br>
+arXiv:2309.07462, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.07462)]
+
+**Automated evaluation of personalized text generation using large language models.**<br>
+*Y Wang, J Jiang, M Zhang, C Li, Y Liang, Q Mei, M Bendersky.*<br>
+arXiv:2310.11593, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.11593)]
+
+**Calibrating LLM-Based Evaluator.**<br>
+*Y Liu, T Yang, S Huang, Z Zhang, H Huang, et al.*<br>
+arXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.13308)]
+
+**Can large language models be an alternative to human evaluations?**<br>
+*CH Chiang, H Lee.*<br>
+arXiv:2305.01937, 2023.
+[[ArXiv](https://arxiv.org/pdf/2305.01937)]
+
+**Chateval: Towards better llm-based evaluators through multi-agent debate.**<br>
+*CM Chan, W Chen, Y Su, J Yu, W Xue, S Zhang, J Fu, Z Liu.*<br>
+arXiv:2308.07201, 2023.
+[[ArXiv](https://openreview.net/pdf?id=FQepisCUWu)]
 
 **CRITIQUELLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation.**<br>
 *P Ke, B Wen, Z Feng, X Liu, X Lei, J Cheng, S Wang, A Zeng, Y Dong, H Wang, J Tang, and et al.*<br>
@@ -1418,7 +1437,131 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.18702.pdf)]
 [[Github](https://github.com/thu-coai/CritiqueLLM)]
 
+**Generative judge for evaluating alignment.**<br>
+*J Li, S Sun, W Yuan, RZ Fan, H Zhao, P Liu.*<br>
+arxiv:2310.05470, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.05470)]
+
+**G-eval: Nlg evaluation using gpt-4 with better human alignment.**<br>
+*Y Liu, D Iter, Y Xu, S Wang, R Xu, C Zhu.*<br>
+arxiv:2303.16634, 2023.
+[[ArXiv](https://arxiv.org/pdf/2303.16634)]
+
+**G-eval: Nlg evaluation using gpt-4 with better human alignment.**<br>
+*Y Liu, D Iter, Y Xu, S Wang, R Xu, C Zhu.*<br>
+arxiv:2303.16634, 2023.
+[[ArXiv](https://arxiv.org/pdf/2303.16634)]
+
+**JudgeLM: Fine-tuned Large Language Models are Scalable Judges.**<br>
+*L Zhu, X Wang, X Wang.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.17631.pdf)]
+[[Github](https://github.com/baaivision/JudgeLM)]
+
+**Prd: Peer rank and discussion improve large language model based evaluations.**<br>
+*R Li, T Patel, X Du.*<br>
+arxiv:2307.02762, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.02762)]
+[[Github](https://bcdnlp.github.io/PR_LLM_EVAL/)]
+
+**Split and merge: Aligning position biases in large language model based evaluators.**<br>
+*Z Li, C Wang, P Ma, D Wu, S Wang, C Gao, et al.*<br>
+arxiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.01432)]
+
+**Wider and deeper llm networks are fairer llm evaluators.**<br>
+*X Zhang, B Yu, H Yu, Y Lv, T Liu, F Huang, H Xu, Y Li.*<br>
+arxiv:2308.01862, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.01862)]
+
+**Large Language Models are not Fair Evaluators.**<br>
+*P Wang, L Li, L Chen, Z Cai, D Zhu, B Lin, Y Cao, Q Liu, T Liu, Z Sui.*<br>
+ACL, 2024.
+[[ArXiv](https://arxiv.org/pdf/2305.17926)]
+
+**Aligning with human judgement: The role of pairwise preference in large language model evaluators.**<br>
+*Y Liu, H Zhou, Z Guo, E Shareghi, I Vulic, A Korhonen, N Collier.*<br>
+arxiv:2403.16950, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.16950)]
+
+**An empirical study of llm-as-a-judge for llm evaluation: Fine-tuned judge models are task-specific classifiers.**<br>
+*H Huang, Y Qu, J Liu, M Yang, T Zhao.*<br>
+arxiv:2403.02839, 2024.
+[[ArXiv](https://arxiv.org/pdf/2403.02839)]
+
+**Length-controlled alpacaeval: A simple way to debias automatic evaluators.**<br>
+*Y Dubois, B Galambosi, P Liang, TB Hashimoto.*<br>
+arxiv:2404.04475, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.04475)]
+
+**Leveraging large language models for nlg evaluation: A survey.**<br>
+*Z Li, X Xu, T Shen, C Xu, JC Gu, C Tao.*<br>
+arxiv:2401.07103, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.07103)]
+
+**Peer-review-in-LLMs: Automatic Evaluation Method for LLMs in Open-environment.**<br>
+*KP Ning, S Yang, YY Liu, JY Yao, ZH Liu, Y Wang, M Pang, L Yuan.*<br>
+arxiv:2402.01830, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.01830)]
+
+**Pre: A peer review based large language model evaluator.**<br>
+*Z Chu, Q Ai, Y Tu, H Li, Y Liu.*<br>
+arxiv:2401.15641, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.15641)]
+
+**Prometheus 2: An open source language model specialized in evaluating other language models.**<br>
+*S Kim, J Suk, S Longpre, BY Lin, J Shin, S Welleck, G Neubig, M Lee, K Lee, M Seo.*<br>
+arxiv:2405.01535, 2024.
+[[ArXiv](https://arxiv.org/pdf/2405.01535)]
+
+**The Critique of Critique.**<br>
+*S Sun, et al.*<br>
+arXiv:2401.04518v1.
+
+**Evaluating large language models at evaluating instruction following.**<br>
+*Z Zeng, J Yu, T Gao, Y Meng, T Goyal, D Chen.*<br>
+ICLR, 2024.
+[[ArXiv](https://arxiv.org/pdf/2310.07641)]
+
+**Flask: Fine-grained language model evaluation based on alignment skill sets.**<br>
+*S Ye, D Kim, S Kim, H Hwang, S Kim, Y Jo, J Thorne, J Kim, M Seo.*<br>
+ICLR, 2024.
+[[ArXiv](https://arxiv.org/pdf/2307.10928)]
+
+**Benchmarking foundation models with language-model-as-an-examiner.**<br>
+*Y Bai, J Ying, Y Cao, X Lv, Y He, X Wang, J Yu, K Zeng, Y **ao, H Lyu, J Zhang, J Li, L Hou.*<br>
+Advances in Neural Information Processing Systems, 2024.
+[[ArXiv](https://proceedings.neurips.cc/paper_files/paper/2023/file/f64e55d03e2fe61aa4114e49cb654acb-Paper-Datasets_and_Benchmarks.pdf)]
+
+### 📖Accurate-Testing
+
+**Efficiently measuring the cognitive ability of llms: An adaptive testing perspective.**<br>
+*Y Zhuang, Q Liu, Y Ning, W Huang, R Lv, Z Huang, G Zhao, Z Zhang, Q Mao, S Wang, et al.*<br>
+arxiv:2306.10512, 2023.
+[[ArXiv](https://arxiv.org/pdf/2306.10512)]
+
+**AutoDetect: Towards a Unified Framework for Automated Weakness Detection in Large Language Models.**<br>
+*J Cheng, Y Lu, X Gu, P Ke, X Liu, Y Dong, H Wang, J Tang, M Huang.*<br>
+arXiv:2406.16714, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.16714)]
+[[Github](https://github.com/thu-coai/AutoDetect)]
+
+**tinyBenchmarks: evaluating LLMs with fewer examples.**<br>
+*FM Polo, L Weber, L Choshen, Y Sun, G Xu, et al.*<br>
+arXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.14992)]
+[[Github](https://github.com/felipemaiapolo/tinyBenchmarks)]
+
 ### 📖Dynamic-Testing
+
+**Dynabench Rethinking Benchmarking in NLP.**<br>
+*Douwe Kiela, et al.*<br>
+arXiv, 2021.
+
+**Beyond static datasets: A deep interaction approach to llm evaluation.**<br>
+*J Li, R Li, Q Liu, et al.*<br>
+arXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.04369)]
 
 **LLMEval: A Preliminary Study on How to Evaluate Large Language Models.**<br>
 *Y Zhang, M Zhang, H Yuan, S Liu, Y Shi, T Gui, Q Zhang, X Huang.*<br>
@@ -1427,18 +1570,15 @@ Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29934/31632)]
 [[Github](https://github.com/llmeval/)]
 
-**TinyBenchmarks: evaluating LLMs with fewer examples.**<br>
-*FM Polo, L Weber, L Choshen, Y Sun, G Xu, M Yurochkin.*<br>
-arXiv:2402.14992, 2024.
-[[Paper](https://arxiv.org/html/2402.14992v1)]
+**Have Seen Me Before Automating Dataset Updates Towards Reliable and Timely Evaluation.**<br>
+*Jiahao Ying, et al.*<br>
+arXiv:2402.11894v2, 2024.
 
-### 📖Accurate-Testing
-
-**AutoDetect: Towards a Unified Framework for Automated Weakness Detection in Large Language Models.**<br>
-*J Cheng, Y Lu, X Gu, P Ke, X Liu, Y Dong, H Wang, J Tang, M Huang.*<br>
-arXiv:2406.16714, 2024.
-[[ArXiv](https://arxiv.org/pdf/2406.16714)]
-[[Github](https://github.com/thu-coai/AutoDetect)]
+**Livebench: A challenging, contamination-free llm benchmark.**<br>
+*C White, S Dooley, M Roberts, A Pal, B Feuer, et al.*<br>
+arXiv, 2024.
+[[HomePage](https://livebench.ai/)]
+[[Paper](https://arxiv.org/pdf/2406.19314)]
 
 ### 📖Human-Interaction-Testing
 
