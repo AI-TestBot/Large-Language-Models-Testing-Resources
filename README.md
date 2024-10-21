@@ -70,6 +70,7 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
    * 📖[Dynamic-Testing](#Dynamic-Testing)
    * 📖[Accurate-Testing](#Accurate-Testing)
    * 📖[Human-Interaction-Testing](#Human-Interaction-Testing)
+   * 📖[Others](#Others)
 * 📖[Testing-Tools](#Testing-Tools)
 * 📖[Challenges](#Challenges)
    * 📖[Contamination](#Contamination)
@@ -595,11 +596,11 @@ Proceedings of the 2023 Conference on Empirical Methods in Natural Language, 202
 
 ### 📖Robust
 
-**Promptbench: Towards evaluating the robustness of large language models on adversarial prompts.**<br>
-*K Zhu, J Wang, J Zhou, Z Wang, H Chen, Y Wang, L Yang, W Ye, Y Zhang, NZ Gong, X **e.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2306.04528)]
-[[Github](https://github.com/microsoft/promptbench)]
+**RobustQA: Benchmarking the robustness of domain adaptation for open-domain question answering.**<br>
+*R Han, P Qi, Y Zhang, L Liu, J Burger, WY Wang, Z Huang, B **ang, D Roth.*<br>
+Findings of the Association for Computational Linguistics: ACL 2023, 2023.
+[[ArXiv](https://aclanthology.org/2023.findings-acl.263.pdf)]
+[[Github](https://github.com/rujunhan/RobustQA-data)]
 
 **Are Large Language Models Really Robust to Word-Level Perturbations?**<br>
 *H Wang, G Ma, C Yu, N Gui, L Zhang, Z Huang, S Ma, Y Chang, S Zhang, L Shen, X Wang, et al.*<br>
@@ -613,11 +614,43 @@ arxiv:2305.10235, 2023.
 [[ArXiv](https://arxiv.org/pdf/2305.10235)]
 [[Github](https://github.com/yyy01/LLMRiskEval_RCC)]
 
+**Evaluating the Instruction-Following Robustness of Large Language Models to Prompt Injection.**<br>
+*Zekun Li, et al.*<br>
+arXiv:2308.10819v2, 2023.
+
+**Intuitive or Dependent Investigating LLMs' Robustness to Conflicting Prompts.**<br>
+*J Ying, Y Cao, K **ong, Y He, L Cui, Y Liu.*<br>
+arxiv:2309.17415, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.17415)]
+
+**Promptbench: Towards evaluating the robustness of large language models on adversarial prompts.**<br>
+*K Zhu, J Wang, J Zhou, Z Wang, H Chen, Y Wang, L Yang, W Ye, Y Zhang, NZ Gong, X **e.*<br>
+ArXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2306.04528)]
+[[Github](https://github.com/microsoft/promptbench)]
+
 **Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting.**<br>
 *M Sclar, Y Choi, Y Tsvetkov, A Suhr.*<br>
 arxiv:2310.11324, 2023.
 [[ArXiv](https://arxiv.fropet.com/pdf/2310.11324)]
 [[Github](https://github.com/msclar/formatspread)]
+
+**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models.**<br>
+*Y Liu, T Cong, Z Zhao, M Backes, Y Shen, Y Zhang.*<br>
+arxiv:2308.07847, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.07847)]
+
+**Robut: A systematic study of table qa robustness against human-annotated adversarial perturbations.**<br>
+*Y Zhao, C Zhao, L Nan, Z Qi, W Zhang, X Tang, B Mi, D Radev.*<br>
+arxiv:2306.14321, 2023.
+[[ArXiv](https://arxiv.org/pdf/2306.14321)]
+[[Github](https://github.com/yilunzhao/RobuT)]
+
+**Revisit input perturbation problems for llms: A unified robustness evaluation framework for noisy slot filling task.**<br>
+*G Dong, J Zhao, T Hui, D Guo, W Wang, B Feng, Y Qiu, Z Gongque, K He, Z Wang, W Xu.*<br>
+CCF International Conference on Natural Language Processing and Chinese Computing, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.06504)]
+[[Github](https://github.com/dongguanting/Noise-Slot-Filling-LLM)]
 
 ## 📖Application
 
@@ -1540,11 +1573,27 @@ Advances in Neural Information Processing Systems, 2024.
 arxiv:2306.10512, 2023.
 [[ArXiv](https://arxiv.org/pdf/2306.10512)]
 
+**Large language model routing with benchmark datasets.**<br>
+*T Shnitzer, A Ou, M Silva, K Soule, Y Sun, et al.*<br>
+arxiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.15789)]
+
 **AutoDetect: Towards a Unified Framework for Automated Weakness Detection in Large Language Models.**<br>
 *J Cheng, Y Lu, X Gu, P Ke, X Liu, Y Dong, H Wang, J Tang, M Huang.*<br>
 arXiv:2406.16714, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.16714)]
 [[Github](https://github.com/thu-coai/AutoDetect)]
+
+**Efficient benchmarking (of language models).**<br>
+*Y Perlitz, E Bandel, A Gera, O Arviv, L Ein-Dor, E Shnarch, N Slonim, M Shmueli-Scheuer, et al.*<br>
+arxiv:2308.11696, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.11696)]
+
+**MixEval Deriving Wisdom of the Crowd from LLM Benchmark Mixtures.**<br>
+*J Ni, F Xue, X Yue, Y Deng, M Shah, K Jain, et al.*<br>
+arXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.06565)]
+[[Github](https://mixeval.github.io/)]
 
 **tinyBenchmarks: evaluating LLMs with fewer examples.**<br>
 *FM Polo, L Weber, L Choshen, Y Sun, G Xu, et al.*<br>
@@ -1583,7 +1632,7 @@ arXiv, 2024.
 ### 📖Human-Interaction-Testing
 
 **Beyond static datasets: A deep interaction approach to llm evaluation.**<br>
-*J Li, R Li, Q Liu .*<br>
+*J Li, R Li, Q Liu.*<br>
 arXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2309.04369)]
 
@@ -1591,6 +1640,17 @@ arXiv, 2023.
 *L Ibrahim, S Huang, L Ahmad, M Anderljung.*<br>
 arXiv:2405.10632, 2024.
 [[ArXiv](https://arxiv.org/pdf/2405.10632)]
+
+### 📖Others
+
+**Branch-solve-merge improves large language model evaluation and generation.**<br>
+*Swarnadeep Saha, et al.*<br>
+arXiv:2310.15123v1, 2023.
+
+**Evaluating general-purpose ai with psychometrics.**<br>
+*X Wang, L Jiang, J Hernandez-Orallo, D Stillwell, L Sun, F Luo, X **e.*<br>
+arxiv:2310.16379, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.16379)]
 
 ## 📖Testing-Tools
 
