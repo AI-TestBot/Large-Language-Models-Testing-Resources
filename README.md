@@ -205,6 +205,7 @@ arXiv:2311.05374, 2023.
 |2022| Comprehensive | Beyond the imitation game: Quantifying and extrapolating the capabilities of language models.|[[ArXiv]](https://arxiv.org/pdf/2206.04615) |-|-|-|
 |2023| Comprehensive | Arb: Advanced reasoning benchmark for large language models.|[[ArXiv]](https://arxiv.org/pdf/2307.13692) |-|-|-|
 |2023| Comprehensive | Nphardeval: Dynamic benchmark on reasoning ability of large language models via complexity classes.|[[ArXiv]](https://arxiv.org/pdf/2312.14890) |-|[[Github]](https://github.com/casmlab/NPHardEval)|-|
+|2024| Comprehensive | Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study.|[[ArXiv]](https://www.researchgate.net/publication/383429150_Evaluating_Large_Language_Models_on_Spatial_Tasks_A_Multi-Task_Benchmarking_Study) |-|-|-|
 |2012| Commonsense | The winograd schema challenge.|[[AAAI]](https://cdn.aaai.org/ocs/4492/4492-21843-1-PB.pdf) |-|-|-|
 |2018| Commonsense | Commonsenseqa: A question answering challenge targeting commonsense knowledge.|[[ArXiv]](https://arxiv.org/pdf/1811.00937) |-|-|-|
 |2019| Commonsense | Hellaswag Can a machine really finish your sentence.|[[ArXiv]](https://arxiv.org/pdf/1905.07830) |[[Homepage]](https://rowanzellers.com/hellaswag/)|-|-|
