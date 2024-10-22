@@ -220,9 +220,12 @@ arXiv:2311.05374, 2023.
 |2021| Math | Training verifiers to solve math word problems.|[[NeurIPS]](https://arxiv.org/abs/2110.14168) |-|[[Github]](https://github.com/openai/grade_x005f_x0002_school-math)|[[DataSets]](https://huggingface.co/datasets/gsm8k) |
 |2023| Math | Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil Cognitive Depth in LLMs.|[[ArXiv]](https://arxiv.org/pdf/2312.17080) |-|-|[[DataSets]](https://github.com/dvlab-research/MR-GSM8K)|
 |2023| Math | CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?|[[ArXiv]](https://arxiv.org/abs/2306.16636) |-|-|[[DataSets]](https://huggingface.co/datasets/weitianwen/cmath)|
-|2023| Math | TheoremQA: A Theorem-driven Question Answering Dataset.|[[ArXiv]](https://aclanthology.org/2023.emnlp-main.489.pdf)|-|-|-|
 |2023| Math | MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts.|[[ArXiv]](https://arxiv.org/abs/2310.01386) |-|[[Github]](https://github.com/lupantech/MathVista)|[[DataSets]](https://huggingface.co/datasets/AI4Math/MathVista)|
+|2023| Math | TheoremQA: A Theorem-driven Question Answering Dataset.|[[ArXiv]](https://aclanthology.org/2023.emnlp-main.489.pdf)|-|-|-|
 |2024| Math | GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2410.05229?) |-|-|-|
+|2024| Math | MathBench: Evaluating the Theory and Application Proficiency of LLMs with a Hierarchical Mathematics Benchmark.|[[ArXiv]](https://arxiv.org/pdf/2405.12209) |-|[[Github]](https://github.com/open-compass/MathBench)|-|
+|2024| Math | Mustard: Mastering uniform synthesis of theorem and proof data.|[[ArXiv]](https://arxiv.org/pdf/2402.08957) |-|[[Github]](https://github.com/Eleanor-H/MUSTARD)|-|
+|2024| Math | Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2410.07985) |-|[[Github](https://github.com/KbsdJames/Omni-MATH)]|-|
 |2016| Logic | Story cloze evaluator: Vector space representation evaluation by predicting what happens next.|[[ArXiv]](https://aclanthology.org/W16-2505.pdf) |-|-|-|
 |2016| Logic | The LAMBADA dataset: Word prediction requiring a broad discourse context.|[[ArXiv]](https://arxiv.org/pdf/1606.06031) |-|-|-|
 |2023| Logic | RoCar: A Relationship Network-based Evaluation Method to Large Language Models.|[[ArXiv]](https://arxiv.org/pdf/2307.15997)|-|[[Github]](https://github.com/NEU-DataMining/RoCar)|-|
