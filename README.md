@@ -581,22 +581,17 @@ arXiv:2408.10943, 2024.
 
 ### 📖Reliable
 
-**Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models.**<br>
-*C Jiang, W Ye, M Dong, H Jia, H Xu, M Yan, J Zhang, S Zhang.*<br>
-ArXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2402.15721)]
 
-**Uhgeval: Benchmarking the hallucination of chinese large language models via unconstrained generation.**<br>
-*X Liang, S Song, S Niu, Z Li, F Xiong, B Tang, Z Wy, D He, P Cheng, Z Wang, H Deng.*<br>
-arXiv:2311.15296, 2023.
-[[ArXiv](https://arxiv.org/pdf/2311.15296)]
-[[Github](https://iaar-shanghai.github.io/UHGEval/)]
-
-**Halueval: A large-scale hallucination evaluation benchmark for large language models.**<br>
-*J Li, X Cheng, WX Zhao, JY Nie, JR Wen.*<br>
-Proceedings of the 2023 Conference on Empirical Methods in Natural Language, 2023.
-[[Paper](https://aclanthology.org/2023.emnlp-main.397.pdf)]
-[[Github](https://github.com/RUCAIBox/HaluEval)]
+|Date|Task|Title|Paper|HomePage|Github|DataSets|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2022| Hallucination | Truthfulqa: Measuring how models mimic human falsehoods.|[[ArXiv]](https://arxiv.org/pdf/2109.07958) |-|[[Github](https://github.com/sylinrl/TruthfulQA)]|-|
+|2023| Hallucination | Autohall: Automated hallucination dataset generation for large language models.|[[ArXiv]](https://arxiv.org/pdf/2310.00259) |-|-|-|
+|2023| Hallucination | Evaluating hallucinations in chinese large language models.|[[ArXiv]](https://arxiv.org/pdf/2310.03368) |-|[[Github](https://github.com/OpenMOSS/HalluQA)]|-|
+|2023| Hallucination | HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models.|[[ArXiv]](https://www.researchgate.net/publication/375595895_HALLUSIONBENCH_You_See_What_You_Think_Or_You_Think_What_You_See_An_Image-Context_Reasoning_Benchmark_Challenging_for_GPT-4Vision_LLaVA-15_and_Other_Multi-modality_Models) |-|-|[[DataSets](https://drive.google.com/drive/folders/1C_IA5rx_Hm67TYpdNf3TL5VlM30TLGRQ?usp=drive_link)]|
+|2023| Hallucination | Halo: Estimation and reduction of hallucinations in open-source weak large language models.|[[ArXiv]](https://arxiv.org/pdf/2308.11764) |-|[[Github](https://github.com/EngSalem/HaLo)]|-|
+|2023| Hallucination | Halueval: A large-scale hallucination evaluation benchmark for large language models.|[[ArXiv]](https://aclanthology.org/2023.emnlp-main.397.pdf) |-|[[Github](https://github.com/RUCAIBox/HaluEval)]|-|
+|2024| Hallucination | Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models.|[[ArXiv]](https://arxiv.org/pdf/2402.15721) |-|-|-|
+|2024| Hallucination | Uhgeval: Benchmarking the hallucination of chinese large language models via unconstrained generation.|[[ArXiv]](https://arxiv.org/pdf/2311.15296) |-|[[Github](https://iaar-shanghai.github.io/UHGEval/)]|-|
 
 ### 📖Robust
 
