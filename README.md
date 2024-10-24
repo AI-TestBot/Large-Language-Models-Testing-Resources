@@ -949,11 +949,72 @@ arXiv, 2023.
 
 ### 📖Content-Security
 
+**Toxigen: A large-scale machine-generated dataset for adversarial and implicit hate speech detection.**<br>
+*T Hartvigsen, S Gabriel, H Palangi, M Sap, D Ray, E Kamar.*<br>
+arXiv:2203.09509, 2022.
+[[ArXiv](https://arxiv.org/pdf/2203.09509)]
+[[Github](https://github.com/microsoft/ToxiGen)]
+
+**A chinese prompt attack dataset for llms with evil content.**<br>
+*C Liu, F Zhao, L Qing, Y Kang, C Sun, K Kuang, F Wu.*<br>
+arXiv:2309.11830, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.11830)]
+[[Github](https://github.com/liuchengyuan123/CPAD)]
+
+**Control risk for potential misuse of artificial intelligence in science.**<br>
+*J He, W Feng, Y Min, J Yi, K Tang, S Li, J Zhang, K Chen, W Zhou, X Xie, W Zhang, N Yu, et al.*<br>
+arXiv:2312.06632, 2023.
+[[ArXiv](https://arxiv.org/pdf/2312.06632)]
+[[Github](https://github.com/SciMT/SciMT-benchmark)]
+
+**Do-not-answer: A dataset for evaluating safeguards in llms.**<br>
+*Y Wang, H Li, X Han, P Nakov, T Baldwin.*<br>
+arXiv:2308.13387, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.13387)]
+[[Github](https://github.com/Libr-AI/do-not-answer)]
+
+**Examining user-friendly and open-sourced large gpt models: A survey on language, multimodal, and scientific gpt models.**<br>
+*K Gao, S He, Z He, J Lin, QZ Pei, J Shao, W Zhang.*<br>
+arXiv:2308.14149, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.14149)]
+[[Github](https://github.com/GPT-Alternatives/gpt_alternatives)]
+
+**Xstest: A test suite for identifying exaggerated safety behaviours in large language models.**<br>
+*P Röttger, HR Kirk, B Vidgen, G Attanasio, F Bianchi, D Hovy.*<br>
+arXiv:2308.01263, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.01263)]
+[[Github](https://github.com/paul-rottger/exaggerated-safety)]
+
 **JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models.**<br>
 *M Zhang, X Pan, M Yang.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.00286.pdf)]
 [[Github](https://github.com/whitzard-ai/jade-db)]
+
+**CARE-MI: chinese benchmark for misinformation evaluation in maternity and infant care.**<br>
+*T Xiang, L Li, W Li, M Bai, L Wei, B Wang, N Garcia.*<br>
+Advances in Neural Information Processing Systems, 2023.
+[[ArXiv](https://proceedings.neurips.cc/paper_files/paper/2023/file/84062fe53d23e0791c6dbb456783e4a9-Paper-Datasets_and_Benchmarks.pdf)]
+[[Github](https://github.com/Meetyou-AI-Lab/CARE-MI)]
+
+**CPSDBench: A Large Language Model Evaluation Benchmark and Baseline for Chinese Public Security Domain.**<br>
+*X Tong, B Jin, Z Lin, B Wang, T Yu.*<br>
+arXiv:2402.07234, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.07234)]
+
+#### Jailbreak
+
+**Latent jailbreak: A benchmark for evaluating text safety and output robustness of large language models.**<br>
+*H Qiu, S Zhang, A Li, H He, Z Lan.*<br>
+arXiv:2307.08487, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.08487)]
+[[Github](https://github.com/qiuhuachuan/latent-jailbreak)]
+
+**Multilingual jailbreak challenges in large language models.**<br>
+*Y Deng, W Zhang, SJ Pan, L Bing.*<br>
+arXiv:2310.06474, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.06474)]
+[[Github](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs)]
 
 ### 📖Value-Aligement
 
@@ -1520,6 +1581,12 @@ arxiv:2403.16950, 2024.
 *H Huang, Y Qu, J Liu, M Yang, T Zhao.*<br>
 arxiv:2403.02839, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.02839)]
+
+**CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution.**<br>
+*M Cao, A Lam, H Duan, H Liu, S Zhang, K Chen.*<br>
+arXiv:2410.16256, 2024.
+[[ArXiv](https://arxiv.org/pdf/2410.16256)]
+[[Github](https://github.com/open-compass/CompassJudger)]
 
 **Length-controlled alpacaeval: A simple way to debias automatic evaluators.**<br>
 *Y Dubois, B Galambosi, P Liang, TB Hashimoto.*<br>
