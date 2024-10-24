@@ -581,7 +581,6 @@ arXiv:2408.10943, 2024.
 
 ### 📖Reliable
 
-
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2022| Hallucination | Truthfulqa: Measuring how models mimic human falsehoods.|[[ArXiv]](https://arxiv.org/pdf/2109.07958) |-|[[Github](https://github.com/sylinrl/TruthfulQA)]|-|
@@ -1015,6 +1014,11 @@ arXiv:2307.08487, 2023.
 arXiv:2310.06474, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.06474)]
 [[Github](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs)]
+
+**Red teaming chatgpt via jailbreaking: Bias, robustness, reliability and toxicity.**<br>
+*TY Zhuo, Y Huang, C Chen, Z Xing.*<br>
+arXiv:2301.12867, 2023.
+[[ArXiv](https://arxiv.org/pdf/2301.12867)]
 
 ### 📖Value-Aligement
 
