@@ -1057,6 +1057,20 @@ Advances in Neural Information Processing Systems, 2023.
 arXiv:2402.07234, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.07234)]
 
+#### 📖Dialogue
+
+**A benchmark for understanding dialogue safety in mental health support.**<br>
+*H Qiu, T Zhao, A Li, S Zhang, H He, Z Lan.*<br>
+CCF International Conference on Natural Language Processing and Chinese, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.16457)]
+[[Github](https://github.com/qiuhuachuan/DialogueSafety)]
+
+**Cosafe: Evaluating large language model safety in multi-turn dialogue coreference.**<br>
+*E Yu, J Li, M Liao, S Wang, Z Gao, F Mi, L Hongn.*<br>
+arXiv:2406.17626, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.17626)]
+[[Github](https://github.com/ErxinYu/CoSafe-Dataset)]
+
 #### Jailbreak
 
 **Latent jailbreak: A benchmark for evaluating text safety and output robustness of large language models.**<br>
