@@ -1957,6 +1957,19 @@ ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.15043)]
 [[Github](https://github.com/zhuohaoyu/KIEval)]
 
+### 📖Other
+
+**Large language models sensitivity to the order of options in multiple-choice questions.**<br>
+*P Pezeshkpour, E Hruschka.*<br>
+arXiv:2308.11483, 2023.
+[[Paper](https://arxiv.org/pdf/2308.11483)]
+
+**Don't make your llm an evaluation benchmark cheater.**<br>
+*K Zhou, Y Zhu, Z Chen, W Chen, WX Zhao, X Chen, Y Lin, JR Wen, J Han.*<br>
+arXiv:2311.01964, 2023.
+[[Paper](https://arxiv.org/pdf/2311.01964)]
+[[Github](https://github.com/hendrycks/test)]
+
 ## 📖Supported-Elements
 
 ### 📖Organization
