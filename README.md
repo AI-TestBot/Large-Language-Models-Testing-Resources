@@ -7,7 +7,7 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 * 📖[Leaderboard](#Leaderboard)
 * 📖[Review](#Review)
 * 📖[General](#General)
-  * 📖[Comprehensive](#Comprehensive)
+  * 📖[G-Comprehensive](#G-Comprehensive)
   * 📖[Understanding](#Understanding)
   * 📖[Generation](#Generation)
   * 📖[Reasoning](#Reasoning)
@@ -22,7 +22,7 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[Reliable](#Reliable)
   * 📖[Robust](#Robust)
 * 📖[Application](#Application)
-  * 📖[Comprehensive](#Comprehensive)
+  * 📖[A-Comprehensive](#A-Comprehensive)
   * 📖[Chatbot](#Chatbot)
   * 📖[Knowledge-Analysiss](#Knowledge-Analysiss)
   * 📖[Data-Analysis](#Data-Analysiss)
@@ -33,6 +33,7 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[Agent](#Agent)
   * 📖[EmbodiedAI](#EmbodiedAI)
 * 📖[Security](#Security)
+  * 📖[S-Comprehensive](#S-Comprehensive)
   * 📖[Content-Security](#Content-Security)
   * 📖[Value-Aligement](#Value-Aligement)
   * 📖[Model-Security](#Model-Security)
@@ -131,7 +132,7 @@ arXiv:2305.18486, 2023.
 
 ## 📖General
 
-### 📖Comprehensive
+### 📖G-Comprehensive
 
 **Holistic evaluation of language models.**<br>
 *R Bommasani, P Liang, T Lee, et al.*<br>
@@ -658,7 +659,7 @@ CCF International Conference on Natural Language Processing and Chinese Computin
 
 ## 📖Application
 
-### 📖Comprehensive
+### 📖A-Comprehensive
 
 **GAIA: a benchmark for General AI Assistants.**<br>
 *G Mialon, C Fourrier, C Swift, T Wolf, Y LeCun, T Scialom.*<br>
@@ -952,6 +953,55 @@ arXiv, 2023.
 
 ## 📖Security
 
+### 📖S-Comprehensive
+
+**Fft: Towards harmlessness evaluation and analysis for llms with factuality, fairness, toxicity.**<br>
+*S Cui, Z Zhang, Y Chen, W Zhang, T Liu, S Wang, T Liu.*<br>
+arXiv:2311.18580, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.18580)]
+[[Github](https://github.com/cuishiyao96/FFT)]
+
+**Safety assessment of chinese large language models.**<br>
+*H Sun, Z Zhang, J Deng, J Cheng, M Huang.*<br>
+arXiv:2304.10436, 2023.
+[[ArXiv](https://arxiv.org/pdf/2304.10436)]
+[[Github](https://github.com/thu-coai/Safety-Prompts)]
+
+**Safetybench: Evaluating the safety of large language models with multiple choice questions.**<br>
+*Z Zhang, L Lei, L Wu, R Sun, Y Huang, C Long, et al.*<br>
+arXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.07045)]
+[[Github](https://github.com/thu-coai/SafetyBench)]
+
+**Sc-safety: A multi-round open-ended question adversarial safety benchmark for large language models in chinese.**<br>
+*L Xu, K Zhao, L Zhu, H Xue.*<br>
+arXiv:2310.05818, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.05818)]
+[[Github](https://www.cluebenchmarks.com/)]
+
+**Trustgpt: A benchmark for trustworthy and responsible large language models.**<br>
+*Y Huang, Q Zhang, L Sun.*<br>
+arXiv:2306.11507, 2023.
+[[ArXiv](https://arxiv.org/pdf/2306.11507)]
+[[Github](https://github.com/HowieHwong/TrustGPT)]
+
+**Trustworthy llms: a survey and guideline for evaluating large language models' alignment.**<br>
+*Y Liu, Y Yao, JF Ton, X Zhang, R Guo, H Cheng, Y Klochkov, MF Taufiq, H L.*<br>
+arXiv:2308.05374, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.05374)]
+[[Github](https://arxiv.org/pdf/2308.05374)]
+
+**DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models.**<br>
+*B Wang, W Chen, H Pei, C Xie, M Kang, C Zhang, C Xu, Z Xiong, R Dutta, R Schaeffer, et al.*<br>
+NeurIPS, 2023.
+[[ArXiv](https://blogs.qub.ac.uk/digitallearning/wp-content/uploads/sites/332/2024/01/A-comprehensive-Assessment-of-Trustworthiness-in-GPT-Models.pdf)]
+[[Github](https://decodingtrust.github.io/)]
+
+**Towards ai safety: A taxonomy for ai system evaluation.**<br>
+*B Xia, Q Lu, L Zhu, Z Xing.*<br>
+arXiv:2404.05388, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.05388)]
+
 ### 📖Content-Security
 
 **Toxigen: A large-scale machine-generated dataset for adversarial and implicit hate speech detection.**<br>
@@ -1041,6 +1091,12 @@ ArXiv, 2023.
 arXiv:2311.06899, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.06899)]
 [[Github](https://arxiv.org/pdf/2311.06899)]
+
+**CMoralEval: A Moral Evaluation Benchmark for Chinese Large Language Models.**<br>
+*L Yu, Y Leng, Y Huang, S Wu, H Liu, X Ji, et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.09819)]
+[[Github](https://github.com/tjunlp-lab/CMoralEval)]
 
 **Localvaluebench: A collaboratively built and extensible benchmark for evaluating localized value alignment and ethical safety in large language models.**<br>
 *GI Meadows, NWL Lau, EA Susanto, CL Yu, et al.*<br>
