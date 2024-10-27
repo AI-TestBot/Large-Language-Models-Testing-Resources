@@ -24,7 +24,7 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 * 📖[Application](#Application)
   * 📖[Comprehensive](#Comprehensive)
   * 📖[Chatbot](#Chatbot)
-  * 📖[Knowledge-Management](#Knowledge-Management)
+  * 📖[Knowledge-Analysiss](#Knowledge-Analysiss)
   * 📖[Data-Analysis](#Data-Analysiss)
   * 📖[Code-Assistant](#Code-Assistant)
   * 📖[Office-Assistant](#Office-Assistant)
@@ -139,6 +139,12 @@ ArXiv, 2023.
 [[Homepage](https://crfm.stanford.edu/helm/lite/latest/)]
 [[ArXiv](https://arxiv.org/pdf/2211.09110)]
 [[Github](https://github.com/stanford-crfm/helm)]
+
+**Alignbench: Benchmarking chinese alignment of large language models.**<br>
+*X Liu, X Lei, S Wang, Y Huang, Z Feng, B Wen, J Cheng, P Ke, Y Xu, WL Tam, X Zhang, et al.*<br>
+arXiv:2311.18743, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.18743)]
+[[Github](https://arxiv.org/pdf/2311.18743)]
 
 **TencentLLMEval: a hierarchical evaluation of Real-World capabilities for human-aligned LLMs.**<br>
 *S Xie, W Yao, Y Dai, S Wang, D Zhou, L Jin, X Feng, P Wei, Y Lin, Z Hu, D Yu, Z Zhang, et al.*<br>
@@ -723,7 +729,7 @@ arXiv:2406.13340, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.13340)]
 [[Github](https://github.com/amphionspace/SD-Eval)]
 
-### 📖Knowledge-Management
+### 📖Knowledge-Assistant
 
 **Docmath-eval: Evaluating numerical reasoning capabilities of llms in understanding long documents with tabular data.**<br>
 *Y Zhao, Y Long, H Liu, L Nan, L Chen, R Kamoi, Y Liu, X Tang, R Zhang, A Cohan.*<br>
@@ -1022,22 +1028,67 @@ arXiv:2301.12867, 2023.
 
 ### 📖Value-Aligement
 
+#### Value
+
 **Cvalues: Measuring the values of chinese large language models from safety to responsibility.**<br>
 *G Xu, J Liu, M Yan, H Xu, J Si, Z Zhou, P Yi, X Gao, J Sang, R Zhang, J Zhang, C Peng, et al.*<br>
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.09705)]
 [[Github](https://github.com/X-PLUG/CValues)]
 
-**Alignbench: Benchmarking chinese alignment of large language models.**<br>
-*X Liu, X Lei, S Wang, Y Huang, Z Feng, B Wen, J Cheng, P Ke, Y Xu, WL Tam, X Zhang, et al.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2311.18743)]
-[[Github](https://github.com/THUDM/AlignBench)]
+**Flames: Benchmarking value alignment of chinese large language models.**<br>
+*K Huang, X Liu, Q Guo, T Sun, J Sun, Y Wang, Z Zhou, Y Wang, Y Teng, X Qiu, Y Wang, et al.*<br>
+arXiv:2311.06899, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.06899)]
+[[Github](https://arxiv.org/pdf/2311.06899)]
 
 **Localvaluebench: A collaboratively built and extensible benchmark for evaluating localized value alignment and ethical safety in large language models.**<br>
 *GI Meadows, NWL Lau, EA Susanto, CL Yu, et al.*<br>
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2408.01460)]
+
+#### Fairness
+
+**CrowS-pairs: A challenge dataset for measuring social biases in masked language models.**<br>
+*N Nangia, C Vania, R Bhalerao, SR Bowman.*<br>
+arXiv, 2020.
+[[ArXiv](https://arxiv.org/pdf/2010.00133)]
+[[Github](https://github.com/nyu-mll/crows-pairs/)]
+
+**Bold: Dataset and metrics for measuring biases in open-ended language generation.**<br>
+*J Dhamala, T Sun, V Kumar, S Krishna, Y Pruksachatkun, KW Chang, R Gupta.*<br>
+FAccT, 2021.
+[[ArXiv](https://arxiv.org/pdf/2101.11718)]
+[[Github](https://github.com/jwaladhamala/BOLD-Bias-in-open-ended-language-generation)]
+
+**BBQ: A hand-built bias benchmark for question answering.**<br>
+*A Parrish, A Chen, N Nangia, V Padmakumar, J Phang, J Thompson, PM Htut, SR Bowman.*<br>
+ACL, 2022.
+[[ArXiv](https://arxiv.org/pdf/2110.08193)]
+[[Github](https://github.com/nyu-mll/BBQ/tree/main)]
+
+**CBBQ: A chinese bias benchmark dataset curated with human-ai collaboration for large language models.**<br>
+*Y Huang, D Xiong.*<br>
+arXiv:2306.16244, 2023.
+[[ArXiv](https://arxiv.org/pdf/2306.16244)]
+[[Github](https://github.com/YFHuangxxxx/CBBQ)]
+
+**Evaluating and mitigating discrimination in language model decisions.**<br>
+*A Tamkin, A Askell, L Lovitt, E Durmus, N Joseph, S Kravec, K Nguyen, J Kaplan, D Ganguli.*<br>
+arXiv:2312.03689, 2023.
+[[ArXiv](https://arxiv.org/pdf/2312.03689)]
+[[Github](https://huggingface.co/datasets/Anthropic/discrim-eval)]
+
+**Winoqueer: A community-in-the-loop benchmark for anti-lgbtq+ bias in large language models.**<br>
+*VK Felkner, HCH Chang, E Jang, J May.*<br>
+arXiv:2306.15087, 2023.
+[[ArXiv](https://arxiv.org/pdf/2306.15087)]
+[[Github](https://github.com/katyfelkner/winoqueer)]
+
+**A comparative analysis to evaluate bias and fairness across large language models with benchmarks.**<br>
+*MY Chan, SM Wong.*<br>
+arXiv, 2024.
+[[ArXiv](https://files.osf.io/v1/resources/mc762/providers/osfstorage/6605fbedeb56f008458a367a?action=download&direct&version=1)]
 
 ### 📖Model-Security
 
@@ -1060,6 +1111,12 @@ ArXiv, 2024.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.17884)]
 [[Github](http://confaide.github.io/)]
+
+**Llm-pbe: Assessing data privacy in large language models.**<br>
+*Q Li, J Hong, C Xie, J Tan, R Xin, J Hou, X Yin, et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.12787)]
+[[Github](https://llm-pbe.github.io/home)]
 
 ## 📖Industry
 
