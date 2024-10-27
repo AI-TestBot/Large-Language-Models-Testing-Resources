@@ -1850,13 +1850,13 @@ arxiv:2310.16379, 2023.
 [[Github](https://github.com/confident-ai/deepeval)]
 
 **OpenCompass**<br>
-*天秤大模型评测平台*<br>
+*司南大模型评测平台*<br>
 *上海人工智能实验室*<br>
 [[HomePage](https://flageval.baai.ac.cn/#/home)]
 [[Github](https://github.com/FlagOpen/FlagEval)]
 
 **FlagEval**<br>
-*司南大模型评测平台*<br>
+*天秤大模型评测平台*<br>
 *北京智源研究院*<br>
 [[HomePage](https://opencompass.org.cn/home)]
 [[Github](https://github.com/open-compass/OpenCompass/)]
@@ -1914,18 +1914,48 @@ ArXiv, 2024.
 
 ### 📖Contamination
 
+**Clean-eval: Clean evaluation on contaminated large language models.**<br>
+*W Zhu, H Hao, Z He, Y Song, Y Zhang, H Hu, Y Wei, R Wang, H Lu.*<br>
+arXiv:2311.09154, 2023.
+[[Paper](https://arxiv.org/pdf/2311.09154)]
+
+**Data contamination through the lens of time.**<br>
+*M Roberts, H Thakur, C Herlihy, C White, S Dooley.*<br>
+arXiv:2310.10628, 2023.
+[[Paper](https://arxiv.org/pdf/2310.10628)]
+
+**Investigating data contamination in modern benchmarks for large language models.**<br>
+*C Deng, Y Zhao, X Tang, M Gerstein, A Cohan.*<br>
+arXiv:2311.09783, 2023.
+[[Paper](https://arxiv.org/pdf/2311.09783)]
+
+**Nlp evaluation in trouble: On the need to measure llm data contamination for each benchmark.**<br>
+*O Sainz, JA Campos, I García-Ferrero, J Etxaniz, OL de Lacalle, E Agirre.*<br>
+arXiv:2310.18018, 2023.
+[[Paper](https://arxiv.org/pdf/2310.18018)]
+[[Github](https://hitz-zentroa.github.io/lm-contamination/)]
+
+**Rethinking benchmark and contamination for language models with rephrased samples.**<br>
+*S Yang, WL Chiang, L Zheng, JE Gonzalez, I Stoica.*<br>
+arXiv:2311.04850, 2023.
+[[Paper](https://arxiv.org/pdf/2311.04850)]
+[[Github](https://github.com/lm-sys/llm-decontaminator)]
+
+**Task contamination: Language models may not be few-shot anymore.**<br>
+*C Li, J Flanigan.*<br>
+Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29808/31400)]
+
+**Investigating data contamination for pre-training language models.**<br>
+*M Jiang, KZ Liu, M Zhong, R Schaeffer, S Ouyang, J Han, S Koyejo.*<br>
+arXiv:2401.06059, 2024.
+[[Paper](https://arxiv.org/pdf/2401.06059)]
+
 **KIEval: A Knowledge-grounded Interactive Evaluation Framework for Large Language Models.**<br>
 *Z Yu, C Gao, W Yao, Y Wang, W Ye, J Wang, X Xie, Y Zhang, S Zhang.*<br>
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.15043)]
 [[Github](https://github.com/zhuohaoyu/KIEval)]
-
-**LiveBench: A Challenging, Contamination-Free LLM Benchmark.**<br>
-*Colin White, Samuel Dooley, Manley Roberts, Arka Pal.*<br>
-ArXiv, 2024.
-[[Paper](https://livebench.ai/livebench.pdf)]
-[[Homepage](https://livebench.ai/)]
-[[Github](https://github.com/livebench/livebench)]
 
 ## 📖Supported-Elements
 
