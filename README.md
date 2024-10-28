@@ -7,7 +7,7 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
 * 📖[Leaderboard](#Leaderboard)
 * 📖[Review](#Review)
 * 📖[General](#General)
-  * 📖[Comprehensive](#Comprehensive)
+  * 📖[G-Comprehensive](#G-Comprehensive)
   * 📖[Understanding](#Understanding)
   * 📖[Generation](#Generation)
   * 📖[Reasoning](#Reasoning)
@@ -22,9 +22,9 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[Reliable](#Reliable)
   * 📖[Robust](#Robust)
 * 📖[Application](#Application)
-  * 📖[Comprehensive](#Comprehensive)
+  * 📖[A-Comprehensive](#A-Comprehensive)
   * 📖[Chatbot](#Chatbot)
-  * 📖[Knowledge-Management](#Knowledge-Management)
+  * 📖[Knowledge-Analysiss](#Knowledge-Analysiss)
   * 📖[Data-Analysis](#Data-Analysiss)
   * 📖[Code-Assistant](#Code-Assistant)
   * 📖[Office-Assistant](#Office-Assistant)
@@ -33,6 +33,7 @@ Large Language Models (LLMs) Testing Resources: A curated list of Awesome LLMs T
   * 📖[Agent](#Agent)
   * 📖[EmbodiedAI](#EmbodiedAI)
 * 📖[Security](#Security)
+  * 📖[S-Comprehensive](#S-Comprehensive)
   * 📖[Content-Security](#Content-Security)
   * 📖[Value-Aligement](#Value-Aligement)
   * 📖[Model-Security](#Model-Security)
@@ -131,7 +132,7 @@ arXiv:2305.18486, 2023.
 
 ## 📖General
 
-### 📖Comprehensive
+### 📖G-Comprehensive
 
 **Holistic evaluation of language models.**<br>
 *R Bommasani, P Liang, T Lee, et al.*<br>
@@ -139,6 +140,12 @@ ArXiv, 2023.
 [[Homepage](https://crfm.stanford.edu/helm/lite/latest/)]
 [[ArXiv](https://arxiv.org/pdf/2211.09110)]
 [[Github](https://github.com/stanford-crfm/helm)]
+
+**Alignbench: Benchmarking chinese alignment of large language models.**<br>
+*X Liu, X Lei, S Wang, Y Huang, Z Feng, B Wen, J Cheng, P Ke, Y Xu, WL Tam, X Zhang, et al.*<br>
+arXiv:2311.18743, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.18743)]
+[[Github](https://arxiv.org/pdf/2311.18743)]
 
 **TencentLLMEval: a hierarchical evaluation of Real-World capabilities for human-aligned LLMs.**<br>
 *S Xie, W Yao, Y Dai, S Wang, D Zhou, L Jin, X Feng, P Wei, Y Lin, Z Hu, D Yu, Z Zhang, et al.*<br>
@@ -656,7 +663,7 @@ CCF International Conference on Natural Language Processing and Chinese Computin
 
 ## 📖Application
 
-### 📖Comprehensive
+### 📖A-Comprehensive
 
 **GAIA: a benchmark for General AI Assistants.**<br>
 *G Mialon, C Fourrier, C Swift, T Wolf, Y LeCun, T Scialom.*<br>
@@ -727,7 +734,7 @@ arXiv:2406.13340, 2024.
 [[ArXiv](https://arxiv.org/pdf/2406.13340)]
 [[Github](https://github.com/amphionspace/SD-Eval)]
 
-### 📖Knowledge-Management
+### 📖Knowledge-Assistant
 
 **Docmath-eval: Evaluating numerical reasoning capabilities of llms in understanding long documents with tabular data.**<br>
 *Y Zhao, Y Long, H Liu, L Nan, L Chen, R Kamoi, Y Liu, X Tang, R Zhang, A Cohan.*<br>
@@ -950,7 +957,92 @@ arXiv, 2023.
 
 ## 📖Security
 
+### 📖S-Comprehensive
+
+**Fft: Towards harmlessness evaluation and analysis for llms with factuality, fairness, toxicity.**<br>
+*S Cui, Z Zhang, Y Chen, W Zhang, T Liu, S Wang, T Liu.*<br>
+arXiv:2311.18580, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.18580)]
+[[Github](https://github.com/cuishiyao96/FFT)]
+
+**Safety assessment of chinese large language models.**<br>
+*H Sun, Z Zhang, J Deng, J Cheng, M Huang.*<br>
+arXiv:2304.10436, 2023.
+[[ArXiv](https://arxiv.org/pdf/2304.10436)]
+[[Github](https://github.com/thu-coai/Safety-Prompts)]
+
+**Safetybench: Evaluating the safety of large language models with multiple choice questions.**<br>
+*Z Zhang, L Lei, L Wu, R Sun, Y Huang, C Long, et al.*<br>
+arXiv, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.07045)]
+[[Github](https://github.com/thu-coai/SafetyBench)]
+
+**Sc-safety: A multi-round open-ended question adversarial safety benchmark for large language models in chinese.**<br>
+*L Xu, K Zhao, L Zhu, H Xue.*<br>
+arXiv:2310.05818, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.05818)]
+[[Github](https://www.cluebenchmarks.com/)]
+
+**Trustgpt: A benchmark for trustworthy and responsible large language models.**<br>
+*Y Huang, Q Zhang, L Sun.*<br>
+arXiv:2306.11507, 2023.
+[[ArXiv](https://arxiv.org/pdf/2306.11507)]
+[[Github](https://github.com/HowieHwong/TrustGPT)]
+
+**Trustworthy llms: a survey and guideline for evaluating large language models' alignment.**<br>
+*Y Liu, Y Yao, JF Ton, X Zhang, R Guo, H Cheng, Y Klochkov, MF Taufiq, H L.*<br>
+arXiv:2308.05374, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.05374)]
+[[Github](https://arxiv.org/pdf/2308.05374)]
+
+**DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models.**<br>
+*B Wang, W Chen, H Pei, C Xie, M Kang, C Zhang, C Xu, Z Xiong, R Dutta, R Schaeffer, et al.*<br>
+NeurIPS, 2023.
+[[ArXiv](https://blogs.qub.ac.uk/digitallearning/wp-content/uploads/sites/332/2024/01/A-comprehensive-Assessment-of-Trustworthiness-in-GPT-Models.pdf)]
+[[Github](https://decodingtrust.github.io/)]
+
+**Towards ai safety: A taxonomy for ai system evaluation.**<br>
+*B Xia, Q Lu, L Zhu, Z Xing.*<br>
+arXiv:2404.05388, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.05388)]
+
 ### 📖Content-Security
+
+**Toxigen: A large-scale machine-generated dataset for adversarial and implicit hate speech detection.**<br>
+*T Hartvigsen, S Gabriel, H Palangi, M Sap, D Ray, E Kamar.*<br>
+arXiv:2203.09509, 2022.
+[[ArXiv](https://arxiv.org/pdf/2203.09509)]
+[[Github](https://github.com/microsoft/ToxiGen)]
+
+**A chinese prompt attack dataset for llms with evil content.**<br>
+*C Liu, F Zhao, L Qing, Y Kang, C Sun, K Kuang, F Wu.*<br>
+arXiv:2309.11830, 2023.
+[[ArXiv](https://arxiv.org/pdf/2309.11830)]
+[[Github](https://github.com/liuchengyuan123/CPAD)]
+
+**Control risk for potential misuse of artificial intelligence in science.**<br>
+*J He, W Feng, Y Min, J Yi, K Tang, S Li, J Zhang, K Chen, W Zhou, X Xie, W Zhang, N Yu, et al.*<br>
+arXiv:2312.06632, 2023.
+[[ArXiv](https://arxiv.org/pdf/2312.06632)]
+[[Github](https://github.com/SciMT/SciMT-benchmark)]
+
+**Do-not-answer: A dataset for evaluating safeguards in llms.**<br>
+*Y Wang, H Li, X Han, P Nakov, T Baldwin.*<br>
+arXiv:2308.13387, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.13387)]
+[[Github](https://github.com/Libr-AI/do-not-answer)]
+
+**Examining user-friendly and open-sourced large gpt models: A survey on language, multimodal, and scientific gpt models.**<br>
+*K Gao, S He, Z He, J Lin, QZ Pei, J Shao, W Zhang.*<br>
+arXiv:2308.14149, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.14149)]
+[[Github](https://github.com/GPT-Alternatives/gpt_alternatives)]
+
+**Xstest: A test suite for identifying exaggerated safety behaviours in large language models.**<br>
+*P Röttger, HR Kirk, B Vidgen, G Attanasio, F Bianchi, D Hovy.*<br>
+arXiv:2308.01263, 2023.
+[[ArXiv](https://arxiv.org/pdf/2308.01263)]
+[[Github](https://github.com/paul-rottger/exaggerated-safety)]
 
 **JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models.**<br>
 *M Zhang, X Pan, M Yang.*<br>
@@ -958,7 +1050,53 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.00286.pdf)]
 [[Github](https://github.com/whitzard-ai/jade-db)]
 
+**CARE-MI: chinese benchmark for misinformation evaluation in maternity and infant care.**<br>
+*T Xiang, L Li, W Li, M Bai, L Wei, B Wang, N Garcia.*<br>
+Advances in Neural Information Processing Systems, 2023.
+[[ArXiv](https://proceedings.neurips.cc/paper_files/paper/2023/file/84062fe53d23e0791c6dbb456783e4a9-Paper-Datasets_and_Benchmarks.pdf)]
+[[Github](https://github.com/Meetyou-AI-Lab/CARE-MI)]
+
+**CPSDBench: A Large Language Model Evaluation Benchmark and Baseline for Chinese Public Security Domain.**<br>
+*X Tong, B Jin, Z Lin, B Wang, T Yu.*<br>
+arXiv:2402.07234, 2024.
+[[ArXiv](https://arxiv.org/pdf/2402.07234)]
+
+#### 📖Dialogue
+
+**A benchmark for understanding dialogue safety in mental health support.**<br>
+*H Qiu, T Zhao, A Li, S Zhang, H He, Z Lan.*<br>
+CCF International Conference on Natural Language Processing and Chinese, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.16457)]
+[[Github](https://github.com/qiuhuachuan/DialogueSafety)]
+
+**Cosafe: Evaluating large language model safety in multi-turn dialogue coreference.**<br>
+*E Yu, J Li, M Liao, S Wang, Z Gao, F Mi, L Hongn.*<br>
+arXiv:2406.17626, 2024.
+[[ArXiv](https://arxiv.org/pdf/2406.17626)]
+[[Github](https://github.com/ErxinYu/CoSafe-Dataset)]
+
+#### Jailbreak
+
+**Latent jailbreak: A benchmark for evaluating text safety and output robustness of large language models.**<br>
+*H Qiu, S Zhang, A Li, H He, Z Lan.*<br>
+arXiv:2307.08487, 2023.
+[[ArXiv](https://arxiv.org/pdf/2307.08487)]
+[[Github](https://github.com/qiuhuachuan/latent-jailbreak)]
+
+**Multilingual jailbreak challenges in large language models.**<br>
+*Y Deng, W Zhang, SJ Pan, L Bing.*<br>
+arXiv:2310.06474, 2023.
+[[ArXiv](https://arxiv.org/pdf/2310.06474)]
+[[Github](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs)]
+
+**Red teaming chatgpt via jailbreaking: Bias, robustness, reliability and toxicity.**<br>
+*TY Zhuo, Y Huang, C Chen, Z Xing.*<br>
+arXiv:2301.12867, 2023.
+[[ArXiv](https://arxiv.org/pdf/2301.12867)]
+
 ### 📖Value-Aligement
+
+#### Value
 
 **Cvalues: Measuring the values of chinese large language models from safety to responsibility.**<br>
 *G Xu, J Liu, M Yan, H Xu, J Si, Z Zhou, P Yi, X Gao, J Sang, R Zhang, J Zhang, C Peng, et al.*<br>
@@ -966,16 +1104,65 @@ ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2307.09705)]
 [[Github](https://github.com/X-PLUG/CValues)]
 
-**Alignbench: Benchmarking chinese alignment of large language models.**<br>
-*X Liu, X Lei, S Wang, Y Huang, Z Feng, B Wen, J Cheng, P Ke, Y Xu, WL Tam, X Zhang, et al.*<br>
-ArXiv, 2023.
-[[ArXiv](https://arxiv.org/pdf/2311.18743)]
-[[Github](https://github.com/THUDM/AlignBench)]
+**Flames: Benchmarking value alignment of chinese large language models.**<br>
+*K Huang, X Liu, Q Guo, T Sun, J Sun, Y Wang, Z Zhou, Y Wang, Y Teng, X Qiu, Y Wang, et al.*<br>
+arXiv:2311.06899, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.06899)]
+[[Github](https://arxiv.org/pdf/2311.06899)]
+
+**CMoralEval: A Moral Evaluation Benchmark for Chinese Large Language Models.**<br>
+*L Yu, Y Leng, Y Huang, S Wu, H Liu, X Ji, et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.09819)]
+[[Github](https://github.com/tjunlp-lab/CMoralEval)]
 
 **Localvaluebench: A collaboratively built and extensible benchmark for evaluating localized value alignment and ethical safety in large language models.**<br>
 *GI Meadows, NWL Lau, EA Susanto, CL Yu, et al.*<br>
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2408.01460)]
+
+#### Fairness
+
+**CrowS-pairs: A challenge dataset for measuring social biases in masked language models.**<br>
+*N Nangia, C Vania, R Bhalerao, SR Bowman.*<br>
+arXiv, 2020.
+[[ArXiv](https://arxiv.org/pdf/2010.00133)]
+[[Github](https://github.com/nyu-mll/crows-pairs/)]
+
+**Bold: Dataset and metrics for measuring biases in open-ended language generation.**<br>
+*J Dhamala, T Sun, V Kumar, S Krishna, Y Pruksachatkun, KW Chang, R Gupta.*<br>
+FAccT, 2021.
+[[ArXiv](https://arxiv.org/pdf/2101.11718)]
+[[Github](https://github.com/jwaladhamala/BOLD-Bias-in-open-ended-language-generation)]
+
+**BBQ: A hand-built bias benchmark for question answering.**<br>
+*A Parrish, A Chen, N Nangia, V Padmakumar, J Phang, J Thompson, PM Htut, SR Bowman.*<br>
+ACL, 2022.
+[[ArXiv](https://arxiv.org/pdf/2110.08193)]
+[[Github](https://github.com/nyu-mll/BBQ/tree/main)]
+
+**CBBQ: A chinese bias benchmark dataset curated with human-ai collaboration for large language models.**<br>
+*Y Huang, D Xiong.*<br>
+arXiv:2306.16244, 2023.
+[[ArXiv](https://arxiv.org/pdf/2306.16244)]
+[[Github](https://github.com/YFHuangxxxx/CBBQ)]
+
+**Evaluating and mitigating discrimination in language model decisions.**<br>
+*A Tamkin, A Askell, L Lovitt, E Durmus, N Joseph, S Kravec, K Nguyen, J Kaplan, D Ganguli.*<br>
+arXiv:2312.03689, 2023.
+[[ArXiv](https://arxiv.org/pdf/2312.03689)]
+[[Github](https://huggingface.co/datasets/Anthropic/discrim-eval)]
+
+**Winoqueer: A community-in-the-loop benchmark for anti-lgbtq+ bias in large language models.**<br>
+*VK Felkner, HCH Chang, E Jang, J May.*<br>
+arXiv:2306.15087, 2023.
+[[ArXiv](https://arxiv.org/pdf/2306.15087)]
+[[Github](https://github.com/katyfelkner/winoqueer)]
+
+**A comparative analysis to evaluate bias and fairness across large language models with benchmarks.**<br>
+*MY Chan, SM Wong.*<br>
+arXiv, 2024.
+[[ArXiv](https://files.osf.io/v1/resources/mc762/providers/osfstorage/6605fbedeb56f008458a367a?action=download&direct&version=1)]
 
 ### 📖Model-Security
 
@@ -998,6 +1185,12 @@ ArXiv, 2024.
 ArXiv, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.17884)]
 [[Github](http://confaide.github.io/)]
+
+**Llm-pbe: Assessing data privacy in large language models.**<br>
+*Q Li, J Hong, C Xie, J Tan, R Xin, J Hou, X Yin, et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.12787)]
+[[Github](https://llm-pbe.github.io/home)]
 
 ## 📖Industry
 
@@ -1524,6 +1717,12 @@ arxiv:2403.16950, 2024.
 arxiv:2403.02839, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.02839)]
 
+**CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution.**<br>
+*M Cao, A Lam, H Duan, H Liu, S Zhang, K Chen.*<br>
+arXiv:2410.16256, 2024.
+[[ArXiv](https://arxiv.org/pdf/2410.16256)]
+[[Github](https://github.com/open-compass/CompassJudger)]
+
 **Length-controlled alpacaeval: A simple way to debias automatic evaluators.**<br>
 *Y Dubois, B Galambosi, P Liang, TB Hashimoto.*<br>
 arxiv:2404.04475, 2024.
@@ -1669,13 +1868,13 @@ arxiv:2310.16379, 2023.
 [[Github](https://github.com/confident-ai/deepeval)]
 
 **OpenCompass**<br>
-*天秤大模型评测平台*<br>
+*司南大模型评测平台*<br>
 *上海人工智能实验室*<br>
 [[HomePage](https://flageval.baai.ac.cn/#/home)]
 [[Github](https://github.com/FlagOpen/FlagEval)]
 
 **FlagEval**<br>
-*司南大模型评测平台*<br>
+*天秤大模型评测平台*<br>
 *北京智源研究院*<br>
 [[HomePage](https://opencompass.org.cn/home)]
 [[Github](https://github.com/open-compass/OpenCompass/)]
@@ -1733,18 +1932,61 @@ ArXiv, 2024.
 
 ### 📖Contamination
 
+**Clean-eval: Clean evaluation on contaminated large language models.**<br>
+*W Zhu, H Hao, Z He, Y Song, Y Zhang, H Hu, Y Wei, R Wang, H Lu.*<br>
+arXiv:2311.09154, 2023.
+[[Paper](https://arxiv.org/pdf/2311.09154)]
+
+**Data contamination through the lens of time.**<br>
+*M Roberts, H Thakur, C Herlihy, C White, S Dooley.*<br>
+arXiv:2310.10628, 2023.
+[[Paper](https://arxiv.org/pdf/2310.10628)]
+
+**Investigating data contamination in modern benchmarks for large language models.**<br>
+*C Deng, Y Zhao, X Tang, M Gerstein, A Cohan.*<br>
+arXiv:2311.09783, 2023.
+[[Paper](https://arxiv.org/pdf/2311.09783)]
+
+**Nlp evaluation in trouble: On the need to measure llm data contamination for each benchmark.**<br>
+*O Sainz, JA Campos, I García-Ferrero, J Etxaniz, OL de Lacalle, E Agirre.*<br>
+arXiv:2310.18018, 2023.
+[[Paper](https://arxiv.org/pdf/2310.18018)]
+[[Github](https://hitz-zentroa.github.io/lm-contamination/)]
+
+**Rethinking benchmark and contamination for language models with rephrased samples.**<br>
+*S Yang, WL Chiang, L Zheng, JE Gonzalez, I Stoica.*<br>
+arXiv:2311.04850, 2023.
+[[Paper](https://arxiv.org/pdf/2311.04850)]
+[[Github](https://github.com/lm-sys/llm-decontaminator)]
+
+**Task contamination: Language models may not be few-shot anymore.**<br>
+*C Li, J Flanigan.*<br>
+Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/29808/31400)]
+
+**Investigating data contamination for pre-training language models.**<br>
+*M Jiang, KZ Liu, M Zhong, R Schaeffer, S Ouyang, J Han, S Koyejo.*<br>
+arXiv:2401.06059, 2024.
+[[Paper](https://arxiv.org/pdf/2401.06059)]
+
 **KIEval: A Knowledge-grounded Interactive Evaluation Framework for Large Language Models.**<br>
 *Z Yu, C Gao, W Yao, Y Wang, W Ye, J Wang, X Xie, Y Zhang, S Zhang.*<br>
 ArXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.15043)]
 [[Github](https://github.com/zhuohaoyu/KIEval)]
 
-**LiveBench: A Challenging, Contamination-Free LLM Benchmark.**<br>
-*Colin White, Samuel Dooley, Manley Roberts, Arka Pal.*<br>
-ArXiv, 2024.
-[[Paper](https://livebench.ai/livebench.pdf)]
-[[Homepage](https://livebench.ai/)]
-[[Github](https://github.com/livebench/livebench)]
+### 📖Other
+
+**Large language models sensitivity to the order of options in multiple-choice questions.**<br>
+*P Pezeshkpour, E Hruschka.*<br>
+arXiv:2308.11483, 2023.
+[[Paper](https://arxiv.org/pdf/2308.11483)]
+
+**Don't make your llm an evaluation benchmark cheater.**<br>
+*K Zhou, Y Zhu, Z Chen, W Chen, WX Zhao, X Chen, Y Lin, JR Wen, J Han.*<br>
+arXiv:2311.01964, 2023.
+[[Paper](https://arxiv.org/pdf/2311.01964)]
+[[Github](https://github.com/hendrycks/test)]
 
 ## 📖Supported-Elements
 
