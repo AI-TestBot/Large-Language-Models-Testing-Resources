@@ -1712,6 +1712,11 @@ ACL, 2024.
 arxiv:2403.16950, 2024.
 [[ArXiv](https://arxiv.org/pdf/2403.16950)]
 
+**Agent-as-a-Judge: Evaluate Agents with Agents.**<br>
+*M Zhuge, C Zhao, D Ashley, W Wang, D Khizbullin, Y **ong, Z Liu, E Chang, et al.*<br>
+arxiv:2410.10934, 2024.
+[[ArXiv](https://arxiv.org/pdf/2410.10934?)]
+
 **An empirical study of llm-as-a-judge for llm evaluation: Fine-tuned judge models are task-specific classifiers.**<br>
 *H Huang, Y Qu, J Liu, M Yang, T Zhao.*<br>
 arxiv:2403.02839, 2024.
@@ -1998,16 +2003,18 @@ arXiv:2311.01964, 2023.
 
 ### 📖Group
 
-|Category|Name|Organization|HomePage|Github|Scholar|
+|Name|Organization|HomePage|Github|Scholar|Benchmark|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|NLP| Sun Maosun | Tsinghua University | [[homepage]](https://nlp.csai.tsinghua.edu.cn/) |-|[[scholar]](https://so2.cljtscd.com/citations?hl=zh-CN&user=zIgT0HMAAAAJ&view_op=list_works&sortby=pubdate)|
-|NLP| Tang Jie | Tsinghua University | [[homepage]](https://keg.cs.tsinghua.edu.cn/jietang/) |-|[[scholar]](https://scholar.google.com/citations?hl=en&user=n1zDCkQAAAAJ&view_op=list_works&sortby=pubdate)| 
-|NLP| Huang Minlie | Tsinghua University | [[homepage]](https://coai.cs.tsinghua.edu.cn/hml) |-|[[scholar]](https://scholar.google.com/citations?user=mWS1pY4AAAAJ&hl=en&oi=ao)|
-|NLP| Zheng Haitao | Tsinghua University | [[homepage]](https://www.sigs.tsinghua.edu.cn/zht/) |-|[[scholar]](https://so2.typicalgame.com/citations?hl=zh-CN&user=7VPeORoAAAAJ&view_op=list_works&sortby=pubdate)| 
-|NLP| Yewei | Peking University | [[homepage]](http://se.pku.edu.cn/kcl/weiye/) |-|[[scholar]](https://so2.cljtscd.com/citations?hl=zh-CN&user=RgLGFMIAAAAJ&view_op=list_works&sortby=pubdate)|
-|NLP| Qiu Xipeng | Fudan University | [[homepage]](https://xpqiu.github.io/) |-|[[scholar]](https://so2.typicalgame.com/citations?hl=zh-CN&user=Pq4Yp_kAAAAJ&view_op=list_works&sortby=pubdate)|
-|NLP| Xiao Yanghua | Fudan University | [[homepage]](http://kw.fudan.edu.cn/) |-|[[scholar]](https://scholar.google.com/citations?hl=en&user=odFW4FoAAAAJ&view_op=list_works&sortby=pubdate)|
-|NLP| Xiong Deyi | Tianjin University | [[homepage]](https://tjunlp-lab.github.io/) |[[github]](https://github.com/tjunlp-lab)|[[scholar]](https://scholar.google.com/citations?hl=en&user=QPLO3myO5PkC&view_op=list_works&sortby=pubdate)| 
+| Sun Maosun | Tsinghua University | [[homepage]](https://nlp.csai.tsinghua.edu.cn/) |-|[[scholar]](https://so2.cljtscd.com/citations?hl=zh-CN&user=zIgT0HMAAAAJ&view_op=list_works&sortby=pubdate)|-|
+| Tang Jie | Tsinghua University | [[homepage]](https://keg.cs.tsinghua.edu.cn/jietang/) |-|[[scholar]](https://scholar.google.com/citations?hl=en&user=n1zDCkQAAAAJ&view_op=list_works&sortby=pubdate)|-| 
+| Huang Minlie | Tsinghua University | [[homepage]](https://coai.cs.tsinghua.edu.cn/hml) |-|[[scholar]](https://scholar.google.com/citations?user=mWS1pY4AAAAJ&hl=en&oi=ao)|-|
+| Zheng Haitao | Tsinghua University | [[homepage]](https://www.sigs.tsinghua.edu.cn/zht/) |-|[[scholar]](https://so2.typicalgame.com/citations?hl=zh-CN&user=7VPeORoAAAAJ&view_op=list_works&sortby=pubdate)|-| 
+| Yewei | Peking University | [[homepage]](http://se.pku.edu.cn/kcl/weiye/) |-|[[scholar]](https://so2.cljtscd.com/citations?hl=zh-CN&user=RgLGFMIAAAAJ&view_op=list_works&sortby=pubdate)|-|
+| Qiu Xipeng | Fudan University | [[homepage]](https://xpqiu.github.io/) |-|[[scholar]](https://so2.typicalgame.com/citations?hl=zh-CN&user=Pq4Yp_kAAAAJ&view_op=list_works&sortby=pubdate)|-|
+| Xiao Yanghua | Fudan University | [[homepage]](http://kw.fudan.edu.cn/) |-|[[scholar]](https://scholar.google.com/citations?hl=en&user=odFW4FoAAAAJ&view_op=list_works&sortby=pubdate)|-|
+| Xiong Deyi | Tianjin University | [[homepage]](https://tjunlp-lab.github.io/) |[[github]](https://github.com/tjunlp-lab)|[[scholar]](https://scholar.google.com/citations?hl=en&user=QPLO3myO5PkC&view_op=list_works&sortby=pubdate)|-|
+| Chen Kai | Shanghai AI Lab |-|-|[[scholar]](https://so2.typicalgame.com/citations?user=eGD0b7IAAAAJ&hl=zh-CN&oi=sra)|-|
+| Zhang Songyang | Shanghai AI Lab |-|-|[[scholar]](https://so2.typicalgame.com/citations?user=8XQPi7YAAAAJ&hl=zh-CN&oi=ao)|-|
 
 ### 📖Conference
 
