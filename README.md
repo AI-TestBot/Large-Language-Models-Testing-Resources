@@ -2020,6 +2020,11 @@ arXiv:2311.01964, 2023.
 [[Paper](https://arxiv.org/pdf/2311.01964)]
 [[Github](https://github.com/hendrycks/test)]
 
+**Inadequacies of large language model benchmarks in the era of generative artificial intelligence.**<br>
+*TR McIntosh, T Susnjak, N Arachchilage, T Liu, P Watters, MN Halgamuge.*<br>
+arXiv:2402.09880, 2024.
+[[Paper](https://arxiv.org/pdf/2402.09880)]
+
 ## 📖Supported-Elements
 
 ### 📖Organization
