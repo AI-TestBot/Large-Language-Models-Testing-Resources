@@ -152,6 +152,11 @@ arXiv:2311.18743, 2023.
 arXiv:2311.05374, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.05374)]
 
+**Evaluation of openai o1: Opportunities and challenges of agi.**<br>
+*T Zhong, Z Liu, Y Pan, Y Zhang, Y Zhou, S Liang, Z Wu, Y Lyu, P Shu, X Yu, C Cao, H Jiang, et al.*<br>
+arXiv:2409.18486, 2024.
+[[ArXiv](https://arxiv.org/pdf/2409.18486?)]
+
 ### 📖Understanding
 
 |Date|Task|Title|Paper|HomePage|Github|DataSets|
@@ -602,6 +607,7 @@ arXiv:2408.10943, 2024.
 |2024| Hallucination | Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models.|[[ArXiv]](https://arxiv.org/pdf/2402.15721) |-|-|-|
 |2024| Hallucination | HalluDial: A Large-Scale Benchmark for Automatic Dialogue-Level Hallucination Evaluation.|[[ArXiv]](https://arxiv.org/pdf/2406.07070) |-|[[Github](https://github.com/flageval-baai/HalluDial)]|-|
 |2024| Hallucination | HaluEval-Wild: Evaluating Hallucinations of Language Models in the Wild.|[[ArXiv]](https://arxiv.org/pdf/2403.04307) |-|[[Github](https://github.com/HaluEval-Wild/HaluEval-Wild)]|-|
+|2024| Factuality | [Simple-evals ] Measuring short-form factuality in large language models.|[[Paper]](https://cdn.openai.com/papers/simpleqa.pdf) |-|[[Github](https://github.com/openai/simple-evals)]|-|
 
 ### 📖Robust
 
@@ -1093,6 +1099,12 @@ arXiv:2310.06474, 2023.
 *TY Zhuo, Y Huang, C Chen, Z Xing.*<br>
 arXiv:2301.12867, 2023.
 [[ArXiv](https://arxiv.org/pdf/2301.12867)]
+
+**Jailbreakbench: An open robustness benchmark for jailbreaking large language models.**<br>
+*P Chao, E Debenedetti, A Robey, M Andriushchenko, F Croce, V Sehwag, E Dobriban, et al.*<br>
+arXiv:2404.01318, 2024.
+[[ArXiv](https://arxiv.org/pdf/2404.01318)]
+[[Github](https://github.com/JailbreakBench/jailbreakbench)]
 
 ### 📖Value-Aligement
 
@@ -1728,6 +1740,11 @@ arXiv:2410.16256, 2024.
 [[ArXiv](https://arxiv.org/pdf/2410.16256)]
 [[Github](https://github.com/open-compass/CompassJudger)]
 
+**Decompose and Aggregate: A Step-by-Step Interpretable Evaluation Framework.**<br>
+*M Li, Z Liu, S Deng, S Joty, NF Chen, MY Kan.*<br>
+arXiv:2405.15329, 2024.
+[[ArXiv](https://arxiv.org/pdf/2405.15329)]
+
 **Length-controlled alpacaeval: A simple way to debias automatic evaluators.**<br>
 *Y Dubois, B Galambosi, P Liang, TB Hashimoto.*<br>
 arxiv:2404.04475, 2024.
@@ -1753,9 +1770,14 @@ arxiv:2401.15641, 2024.
 arxiv:2405.01535, 2024.
 [[ArXiv](https://arxiv.org/pdf/2405.01535)]
 
+**Self-taught evaluators.**<br>
+*T Wang, I Kulikov, O Golovneva, P Yu, W Yuan, et al.*<br>
+arXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2408.02666?)]
+
 **The Critique of Critique.**<br>
 *S Sun, et al.*<br>
-arXiv:2401.04518v1.
+arXiv:2401.04518v1, 2024.
 
 **Evaluating large language models at evaluating instruction following.**<br>
 *Z Zeng, J Yu, T Gao, Y Meng, T Goyal, D Chen.*<br>
@@ -1857,6 +1879,11 @@ arXiv:2310.15123v1, 2023.
 *X Wang, L Jiang, J Hernandez-Orallo, D Stillwell, L Sun, F Luo, X **e.*<br>
 arxiv:2310.16379, 2023.
 [[ArXiv](https://arxiv.org/pdf/2310.16379)]
+
+**State of what art? a call for multi-prompt llm evaluation.**<br>
+*M Mizrahi, G Kaplan, D Malkin, R Dror, D Shahaf, G Stanovsky.*<br>
+Transactions of the Association for Computational Linguistics, 2024.
+[[TACL](https://watermark.silverchair.com/tacl_a_00681.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0kwggNFBgkqhkiG9w0BBwagggM2MIIDMgIBADCCAysGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM62mTExaLrvwEZPtuAgEQgIIC_D_ZTlyqW-Ti2veQP0_wiEWWNozRJ5Yx-Rs9891vRVNtUrwWdtUE1HC_awJoOvyNzq8r4_QZcVAhKODsHiEDpSmeVMkkIKtOVmLJLidy0WXIKnzfCmUWNCWF7fyqbWX0ETYtiiBBm2dfXtlYufj1OvHDzbfB7Kias4eh7BAipTNmbApoEuReif7Ca1xIegLjRqcw6lyESY_c9rFdUQqmf_FV1i0Ztl3c-TNuL--oG3nA_fTis-TivFCVXRzgdjDI4huhLO5JSUegaij57id0wJvw849mX5Jq94uHUIEptVWnjYKVVnrI8Pk-4UUIBXNtNdiD14QUiF5G9OE3U3yQrC3DsKNXGo8grYwWapW7aEZ_6DY7ww40YlySc3aPaOSYiLUBhzgyS2u1RaGiZ9Bhl0aGXLHX_Apv_vP7VPJ3XwBBc2HMLNqxg4hNrhol81Hzm1w_pEjx5d8lzk67NxlyiWwC-lxtqqbvLL0tjnjrhMy3vUvXPio5Wu93hgqQnt0dVhXk1Nt7g7zd00vOIiS4_kWmd0ReOA7O7my9JG8DyIfoRim8KCIINrs0mW7ATFaXGQj0G_DNZWdhL1oFaTmRBxPbqic0v6VCRF5Qz6bYai8OjQCmqkGCFfzmGAaCPGF5sKzPJ7sLEXBqMdy2CaBnyorxq_7_Dda7pW0jak0PlZPJxkRwQvNmJYzShLzkIuGZWj3qMMQKJKxrLlBoZEVVXuJIbv3sfvH8Wx1IllH1UOl5JyWx9jLFrxrEslbCkj6kDInJhrinGYF5ZhNb1r9p-dYIujKXYf4qkbh0F6YDjqeobNRvhJ6Cc9LWOd3Gp3P6octfItyxLLQHCGbD50X8pdO2T94Se3s1HRsGT7A8RJ2tPy-1bcnPvi8X-OLl7FmacDhOt6WZrTXEAqd_PfZd595mi80hZcL_DG6RqmtFXe_EYKuE0cFBHQ8-MZuzRmIAQxecB6rCeLZnTrIOgA4sBHsfxOS8COxsMpBCbKrdXM-eFC7gO1GZvqf8zzL8)]
 
 ## 📖Testing-Tools
 
