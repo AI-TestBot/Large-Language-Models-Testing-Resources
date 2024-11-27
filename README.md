@@ -359,6 +359,12 @@ arXiv:2303.12528, 2023.
 arXiv:2311.07463, 2023.
 [[ArXiv](https://arxiv.org/pdf/2311.07463)]
 
+**MELA: Multilingual Evaluation of Linguistic Acceptability.**<br>
+*Z Zhang, Y Liu, W Huang, J Mao, R Wang, H Hu.*<br>
+arXiv:2311.09033, 2023.
+[[ArXiv](https://arxiv.org/pdf/2311.09033)]
+[[Github](https://github.com/sjtu-compling/MELA)]
+
 **mSCAN: A Dataset for Multilingual Compositional Generalisation Evaluation.**<br>
 *A Reymond, S Steinert-Threlkeld.*<br>
 Proceedings of the 1st GenBench Workshop on (Benchmarking) Generalisation in NLP, 2023.
@@ -381,12 +387,6 @@ arXiv:2403.03814, 2024.
 arXiv:2405.15638, 2024.
 [[ArXiv](https://arxiv.org/pdf/2405.15638)]
 [[Github](https://github.com/M4U-Benchmark/M4U)]
-
-**MELA: Multilingual Evaluation of Linguistic Acceptability.**<br>
-*Z Zhang, Y Liu, W Huang, J Mao, R Wang, H Hu.*<br>
-arXiv:2311.09033, 2023.
-[[ArXiv](https://arxiv.org/pdf/2311.09033)]
-[[Github](https://github.com/sjtu-compling/MELA)]
 
 ### 📖Long-Context
 
