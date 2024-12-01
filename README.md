@@ -632,6 +632,7 @@ arxiv:2305.10235, 2023.
 **Evaluating the Instruction-Following Robustness of Large Language Models to Prompt Injection.**<br>
 *Zekun Li, et al.*<br>
 arXiv:2308.10819v2, 2023.
+[[ArXiv](https://aclanthology.org/2024.emnlp-main.33.pdf)]
 
 **Intuitive or Dependent Investigating LLMs' Robustness to Conflicting Prompts.**<br>
 *J Ying, Y Cao, K **ong, Y He, L Cui, Y Liu.*<br>
